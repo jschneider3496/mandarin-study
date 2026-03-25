@@ -1,61 +1,59 @@
 # Unit 01 — Introducing Yourself (`自我介绍`)
 
-40 key words (targets). Readings may include a small number of extra simple words; those appear in the daily mini glossary in `reading.md`.
+40 key words (targets). This version is aimed at **difficulty 4 / 10**: still high-frequency, but with more comparison, explanation, and social follow-up.
 
 | # | Word | Pinyin | English | Priority | Type | Tone/Pronunciation note | Usage / Collocations |
 |---:|---|---|---|---|---|---|---|
 | 1 | 你好 | nǐhǎo | hello | ⭐ Core | greeting | 3-3 → often sounds like níhǎo | 你好！ |
-| 2 | 您 | nín | you (polite) | 🟡 Useful | pronoun | often used in 您好 | 您好 |
-| 3 | 我 | wǒ | I / me | ⭐ Core | pronoun | 3rd tone | 我… |
-| 4 | 你 | nǐ | you | ⭐ Core | pronoun | 3rd tone | 你… |
-| 5 | 他 | tā | he / him | ⭐ Core | pronoun | 1st tone | 他… |
-| 6 | 她 | tā | she / her | 🟡 Useful | pronoun | same sound as 他 | 她… |
-| 7 | 叫 | jiào | to be called | ⭐ Core | verb | 4th tone | 我叫… |
-| 8 | 姓 | xìng | surname (to be surnamed) | ⭐ Core | verb/noun | 4th tone | 我姓… |
-| 9 | 名字 | míngzi | name | ⭐ Core | noun | 名(2) + 字(neutral) | 你的名字 |
-| 10 | 是 | shì | to be | ⭐ Core | verb | 4th tone | 我是… |
-| 11 | 不 | bù | not | ⭐ Core | negation | before 4th tone → bú | 不/不是 |
-| 12 | 不是 | bú shì | is not | ⭐ Core | phrase | 不 tone change | 我不是… |
-| 13 | 吗 | ma | question particle | ⭐ Core | particle | neutral tone | …吗？ |
-| 14 | 呢 | ne | (topic/return Q) | 🟡 Useful | particle | neutral tone | 你呢？ |
-| 15 | 的 | de | ’s / of (possessive) | ⭐ Core | particle | neutral tone | 我的/你的 |
-| 16 | 也 | yě | also | ⭐ Core | adverb | 3rd tone | 我也… |
-| 17 | 都 | dōu | all / both | 🟡 Useful | adverb | 1st tone | 我们都… |
-| 18 | 没 | méi | not (past) | 🟡 Useful | negation | 2nd tone | 没去/没看 |
-| 19 | 有 | yǒu | have / there is | ⭐ Core | verb | 3rd tone | 有…/有吗 |
-| 20 | 没有 | méiyǒu | don’t have / there isn’t | ⭐ Core | verb | 2+3 | 没有… |
-| 21 | 在 | zài | at / in / (be doing) | 🟡 Useful | prep/verb | 4th tone | 住在/在这儿 |
-| 22 | 住 | zhù | to live | ⭐ Core | verb | 4th tone | 住在… |
-| 23 | 来 | lái | come | 🟡 Useful | verb | 2nd tone | 从…来 |
-| 24 | 去 | qù | go | 🟡 Useful | verb | 4th tone | 去… |
-| 25 | 从 | cóng | from | 🟡 Useful | prep | 2nd tone | 从…来 |
-| 26 | 到 | dào | to / arrive | 🟡 Useful | verb/prep | 4th tone | 到…/到这儿 |
-| 27 | 哪 | nǎ | which | 🟡 Useful | question word | 3rd tone | 哪个/哪儿 |
-| 28 | 哪儿 | nǎr | where | ⭐ Core | question word | 儿化; often typed 哪儿 | 你住哪儿？ |
-| 29 | 这 | zhè | this | ⭐ Core | demonstrative | 4th tone | 这个/这儿 |
-| 30 | 那 | nà | that | ⭐ Core | demonstrative | 4th tone | 那个/那儿 |
-| 31 | 现在 | xiànzài | now | 🟡 Useful | time | 4+4 | 现在… |
-| 32 | 今天 | jīntiān | today | 🟡 Useful | time | 1+1 | 今天… |
-| 33 | 明天 | míngtiān | tomorrow | 🔵 Situational | time | 2+1 | 明天… |
-| 34 | 几 | jǐ | how many (small) | 🟡 Useful | question word | 3rd tone | 几点/几岁 |
-| 35 | 岁 | suì | years old | 🟡 Useful | noun | 4th tone | 几岁/二十岁 |
-| 36 | 学 | xué | study / learn | 🟡 Useful | verb | 2nd tone | 学中文 |
-| 37 | 学生 | xuésheng | student | 🟡 Useful | noun | 生 neutral | 我是学生 |
-| 38 | 工作 | gōngzuò | work / job | ⭐ Core | noun/verb | 1+4 | 工作很忙 |
-| 39 | 喜欢 | xǐhuan | like | ⭐ Core | verb | 欢 often neutral | 喜欢咖啡 |
-| 40 | 朋友 | péngyou | friend | ⭐ Core | noun | 友 neutral | 好朋友 |
+| 2 | 认识 | rènshi | to know; meet | ⭐ Core | verb | shi neutral | 认识你 |
+| 3 | 自我介绍 | zìwǒ jièshào | self-introduction | 🔵 Situational | noun/verb | 4-3-4-4 | 做自我介绍 |
+| 4 | 叫 | jiào | to be called | ⭐ Core | verb | 4th tone | 我叫… |
+| 5 | 姓 | xìng | surname | ⭐ Core | verb/noun | 4th tone | 我姓… |
+| 6 | 名字 | míngzi | name | ⭐ Core | noun | 字 neutral | 你的名字 |
+| 7 | 介绍 | jièshào | introduce | 🟡 Useful | verb | 4+4 | 介绍朋友 |
+| 8 | 来自 | láizì | to come from | 🟡 Useful | verb | 2+4 | 我来自… |
+| 9 | 从 | cóng | from | 🟡 Useful | prep | 2nd tone | 从…来 |
+| 10 | 住在 | zhù zài | live in | ⭐ Core | phrase | 4 + 4 | 住在… |
+| 11 | 现在 | xiànzài | now | ⭐ Core | time | 4+4 | 现在… |
+| 12 | 目前 | mùqián | at present | 🔵 Situational | time | 4+2 | 目前住在… |
+| 13 | 工作 | gōngzuò | work; job | ⭐ Core | noun/verb | 1+4 | 在…工作 |
+| 14 | 学习 | xuéxí | study | ⭐ Core | verb | 2+2 | 学习中文 |
+| 15 | 专业 | zhuānyè | major; specialty | 🔵 Situational | noun | 1+4 | 我的专业是… |
+| 16 | 兴趣 | xìngqù | interest | 🟡 Useful | noun | 4+4 | 我的兴趣 |
+| 17 | 爱好 | àihào | hobby | 🟡 Useful | noun | 4+4 | 业余爱好 |
+| 18 | 喜欢 | xǐhuan | like | ⭐ Core | verb | 欢 often neutral | 喜欢看书 |
+| 19 | 比较 | bǐjiào | relatively; rather | 🟡 Useful | adv | 3+4 | 比较忙 |
+| 20 | 更 | gèng | even more | 🔵 Situational | adv | 4th tone | 更喜欢 |
+| 21 | 觉得 | juéde | think; feel | ⭐ Core | verb | de neutral | 我觉得… |
+| 22 | 因为 | yīnwèi | because | ⭐ Core | connector | 1+4 | 因为… |
+| 23 | 所以 | suǒyǐ | so | ⭐ Core | connector | 3+3 | 所以… |
+| 24 | 但是 | dànshì | but | ⭐ Core | connector | 4+4 | 但是… |
+| 25 | 还是 | háishi | or; still | 🟡 Useful | connector | 2+4 | 还是… |
+| 26 | 一般 | yìbān | average; generally | 🟡 Useful | adj/adv | 4+1 | 一般来说 |
+| 27 | 经常 | jīngcháng | often | 🟡 Useful | adv | 1+2 | 经常… |
+| 28 | 平时 | píngshí | usually | 🟡 Useful | time | 2+2 | 平时… |
+| 29 | 周末 | zhōumò | weekend | 🟡 Useful | time | 1+4 | 周末做什么 |
+| 30 | 计划 | jìhuà | plan | 🟡 Useful | noun/verb | 4+4 | 有计划 |
+| 31 | 打算 | dǎsuàn | plan to | ⭐ Core | verb | 3+4 | 我打算… |
+| 32 | 以后 | yǐhòu | later; in the future | 🟡 Useful | time | 3+4 | 以后… |
+| 33 | 已经 | yǐjīng | already | 🟡 Useful | adv | 3+1 | 已经…了 |
+| 34 | 还 | hái | still; also | ⭐ Core | adv | 2nd tone | 还在… |
+| 35 | 如果 | rúguǒ | if | 🔵 Situational | connector | 2+3 | 如果… |
+| 36 | 方便 | fāngbiàn | convenient | 🟡 Useful | adj | 1+4 | 方便的话 |
+| 37 | 一起 | yìqǐ | together | 🟡 Useful | adv | 4+3 | 一起吃饭 |
+| 38 | 联系 | liánxì | contact | 🔵 Situational | verb | 2+4 | 保持联系 |
+| 39 | 朋友 | péngyou | friend | ⭐ Core | noun | 友 neutral | 新朋友 |
+| 40 | 同事 | tóngshì | colleague | 🟡 Useful | noun | 2+4 | 我的同事 |
 
 ## Must-say sentences (functional chunks)
 
-Say these out loud (and swap in your own details):
-
-1) 你好！我叫___。你呢？  
-2) 我姓___，叫___。  
-3) 你的名字是什么？  
-4) 你是___人吗？（是/不是）  
-5) 你从哪儿来？我从___来。  
-6) 你住哪儿？我住在___。  
-7) 你今年几岁？我___岁。  
-8) 你是学生吗？我也是学生 / 我工作。  
-9) 我也喜欢___。你喜欢什么？  
-10) 现在你在哪儿？我在___。  
+1) 你好，我来做一个简单的自我介绍。  
+2) 我叫___，姓___，目前住在___。  
+3) 我来自___，但是现在在___工作/学习。  
+4) 我的专业是___，不过我现在更想学习___。  
+5) 平时我比较忙，周末才有时间做自己的爱好。  
+6) 我喜欢___，因为___，所以我经常___。  
+7) 如果你方便的话，我们以后可以一起喝咖啡。  
+8) 我觉得___很有意思，但是___对我来说有点难。  
+9) 这是我的朋友/同事___，我来给你介绍一下。  
+10) 很高兴认识你，希望我们以后可以保持联系。  

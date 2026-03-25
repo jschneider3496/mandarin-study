@@ -5,286 +5,278 @@ Each day includes:
 - Mini glossary (non-key words/phrases)
 - Comprehension checks
 
-## Day 1 🟢 — 第一次见面 (First meeting)
+## Day 1 🟢 — 简单自我介绍 (A fuller first introduction)
 
 ### A) 汉字 → Pinyin → English
 
-**甲：你好！我叫李安，你叫什么名字？**  
-*Jiǎ: Nǐhǎo! Wǒ jiào Lǐ Ān, nǐ jiào shénme míngzi?*  
-Hi! My name is Li An—what’s your name?
+**甲：你好，我来做一个简单的自我介绍。我叫林舟，来自杭州。**  
+*Jiǎ: Nǐhǎo, wǒ lái zuò yí ge jiǎndān de zìwǒ jièshào. Wǒ jiào Lín Zhōu, láizì Hángzhōu.*  
+Hi, let me give a short self-introduction. My name is Lin Zhou, and I’m from Hangzhou.
 
-**乙：你好！我叫王明。我姓王，你呢？**  
-*Yǐ: Nǐhǎo! Wǒ jiào Wáng Míng. Wǒ xìng Wáng, nǐ ne?*  
-Hi! I’m Wang Ming. My surname is Wang—how about you?
+**乙：认识你很高兴。我叫安娜，现在住在上海，不过以前一直住在北京。**  
+*Yǐ: Rènshi nǐ hěn gāoxìng. Wǒ jiào Ānnà, xiànzài zhù zài Shànghǎi, búguò yǐqián yìzhí zhù zài Běijīng.*  
+Nice to meet you. I’m Anna. I live in Shanghai now, but I used to live in Beijing.
 
-**甲：我姓李。你的名字很好听，我很喜欢。**  
-*Jiǎ: Wǒ xìng Lǐ. Nǐ de míngzi hěn hǎotīng, wǒ hěn xǐhuan.*  
-My surname is Li. Your name sounds nice—I like it.
+**甲：原来是这样。你现在是在工作，还是还在学习？**  
+*Jiǎ: Yuánlái shì zhèyàng. Nǐ xiànzài shì zài gōngzuò, háishi hái zài xuéxí?*  
+I see. Are you working now, or still studying?
 
-**乙：谢谢！很高兴认识你，我们以后可以做朋友。**  
-*Yǐ: Xièxie! Hěn gāoxìng rènshi nǐ, wǒmen yǐhòu kěyǐ zuò péngyou.*  
-Thanks! Nice to meet you—maybe we can be friends later on.
+**乙：我已经开始工作了，但是下班以后还会学中文，因为我觉得很有意思。**  
+*Yǐ: Wǒ yǐjīng kāishǐ gōngzuò le, dànshì xiàbān yǐhòu hái huì xué Zhōngwén, yīnwèi wǒ juéde hěn yǒu yìsi.*  
+I’ve already started working, but I still study Chinese after work because I think it’s interesting.
 
 ### B) 汉字 + Pinyin
-甲：你好！我叫李安，你叫什么名字？(Nǐhǎo! Wǒ jiào Lǐ Ān, nǐ jiào shénme míngzi?)  
-乙：你好！我叫王明。我姓王，你呢？(Nǐhǎo! Wǒ jiào Wáng Míng. Wǒ xìng Wáng, nǐ ne?)  
-甲：我姓李。你的名字很好听，我很喜欢。(Wǒ xìng Lǐ. Nǐ de míngzi hěn hǎotīng, wǒ hěn xǐhuan.)  
-乙：谢谢！很高兴认识你，我们以后可以做朋友。(Xièxie! Hěn gāoxìng rènshi nǐ, wǒmen yǐhòu kěyǐ zuò péngyou.)  
+甲：你好，我来做一个简单的自我介绍。我叫林舟，来自杭州。(Nǐhǎo, wǒ lái zuò yí ge jiǎndān de zìwǒ jièshào. Wǒ jiào Lín Zhōu, láizì Hángzhōu.)  
+乙：认识你很高兴。我叫安娜，现在住在上海，不过以前一直住在北京。(Rènshi nǐ hěn gāoxìng. Wǒ jiào Ānnà, xiànzài zhù zài Shànghǎi, búguò yǐqián yìzhí zhù zài Běijīng.)  
+甲：原来是这样。你现在是在工作，还是还在学习？(Yuánlái shì zhèyàng. Nǐ xiànzài shì zài gōngzuò, háishi hái zài xuéxí?)  
+乙：我已经开始工作了，但是下班以后还会学中文，因为我觉得很有意思。(Wǒ yǐjīng kāishǐ gōngzuò le, dànshì xiàbān yǐhòu hái huì xué Zhōngwén, yīnwèi wǒ juéde hěn yǒu yìsi.)  
 
 ### C) 汉字 only
-甲：你好！我叫李安，你叫什么名字？  
-乙：你好！我叫王明。我姓王，你呢？  
-甲：我姓李。你的名字很好听，我很喜欢。  
-乙：谢谢！很高兴认识你，我们以后可以做朋友。  
+甲：你好，我来做一个简单的自我介绍。我叫林舟，来自杭州。  
+乙：认识你很高兴。我叫安娜，现在住在上海，不过以前一直住在北京。  
+甲：原来是这样。你现在是在工作，还是还在学习？  
+乙：我已经开始工作了，但是下班以后还会学中文，因为我觉得很有意思。  
 
 **Mini glossary (non-key)**  
 | Word/Phrase | Pinyin | English |
 |---|---|---|
-| 什么 | shénme | what |
-| 谢谢 | xièxie | thanks |
-| 很 | hěn | very |
-| 高兴 | gāoxìng | happy; glad |
-| 认识 | rènshi | to meet |
-| 以后 | yǐhòu | later; in the future |
-| 可以 | kěyǐ | can; may |
-| 做 | zuò | do; be |
+| 杭州 | Hángzhōu | Hangzhou |
+| 原来 | yuánlái | so that’s how it is |
+| 一直 | yìzhí | all along |
+| 下班 | xiàbān | get off work |
+| 有意思 | yǒu yìsi | interesting |
 
 **Comprehension checks**
-1) 甲叫什么名字？姓什么？  
-2) 乙叫什么名字？姓什么？  
-3) 乙为什么说“以后可以做朋友”？  
+1) 乙现在住在哪儿？以前住在哪儿？  
+2) 乙为什么下班以后还学中文？  
+3) 甲对乙的哪个信息最感兴趣？  
 
-## Day 2 🟢 — 你从哪儿来？你住哪儿？(From + live now)
+## Day 2 🟢 — 现在住哪儿？为什么搬家？(Where do you live now, and why?)
 
 ### A) 汉字 → Pinyin → English
 
-**乙：你是美国人吗？还是从别的地方来？**  
-*Yǐ: Nǐ shì Měiguó rén ma? Háishi cóng bié de dìfang lái?*  
-Are you American, or from somewhere else?
+**甲：你现在一个人住，还是跟朋友一起住？**  
+*Jiǎ: Nǐ xiànzài yí ge rén zhù, háishi gēn péngyou yìqǐ zhù?*  
+Do you live alone now, or with friends?
 
-**甲：我不是美国人，我从中国来，现在住在这儿。**  
-*Jiǎ: Wǒ bú shì Měiguó rén, wǒ cóng Zhōngguó lái, xiànzài zhù zài zhèr.*  
-I’m not American. I’m from China, and I live here now.
+**乙：我现在跟一个同事合住，因为公司离这边比较近，上班方便一点。**  
+*Yǐ: Wǒ xiànzài gēn yí ge tóngshì hézhù, yīnwèi gōngsī lí zhèbiān bǐjiào jìn, shàngbān fāngbiàn yìdiǎn.*  
+I live with a colleague now because the company is closer to this area, so commuting is more convenient.
 
-**乙：你住这儿多久了？我也住这儿，但是是去年来的。**  
-*Yǐ: Nǐ zhù zhèr duōjiǔ le? Wǒ yě zhù zhèr, dànshì shì qùnián lái de.*  
-How long have you lived here? I live here too, but I came last year.
+**甲：听起来不错。你是今年才搬过来的吗？**  
+*Jiǎ: Tīng qǐlái búcuò. Nǐ shì jīnnián cái bān guòlái de ma?*  
+That sounds nice. Did you only move here this year?
 
-**甲：我住这儿不久，今天才认识你。**  
-*Jiǎ: Wǒ zhù zhèr bú jiǔ, jīntiān cái rènshi nǐ.*  
-Not long—I only met you today.
+**乙：对，我三个月前才搬过来，所以还在慢慢认识附近的人和地方。**  
+*Yǐ: Duì, wǒ sān ge yuè qián cái bān guòlái, suǒyǐ hái zài mànmàn rènshi fùjìn de rén hé dìfang.*  
+Yes, I only moved here three months ago, so I’m still gradually getting to know the nearby people and places.
 
 ### B) 汉字 + Pinyin
-乙：你是美国人吗？还是从别的地方来？(Nǐ shì Měiguó rén ma? Háishi cóng bié de dìfang lái?)  
-甲：我不是美国人，我从中国来，现在住在这儿。(Wǒ bú shì Měiguó rén, wǒ cóng Zhōngguó lái, xiànzài zhù zài zhèr.)  
-乙：你住这儿多久了？我也住这儿，但是是去年来的。(Nǐ zhù zhèr duōjiǔ le? Wǒ yě zhù zhèr, dànshì shì qùnián lái de.)  
-甲：我住这儿不久，今天才认识你。(Wǒ zhù zhèr bú jiǔ, jīntiān cái rènshi nǐ.)  
+甲：你现在一个人住，还是跟朋友一起住？(Nǐ xiànzài yí ge rén zhù, háishi gēn péngyou yìqǐ zhù?)  
+乙：我现在跟一个同事合住，因为公司离这边比较近，上班方便一点。(Wǒ xiànzài gēn yí ge tóngshì hézhù, yīnwèi gōngsī lí zhèbiān bǐjiào jìn, shàngbān fāngbiàn yìdiǎn.)  
+甲：听起来不错。你是今年才搬过来的吗？(Tīng qǐlái búcuò. Nǐ shì jīnnián cái bān guòlái de ma?)  
+乙：对，我三个月前才搬过来，所以还在慢慢认识附近的人和地方。(Duì, wǒ sān ge yuè qián cái bān guòlái, suǒyǐ hái zài mànmàn rènshi fùjìn de rén hé dìfang.)  
 
 ### C) 汉字 only
-乙：你是美国人吗？还是从别的地方来？  
-甲：我不是美国人，我从中国来，现在住在这儿。  
-乙：你住这儿多久了？我也住这儿，但是是去年来的。  
-甲：我住这儿不久，今天才认识你。  
+甲：你现在一个人住，还是跟朋友一起住？  
+乙：我现在跟一个同事合住，因为公司离这边比较近，上班方便一点。  
+甲：听起来不错。你是今年才搬过来的吗？  
+乙：对，我三个月前才搬过来，所以还在慢慢认识附近的人和地方。  
 
 **Mini glossary (non-key)**  
 | Word/Phrase | Pinyin | English |
 |---|---|---|
-| 美国 | Měiguó | USA |
-| 中国 | Zhōngguó | China |
-| 还是 | háishi | or |
-| 别的 | bié de | other |
-| 地方 | dìfang | place |
-| 多久 | duōjiǔ | how long |
-| 去年 | qùnián | last year |
-| 才 | cái | only then |
+| 合住 | hézhù | live together |
+| 离 | lí | be away from |
+| 搬过来 | bān guòlái | move here |
+| 三个月前 | sān ge yuè qián | three months ago |
+| 附近 | fùjìn | nearby |
 
 **Comprehension checks**
-1) 甲从哪儿来？现在住哪儿？  
-2) 乙什么时候来的？  
-3) 为什么甲说“今天才认识你”？  
+1) 乙为什么跟同事合住？  
+2) 乙搬过来多久了？  
+3) 从对话看，乙对新环境熟悉吗？为什么？  
 
-## Day 3 🟡 — 学习和工作 (Study + work) — Review Day 1
+## Day 3 🟡 — 学习、工作和周末计划 (Study, work, and weekends)
 
 ### A) 汉字 → Pinyin → English
 
-**甲：你是学生吗？还是已经工作了？**  
-*Jiǎ: Nǐ shì xuésheng ma? Háishi yǐjīng gōngzuò le?*  
-Are you a student, or are you already working?
+**甲：你平时工作忙不忙？周末还有时间做自己的事吗？**  
+*Jiǎ: Nǐ píngshí gōngzuò máng bu máng? Zhōumò hái yǒu shíjiān zuò zìjǐ de shì ma?*  
+Are you usually busy with work? Do you still have time to do your own things on weekends?
 
-**乙：我不是学生，我在这儿工作；我也学中文，但是学得不多。**  
-*Yǐ: Wǒ bú shì xuésheng, wǒ zài zhèr gōngzuò; wǒ yě xué Zhōngwén, dànshì xué de bú duō.*  
-I’m not a student; I work here. I also study Chinese, but not much.
+**乙：平时比较忙，一般晚上才有时间学习，不过周末我会安排得轻松一点。**  
+*Yǐ: Píngshí bǐjiào máng, yìbān wǎnshang cái yǒu shíjiān xuéxí, búguò zhōumò wǒ huì ānpái de qīngsōng yìdiǎn.*  
+I’m fairly busy on weekdays and usually only have time to study at night, but I make weekends a bit more relaxed.
 
-**甲：我也是。我今天学一点儿，明天也想再学一点儿。**  
-*Jiǎ: Wǒ yě shì. Wǒ jīntiān xué yìdiǎnr, míngtiān yě xiǎng zài xué yìdiǎnr.*  
-Me too. I’ll study a bit today, and I also want to study a bit tomorrow.
+**甲：那你周末最喜欢做什么？是休息，还是跟朋友见面？**  
+*Jiǎ: Nà nǐ zhōumò zuì xǐhuan zuò shénme? Shì xiūxi, háishi gēn péngyou jiànmiàn?*  
+Then what do you most like to do on weekends? Rest, or meet friends?
 
-**乙：我们都很忙，但是我们可以一起练习。**  
-*Yǐ: Wǒmen dōu hěn máng, dànshì wǒmen kěyǐ yìqǐ liànxí.*  
-We’re both busy, but we can practice together.
+**乙：两个我都喜欢，不过如果天气好，我更想出去走走，再跟朋友一起吃饭。**  
+*Yǐ: Liǎng ge wǒ dōu xǐhuan, búguò rúguǒ tiānqì hǎo, wǒ gèng xiǎng chūqù zǒuzou, zài gēn péngyou yìqǐ chīfàn.*  
+I like both, but if the weather is nice, I’d rather go out for a walk and then eat with friends.
 
 ### B) 汉字 + Pinyin
-甲：你是学生吗？还是已经工作了？(Nǐ shì xuésheng ma? Háishi yǐjīng gōngzuò le?)  
-乙：我不是学生，我在这儿工作；我也学中文，但是学得不多。(Wǒ bú shì xuésheng, wǒ zài zhèr gōngzuò; wǒ yě xué Zhōngwén, dànshì xué de bú duō.)  
-甲：我也是。我今天学一点儿，明天也想再学一点儿。(Wǒ yě shì. Wǒ jīntiān xué yìdiǎnr, míngtiān yě xiǎng zài xué yìdiǎnr.)  
-乙：我们都很忙，但是我们可以一起练习。(Wǒmen dōu hěn máng, dànshì wǒmen kěyǐ yìqǐ liànxí.)  
+甲：你平时工作忙不忙？周末还有时间做自己的事吗？(Nǐ píngshí gōngzuò máng bu máng? Zhōumò hái yǒu shíjiān zuò zìjǐ de shì ma?)  
+乙：平时比较忙，一般晚上才有时间学习，不过周末我会安排得轻松一点。(Píngshí bǐjiào máng, yìbān wǎnshang cái yǒu shíjiān xuéxí, búguò zhōumò wǒ huì ānpái de qīngsōng yìdiǎn.)  
+甲：那你周末最喜欢做什么？是休息，还是跟朋友见面？(Nà nǐ zhōumò zuì xǐhuan zuò shénme? Shì xiūxi, háishi gēn péngyou jiànmiàn?)  
+乙：两个我都喜欢，不过如果天气好，我更想出去走走，再跟朋友一起吃饭。(Liǎng ge wǒ dōu xǐhuan, búguò rúguǒ tiānqì hǎo, wǒ gèng xiǎng chūqù zǒuzou, zài gēn péngyou yìqǐ chīfàn.)  
 
 ### C) 汉字 only
-甲：你是学生吗？还是已经工作了？  
-乙：我不是学生，我在这儿工作；我也学中文，但是学得不多。  
-甲：我也是。我今天学一点儿，明天也想再学一点儿。  
-乙：我们都很忙，但是我们可以一起练习。  
+甲：你平时工作忙不忙？周末还有时间做自己的事吗？  
+乙：平时比较忙，一般晚上才有时间学习，不过周末我会安排得轻松一点。  
+甲：那你周末最喜欢做什么？是休息，还是跟朋友见面？  
+乙：两个我都喜欢，不过如果天气好，我更想出去走走，再跟朋友一起吃饭。  
 
 **Mini glossary (non-key)**  
 | Word/Phrase | Pinyin | English |
 |---|---|---|
-| 已经 | yǐjīng | already |
-| 中文 | Zhōngwén | Chinese (language) |
-| 学得不多 | xué de bú duō | don’t study much |
-| 再 | zài | again; more |
-| 一起 | yìqǐ | together |
-| 练习 | liànxí | practice |
+| 轻松 | qīngsōng | relaxed |
+| 见面 | jiànmiàn | meet |
+| 天气 | tiānqì | weather |
+| 走走 | zǒuzou | take a walk |
+| 自己的事 | zìjǐ de shì | one’s own things |
 
 **Comprehension checks**
-1) 乙是学生吗？现在做什么？  
-2) 甲明天想做什么？  
-3) 他们为什么说“都很忙”？  
+1) 乙平时为什么只有晚上才有时间学习？  
+2) 周末如果天气好，乙想怎么安排？  
+3) 乙更喜欢休息还是见朋友？请说明。  
 
-## Day 4 🟡 — 年龄和爱好 (Age + likes) — Review Day 2
+## Day 4 🟡 — 介绍朋友和共同兴趣 (Introducing a friend and shared interests)
 
 ### A) 汉字 → Pinyin → English
 
-**乙：你今年几岁？如果不方便说，也没关系。**  
-*Yǐ: Nǐ jīnnián jǐ suì? Rúguǒ bú fāngbiàn shuō, yě méi guānxi.*  
-How old are you this year? If it’s inconvenient to say, that’s OK.
+**甲：我来给你介绍一下，这是我的朋友小顾，她以前是我的同学，现在是同事。**  
+*Jiǎ: Wǒ lái gěi nǐ jièshào yíxià, zhè shì wǒ de péngyou Xiǎo Gù, tā yǐqián shì wǒ de tóngxué, xiànzài shì tóngshì.*  
+Let me introduce her to you. This is my friend Xiao Gu. She used to be my classmate, and now she’s my colleague.
 
-**甲：没关系，我二十五岁。你呢？**  
-*Jiǎ: Méi guānxi, wǒ èrshíwǔ suì. Nǐ ne?*  
-No problem—I’m 25. And you?
+**乙：你好，很高兴认识你。听说你也喜欢学语言，是吗？**  
+*Yǐ: Nǐhǎo, hěn gāoxìng rènshi nǐ. Tīngshuō nǐ yě xǐhuan xué yǔyán, shì ma?*  
+Hi, nice to meet you. I heard you also like studying languages, right?
 
-**乙：我二十六岁。我喜欢喝咖啡，也喜欢喝茶。**  
-*Yǐ: Wǒ èrshíliù suì. Wǒ xǐhuan hē kāfēi, yě xǐhuan hē chá.*  
-I’m 26. I like drinking coffee and also tea.
+**小顾：对，我平时会学一点儿西班牙语，不过最近更想把中文说得自然一点。**  
+*Xiǎo Gù: Duì, wǒ píngshí huì xué yìdiǎnr Xībānyáyǔ, búguò zuìjìn gèng xiǎng bǎ Zhōngwén shuō de zìrán yìdiǎn.*  
+Yes. I usually study a little Spanish, but recently I more want to make my Chinese sound natural.
 
-**甲：我也喜欢。明天我们一起去喝，可以吗？**  
-*Jiǎ: Wǒ yě xǐhuan. Míngtiān wǒmen yìqǐ qù hē, kěyǐ ma?*  
-I like that too. Shall we go get drinks together tomorrow?
+**甲：那太好了，你们以后可以一起练习，说不定很快就会变成好朋友。**  
+*Jiǎ: Nà tài hǎo le, nǐmen yǐhòu kěyǐ yìqǐ liànxí, shuōbudìng hěn kuài jiù huì biànchéng hǎo péngyou.*  
+That’s great. You two can practice together later, and maybe you’ll quickly become good friends.
 
 ### B) 汉字 + Pinyin
-乙：你今年几岁？如果不方便说，也没关系。(Nǐ jīnnián jǐ suì? Rúguǒ bú fāngbiàn shuō, yě méi guānxi.)  
-甲：没关系，我二十五岁。你呢？(Méi guānxi, wǒ èrshíwǔ suì. Nǐ ne?)  
-乙：我二十六岁。我喜欢喝咖啡，也喜欢喝茶。(Wǒ èrshíliù suì. Wǒ xǐhuan hē kāfēi, yě xǐhuan hē chá.)  
-甲：我也喜欢。明天我们一起去喝，可以吗？(Wǒ yě xǐhuan. Míngtiān wǒmen yìqǐ qù hē, kěyǐ ma?)  
+甲：我来给你介绍一下，这是我的朋友小顾，她以前是我的同学，现在是同事。(Wǒ lái gěi nǐ jièshào yíxià, zhè shì wǒ de péngyou Xiǎo Gù, tā yǐqián shì wǒ de tóngxué, xiànzài shì tóngshì.)  
+乙：你好，很高兴认识你。听说你也喜欢学语言，是吗？(Nǐhǎo, hěn gāoxìng rènshi nǐ. Tīngshuō nǐ yě xǐhuan xué yǔyán, shì ma?)  
+小顾：对，我平时会学一点儿西班牙语，不过最近更想把中文说得自然一点。(Duì, wǒ píngshí huì xué yìdiǎnr Xībānyáyǔ, búguò zuìjìn gèng xiǎng bǎ Zhōngwén shuō de zìrán yìdiǎn.)  
+甲：那太好了，你们以后可以一起练习，说不定很快就会变成好朋友。(Nà tài hǎo le, nǐmen yǐhòu kěyǐ yìqǐ liànxí, shuōbudìng hěn kuài jiù huì biànchéng hǎo péngyou.)  
 
 ### C) 汉字 only
-乙：你今年几岁？如果不方便说，也没关系。  
-甲：没关系，我二十五岁。你呢？  
-乙：我二十六岁。我喜欢喝咖啡，也喜欢喝茶。  
-甲：我也喜欢。明天我们一起去喝，可以吗？  
+甲：我来给你介绍一下，这是我的朋友小顾，她以前是我的同学，现在是同事。  
+乙：你好，很高兴认识你。听说你也喜欢学语言，是吗？  
+小顾：对，我平时会学一点儿西班牙语，不过最近更想把中文说得自然一点。  
+甲：那太好了，你们以后可以一起练习，说不定很快就会变成好朋友。  
 
 **Mini glossary (non-key)**  
 | Word/Phrase | Pinyin | English |
 |---|---|---|
-| 如果 | rúguǒ | if |
-| 不方便 | bú fāngbiàn | inconvenient |
-| 没关系 | méi guānxi | it’s OK |
-| 喝 | hē | drink |
-| 咖啡 | kāfēi | coffee |
-| 茶 | chá | tea |
+| 同学 | tóngxué | classmate |
+| 听说 | tīngshuō | hear that |
+| 语言 | yǔyán | language |
+| 自然 | zìrán | natural |
+| 说不定 | shuōbudìng | maybe |
 
 **Comprehension checks**
-1) 甲几岁？乙几岁？  
-2) 乙喜欢什么？  
-3) 甲邀请乙做什么？什么时候？  
+1) 小顾和甲以前是什么关系？现在呢？  
+2) 小顾最近想提高什么？  
+3) 为什么甲觉得她们两个可能会成为朋友？  
 
-## Day 5 🔴 — 介绍朋友 (Introduce a friend) — Review Days 1–3
+## Day 5 🔴 — 交换联系方式 (Exchanging contact details)
 
 ### A) 汉字 → Pinyin → English
 
-**甲：这是我的朋友小林，她也在这儿工作。**  
-*Jiǎ: Zhè shì wǒ de péngyou Xiǎo Lín, tā yě zài zhèr gōngzuò.*  
-This is my friend Xiao Lin—she also works here.
+**甲：今天跟你聊天很轻松，我觉得我们兴趣挺像的。**  
+*Jiǎ: Jīntiān gēn nǐ liáotiān hěn qīngsōng, wǒ juéde wǒmen xìngqù tǐng xiàng de.*  
+Talking with you today felt easy. I think our interests are pretty similar.
 
-**乙：你好，小林！你从哪儿来？现在住哪儿？**  
-*Yǐ: Nǐhǎo, Xiǎo Lín! Nǐ cóng nǎr lái? Xiànzài zhù nǎr?*  
-Hi, Xiao Lin! Where are you from? Where do you live now?
+**乙：我也这么觉得。你平时一般怎么跟朋友联系？**  
+*Yǐ: Wǒ yě zhème juéde. Nǐ píngshí yìbān zěnme gēn péngyou liánxì?*  
+I think so too. How do you usually stay in touch with friends?
 
-**小林：你好！我从那儿来，现在住在那儿，但是明天要到这儿。**  
-*Xiǎo Lín: Nǐhǎo! Wǒ cóng nàr lái, xiànzài zhù zài nàr, dànshì míngtiān yào dào zhèr.*  
-Hi! I’m from there; I live there now, but tomorrow I’m coming here.
+**甲：如果方便的话，我们可以先加联系方式，以后周末有计划再一起约。**  
+*Jiǎ: Rúguǒ fāngbiàn dehuà, wǒmen kěyǐ xiān jiā liánxì fāngshì, yǐhòu zhōumò yǒu jìhuà zài yìqǐ yuē.*  
+If it’s convenient, we can exchange contact info first and make plans together on future weekends.
 
-**甲：太好了，我们以后可以一起学中文，也可以一起去吃饭。**  
-*Jiǎ: Tài hǎo le, wǒmen yǐhòu kěyǐ yìqǐ xué Zhōngwén, yě kěyǐ yìqǐ qù chīfàn.*  
-Great! Later we can study Chinese together, and also go eat together.
+**乙：当然可以。这个主意不错，因为认识新朋友以后，保持联系比较重要。**  
+*Yǐ: Dāngrán kěyǐ. Zhè ge zhǔyi búcuò, yīnwèi rènshi xīn péngyou yǐhòu, bǎochí liánxì bǐjiào zhòngyào.*  
+Of course. That’s a good idea, because after meeting new friends, staying in touch is pretty important.
 
 ### B) 汉字 + Pinyin
-甲：这是我的朋友小林，她也在这儿工作。(Zhè shì wǒ de péngyou Xiǎo Lín, tā yě zài zhèr gōngzuò.)  
-乙：你好，小林！你从哪儿来？现在住哪儿？(Nǐhǎo, Xiǎo Lín! Nǐ cóng nǎr lái? Xiànzài zhù nǎr?)  
-小林：你好！我从那儿来，现在住在那儿，但是明天要到这儿。(Nǐhǎo! Wǒ cóng nàr lái, xiànzài zhù zài nàr, dànshì míngtiān yào dào zhèr.)  
-甲：太好了，我们以后可以一起学中文，也可以一起去吃饭。(Tài hǎo le, wǒmen yǐhòu kěyǐ yìqǐ xué Zhōngwén, yě kěyǐ yìqǐ qù chīfàn.)  
+甲：今天跟你聊天很轻松，我觉得我们兴趣挺像的。(Jīntiān gēn nǐ liáotiān hěn qīngsōng, wǒ juéde wǒmen xìngqù tǐng xiàng de.)  
+乙：我也这么觉得。你平时一般怎么跟朋友联系？(Wǒ yě zhème juéde. Nǐ píngshí yìbān zěnme gēn péngyou liánxì?)  
+甲：如果方便的话，我们可以先加联系方式，以后周末有计划再一起约。(Rúguǒ fāngbiàn dehuà, wǒmen kěyǐ xiān jiā liánxì fāngshì, yǐhòu zhōumò yǒu jìhuà zài yìqǐ yuē.)  
+乙：当然可以。这个主意不错，因为认识新朋友以后，保持联系比较重要。(Dāngrán kěyǐ. Zhè ge zhǔyi búcuò, yīnwèi rènshi xīn péngyou yǐhòu, bǎochí liánxì bǐjiào zhòngyào.)  
 
 ### C) 汉字 only
-甲：这是我的朋友小林，她也在这儿工作。  
-乙：你好，小林！你从哪儿来？现在住哪儿？  
-小林：你好！我从那儿来，现在住在那儿，但是明天要到这儿。  
-甲：太好了，我们以后可以一起学中文，也可以一起去吃饭。  
+甲：今天跟你聊天很轻松，我觉得我们兴趣挺像的。  
+乙：我也这么觉得。你平时一般怎么跟朋友联系？  
+甲：如果方便的话，我们可以先加联系方式，以后周末有计划再一起约。  
+乙：当然可以。这个主意不错，因为认识新朋友以后，保持联系比较重要。  
 
 **Mini glossary (non-key)**  
 | Word/Phrase | Pinyin | English |
 |---|---|---|
-| 这是 | zhè shì | this is… |
-| 小 | xiǎo | little (nickname) |
-| 那儿 | nàr | there |
-| 但是 | dànshì | but |
-| 要 | yào | will; want |
-| 吃饭 | chīfàn | eat a meal |
+| 聊天 | liáotiān | chat |
+| 挺像的 | tǐng xiàng de | pretty similar |
+| 加 | jiā | add |
+| 主意 | zhǔyi | idea |
+| 保持联系 | bǎochí liánxì | stay in touch |
 
 **Comprehension checks**
-1) 小林现在住哪儿？明天要到哪儿？  
-2) 甲提出以后要一起做什么？  
+1) 甲为什么想交换联系方式？  
+2) 乙对这个建议是什么态度？  
+3) “比较重要”指的是什么？  
 
-## Day 6 🔴 — 约时间 (Set a time) — Review Days 1–5
+## Day 6 🔴 — 约下次见面 (Making the next plan)
 
 ### A) 汉字 → Pinyin → English
 
-**乙：明天你有时间吗？我们一起去喝咖啡，好吗？**  
-*Yǐ: Míngtiān nǐ yǒu shíjiān ma? Wǒmen yìqǐ qù hē kāfēi, hǎo ma?*  
-Do you have time tomorrow? Shall we go drink coffee together?
+**甲：既然我们都喜欢轻松一点的周末，下次要不要一起去喝咖啡？**  
+*Jiǎ: Jìrán wǒmen dōu xǐhuan qīngsōng yìdiǎn de zhōumò, xiàcì yào bu yào yìqǐ qù hē kāfēi?*  
+Since we both like more relaxed weekends, do you want to get coffee together next time?
 
-**甲：可以。我明天三点到，你也三点到吗？**  
-*Jiǎ: Kěyǐ. Wǒ míngtiān sāndiǎn dào, nǐ yě sāndiǎn dào ma?*  
-Sure. I’ll arrive at 3 tomorrow—will you arrive at 3 too?
+**乙：可以啊，不过这周末我已经有计划了，可能下周更方便。**  
+*Yǐ: Kěyǐ a, búguò zhè zhōumò wǒ yǐjīng yǒu jìhuà le, kěnéng xià zhōu gèng fāngbiàn.*  
+Sure, but I already have plans this weekend, so next week might be more convenient.
 
-**乙：我可能晚一点儿，但是我会到。你先去吧。**  
-*Yǐ: Wǒ kěnéng wǎn yìdiǎnr, dànshì wǒ huì dào. Nǐ xiān qù ba.*  
-I might be a little late, but I’ll get there. You go first.
+**甲：没问题。你决定好时间以后联系我，我们可以先喝咖啡，再一起吃晚饭。**  
+*Jiǎ: Méi wèntí. Nǐ juédìng hǎo shíjiān yǐhòu liánxì wǒ, wǒmen kěyǐ xiān hē kāfēi, zài yìqǐ chī wǎnfàn.*  
+No problem. Contact me after you decide on a time. We can have coffee first and then eat dinner together.
 
-**甲：好。下次我请你喝茶，今天你请我也可以。**  
-*Jiǎ: Hǎo. Xiàcì wǒ qǐng nǐ hē chá, jīntiān nǐ qǐng wǒ yě kěyǐ.*  
-OK. Next time I’ll treat you to tea; today you can treat me too.
+**乙：好，就这么说定了。我觉得这样认识朋友比较自然，也不会太有压力。**  
+*Yǐ: Hǎo, jiù zhème shuōdìng le. Wǒ juéde zhèyàng rènshi péngyou bǐjiào zìrán, yě bú huì tài yǒu yālì.*  
+Great, it’s settled. I think getting to know friends this way feels more natural and not too stressful.
 
 ### B) 汉字 + Pinyin
-乙：明天你有时间吗？我们一起去喝咖啡，好吗？(Míngtiān nǐ yǒu shíjiān ma? Wǒmen yìqǐ qù hē kāfēi, hǎo ma?)  
-甲：可以。我明天三点到，你也三点到吗？(Kěyǐ. Wǒ míngtiān sāndiǎn dào, nǐ yě sāndiǎn dào ma?)  
-乙：我可能晚一点儿，但是我会到。你先去吧。(Wǒ kěnéng wǎn yìdiǎnr, dànshì wǒ huì dào. Nǐ xiān qù ba.)  
-甲：好。下次我请你喝茶，今天你请我也可以。(Hǎo. Xiàcì wǒ qǐng nǐ hē chá, jīntiān nǐ qǐng wǒ yě kěyǐ.)  
+甲：既然我们都喜欢轻松一点的周末，下次要不要一起去喝咖啡？(Jìrán wǒmen dōu xǐhuan qīngsōng yìdiǎn de zhōumò, xiàcì yào bu yào yìqǐ qù hē kāfēi?)  
+乙：可以啊，不过这周末我已经有计划了，可能下周更方便。(Kěyǐ a, búguò zhè zhōumò wǒ yǐjīng yǒu jìhuà le, kěnéng xià zhōu gèng fāngbiàn.)  
+甲：没问题。你决定好时间以后联系我，我们可以先喝咖啡，再一起吃晚饭。(Méi wèntí. Nǐ juédìng hǎo shíjiān yǐhòu liánxì wǒ, wǒmen kěyǐ xiān hē kāfēi, zài yìqǐ chī wǎnfàn.)  
+乙：好，就这么说定了。我觉得这样认识朋友比较自然，也不会太有压力。(Hǎo, jiù zhème shuōdìng le. Wǒ juéde zhèyàng rènshi péngyou bǐjiào zìrán, yě bú huì tài yǒu yālì.)  
 
 ### C) 汉字 only
-乙：明天你有时间吗？我们一起去喝咖啡，好吗？  
-甲：可以。我明天三点到，你也三点到吗？  
-乙：我可能晚一点儿，但是我会到。你先去吧。  
-甲：好。下次我请你喝茶，今天你请我也可以。  
+甲：既然我们都喜欢轻松一点的周末，下次要不要一起去喝咖啡？  
+乙：可以啊，不过这周末我已经有计划了，可能下周更方便。  
+甲：没问题。你决定好时间以后联系我，我们可以先喝咖啡，再一起吃晚饭。  
+乙：好，就这么说定了。我觉得这样认识朋友比较自然，也不会太有压力。  
 
 **Mini glossary (non-key)**  
 | Word/Phrase | Pinyin | English |
 |---|---|---|
-| 时间 | shíjiān | time |
-| 好吗 | hǎo ma | OK? |
-| 可能 | kěnéng | maybe; possibly |
-| 晚一点儿 | wǎn yìdiǎnr | a bit late |
-| 会 | huì | will; can |
+| 既然 | jìrán | since |
+| 决定 | juédìng | decide |
+| 晚饭 | wǎnfàn | dinner |
+| 说定了 | shuōdìng le | it’s settled |
+| 压力 | yālì | pressure |
 
 **Comprehension checks**
-1) 他们约好几点到？谁可能晚一点儿？  
-2) 甲说“下次我请你喝茶”是什么意思？  
-
+1) 为什么乙不能这周末见面？  
+2) 他们下次可能先做什么，再做什么？  
+3) 乙为什么觉得这样的见面方式比较自然？  

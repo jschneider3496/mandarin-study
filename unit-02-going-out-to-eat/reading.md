@@ -5,325 +5,278 @@ Each day includes:
 - Mini glossary (non-key words/phrases)
 - Comprehension checks
 
-## Day 1 🟢 — 进餐厅 (Arriving)
+## Day 1 🟢 — 预订和入座 (Reservation and seating)
 
 ### A) 汉字 → Pinyin → English
 
-**甲：你好，我们两个人，想坐这儿，可以吗？**  
-*Jiǎ: Nǐhǎo, wǒmen liǎng ge rén, xiǎng zuò zhèr, kěyǐ ma?*  
-Hi, there are two of us. We’d like to sit here—OK?
+**甲：你好，我们预订了两个人的位置，姓林，想坐靠窗的地方。**  
+*Jiǎ: Nǐhǎo, wǒmen yùdìng le liǎng ge rén de wèizhi, xìng Lín, xiǎng zuò kàochuāng de dìfang.*  
+Hi, we reserved a table for two under the name Lin. We’d like to sit by the window.
 
-**服务员：可以，这边请；菜单我马上给你们。**  
-*Fúwùyuán: Kěyǐ, zhèbiān qǐng; càidān wǒ mǎshàng gěi nǐmen.*  
-Sure, this way please; I’ll bring you the menu right away.
+**服务员：好的，我帮你们看一下。现在里面还有一个安静的位置，可以吗？**  
+*Fúwùyuán: Hǎo de, wǒ bāng nǐmen kàn yíxià. Xiànzài lǐmiàn hái yǒu yí ge ānjìng de wèizhi, kěyǐ ma?*  
+Sure, let me check. There’s still a quiet table inside. Is that okay?
 
-**乙：谢谢，我今天特别饿，我们先点菜吧。**  
-*Yǐ: Xièxie, wǒ jīntiān tèbié è, wǒmen xiān diǎn cài ba.*  
-Thanks—I’m especially hungry today. Let’s order first.
+**乙：可以，谢谢。我们想先看看菜单，再决定点套餐还是单点。**  
+*Yǐ: Kěyǐ, xièxie. Wǒmen xiǎng xiān kànkan càidān, zài juédìng diǎn tàocān háishi dāndiǎn.*  
+Yes, thanks. We want to look at the menu first and then decide whether to order a set meal or order individually.
 
-**甲：好，我想先看看菜单，再请你推荐一个好吃的。**  
-*Jiǎ: Hǎo, wǒ xiǎng xiān kànkan càidān, zài qǐng nǐ tuījiàn yí ge hǎochī de.*  
-OK. I want to look at the menu first, then ask you to recommend something tasty.
-
-**服务员：没问题，你们慢慢看。**  
-*Fúwùyuán: Méi wèntí, nǐmen mànmàn kàn.*  
-No problem—take your time.
+**服务员：没问题。如果需要推荐，我一会儿可以过来介绍一下。**  
+*Fúwùyuán: Méi wèntí. Rúguǒ xūyào tuījiàn, wǒ yíhuìr kěyǐ guòlái jièshào yíxià.*  
+No problem. If you need recommendations, I can come back in a bit and explain.
 
 ### B) 汉字 + Pinyin
-甲：你好，我们两个人，想坐这儿，可以吗？(Nǐhǎo, wǒmen liǎng ge rén, xiǎng zuò zhèr, kěyǐ ma?)  
-服务员：可以，这边请；菜单我马上给你们。(Kěyǐ, zhèbiān qǐng; càidān wǒ mǎshàng gěi nǐmen.)  
-乙：谢谢，我今天特别饿，我们先点菜吧。(Xièxie, wǒ jīntiān tèbié è, wǒmen xiān diǎn cài ba.)  
-甲：好，我想先看看菜单，再请你推荐一个好吃的。(Hǎo, wǒ xiǎng xiān kànkan càidān, zài qǐng nǐ tuījiàn yí ge hǎochī de.)  
-服务员：没问题，你们慢慢看。(Méi wèntí, nǐmen mànmàn kàn.)  
+甲：你好，我们预订了两个人的位置，姓林，想坐靠窗的地方。(Nǐhǎo, wǒmen yùdìng le liǎng ge rén de wèizhi, xìng Lín, xiǎng zuò kàochuāng de dìfang.)  
+服务员：好的，我帮你们看一下。现在里面还有一个安静的位置，可以吗？(Hǎo de, wǒ bāng nǐmen kàn yíxià. Xiànzài lǐmiàn hái yǒu yí ge ānjìng de wèizhi, kěyǐ ma?)  
+乙：可以，谢谢。我们想先看看菜单，再决定点套餐还是单点。(Kěyǐ, xièxie. Wǒmen xiǎng xiān kànkan càidān, zài juédìng diǎn tàocān háishi dāndiǎn.)  
+服务员：没问题。如果需要推荐，我一会儿可以过来介绍一下。(Méi wèntí. Rúguǒ xūyào tuījiàn, wǒ yíhuìr kěyǐ guòlái jièshào yíxià.)  
 
 ### C) 汉字 only
-甲：你好，我们两个人，想坐这儿，可以吗？  
-服务员：可以，这边请；菜单我马上给你们。  
-乙：谢谢，我今天特别饿，我们先点菜吧。  
-甲：好，我想先看看菜单，再请你推荐一个好吃的。  
-服务员：没问题，你们慢慢看。  
+甲：你好，我们预订了两个人的位置，姓林，想坐靠窗的地方。  
+服务员：好的，我帮你们看一下。现在里面还有一个安静的位置，可以吗？  
+乙：可以，谢谢。我们想先看看菜单，再决定点套餐还是单点。  
+服务员：没问题。如果需要推荐，我一会儿可以过来介绍一下。  
 
 **Mini glossary (non-key)**  
 | Word/Phrase | Pinyin | English |
 |---|---|---|
-| 坐 | zuò | sit |
-| 你们 | nǐmen | you (plural) |
-| 马上 | mǎshàng | right away |
-| 特别 | tèbié | especially |
-| 慢慢 | mànmàn | slowly; take your time |
-| 看看 | kànkan | take a look |
-
-**Comprehension checks**
-1) 他们几个人？想坐哪儿？  
-2) 甲为什么说“先看看菜单”？  
-
-## Day 2 🟢 — 点菜 (Ordering + preferences)
-
-### A) 汉字 → Pinyin → English
-
-**甲：我想点这个面条，但是不要太辣。**  
-*Jiǎ: Wǒ xiǎng diǎn zhè ge miàntiáo, dànshì bú yào tài là.*  
-I want these noodles, but not too spicy.
-
-**乙：我要米饭，还想来一点儿茶，热的。**  
-*Yǐ: Wǒ yào mǐfàn, hái xiǎng lái yìdiǎnr chá, rè de.*  
-I want rice, and I’d also like a little tea—hot.
-
-**服务员：好的。你们要不要再来一杯水？**  
-*Fúwùyuán: Hǎo de. Nǐmen yào bu yào zài lái yì bēi shuǐ?*  
-Sure. Would you like another cup of water?
-
-**甲：可以，冷水就好。**  
-*Jiǎ: Kěyǐ, lěng shuǐ jiù hǎo.*  
-Yes, cold water is fine.
-
-**乙：我不太想喝冷的，我还是喝热茶。**  
-*Yǐ: Wǒ bú tài xiǎng hē lěng de, wǒ háishi hē rè chá.*  
-I don’t really want cold drinks; I’ll still drink hot tea.
-
-### B) 汉字 + Pinyin
-甲：我想点这个面条，但是不要太辣。(Wǒ xiǎng diǎn zhè ge miàntiáo, dànshì bú yào tài là.)  
-乙：我要米饭，还想来一点儿茶，热的。(Wǒ yào mǐfàn, hái xiǎng lái yìdiǎnr chá, rè de.)  
-服务员：好的。你们要不要再来一杯水？(Hǎo de. Nǐmen yào bu yào zài lái yì bēi shuǐ?)  
-甲：可以，冷水就好。(Kěyǐ, lěng shuǐ jiù hǎo.)  
-乙：我不太想喝冷的，我还是喝热茶。(Wǒ bú tài xiǎng hē lěng de, wǒ háishi hē rè chá.)  
-
-### C) 汉字 only
-甲：我想点这个面条，但是不要太辣。  
-乙：我要米饭，还想来一点儿茶，热的。  
-服务员：好的。你们要不要再来一杯水？  
-甲：可以，冷水就好。  
-乙：我不太想喝冷的，我还是喝热茶。  
-
-**Mini glossary (non-key)**  
-| Word/Phrase | Pinyin | English |
-|---|---|---|
-| 不太 | bú tài | not really |
-| 喝 | hē | drink |
-| 冷的 | lěng de | cold (drink/thing) |
-| 就好 | jiù hǎo | is fine |
-| 要不要 | yào bu yào | want or not (would you like…) |
-
-**Comprehension checks**
-1) 甲点什么？有什么要求？  
-2) 乙想喝什么？为什么？  
-
-## Day 3 🟡 — 推荐一下 (Recommendations + price) — Review Day 1
-
-### A) 汉字 → Pinyin → English
-
-**甲：服务员，我们第一次来，你可以推荐一个好吃的菜吗？**  
-*Jiǎ: Fúwùyuán, wǒmen dì-yī cì lái, nǐ kěyǐ tuījiàn yí ge hǎochī de cài ma?*  
-Server, it’s our first time here—can you recommend a tasty dish?
-
-**服务员：可以，这个很受欢迎，也不太贵。**  
-*Fúwùyuán: Kěyǐ, zhè ge hěn shòu huānyíng, yě bú tài guì.*  
-Sure. This one is popular and not too expensive.
-
-**乙：那个多少钱？如果太贵，我们就点别的。**  
-*Yǐ: Nà ge duōshao qián? Rúguǒ tài guì, wǒmen jiù diǎn bié de.*  
-How much is that one? If it’s too expensive, we’ll order something else.
-
-**服务员：三十八块。**  
-*Fúwùyuán: Sānshíbā kuài.*  
-38 yuan.
-
-**甲：可以，我们要这个；再来一杯咖啡。**  
-*Jiǎ: Kěyǐ, wǒmen yào zhè ge; zài lái yì bēi kāfēi.*  
-OK, we’ll take it; and one more coffee.
-
-### B) 汉字 + Pinyin
-甲：服务员，我们第一次来，你可以推荐一个好吃的菜吗？(Fúwùyuán, wǒmen dì-yī cì lái, nǐ kěyǐ tuījiàn yí ge hǎochī de cài ma?)  
-服务员：可以，这个很受欢迎，也不太贵。(Kěyǐ, zhè ge hěn shòu huānyíng, yě bú tài guì.)  
-乙：那个多少钱？如果太贵，我们就点别的。(Nà ge duōshao qián? Rúguǒ tài guì, wǒmen jiù diǎn bié de.)  
-服务员：三十八块。(Sānshíbā kuài.)  
-甲：可以，我们要这个；再来一杯咖啡。(Kěyǐ, wǒmen yào zhè ge; zài lái yì bēi kāfēi.)  
-
-### C) 汉字 only
-甲：服务员，我们第一次来，你可以推荐一个好吃的菜吗？  
-服务员：可以，这个很受欢迎，也不太贵。  
-乙：那个多少钱？如果太贵，我们就点别的。  
-服务员：三十八块。  
-甲：可以，我们要这个；再来一杯咖啡。  
-
-**Mini glossary (non-key)**  
-| Word/Phrase | Pinyin | English |
-|---|---|---|
-| 第一次 | dì-yī cì | first time |
-| 受欢迎 | shòu huānyíng | popular |
-| 如果 | rúguǒ | if |
-| 就 | jiù | then; just |
-| 别的 | bié de | something else |
-| 三十八 | sānshíbā | 38 |
-| 块 | kuài | yuan (spoken) |
-
-**Comprehension checks**
-1) 为什么甲要“推荐一个菜”？  
-2) 乙为什么问“如果太贵…”？  
-
-## Day 4 🟡 — 过敏 (Allergy check) — Review Day 2
-
-### A) 汉字 → Pinyin → English
-
-**乙：我对花生过敏，所以点菜之前想先问一下。**  
-*Yǐ: Wǒ duì huāshēng guòmǐn, suǒyǐ diǎn cài zhīqián xiǎng xiān wèn yíxià.*  
-I’m allergic to peanuts, so before ordering I want to ask first.
-
-**甲：服务员，这个菜里面有花生吗？没有的话我们就点这个。**  
-*Jiǎ: Fúwùyuán, zhè ge cài lǐmiàn yǒu huāshēng ma? Méiyǒu dehuà wǒmen jiù diǎn zhè ge.*  
-Server, does this dish have peanuts in it? If not, we’ll order this one.
-
-**服务员：没有花生，但是有一点儿辣，你可以吗？**  
-*Fúwùyuán: Méiyǒu huāshēng, dànshì yǒu yìdiǎnr là, nǐ kěyǐ ma?*  
-No peanuts, but it’s a little spicy—are you OK with that?
-
-**乙：可以，不过请少一点儿辣，谢谢。**  
-*Yǐ: Kěyǐ, búguò qǐng shǎo yìdiǎnr là, xièxie.*  
-Yes, but please make it less spicy—thanks.
-
-**甲：另外，请再来一点儿水，热的。**  
-*Jiǎ: Lìngwài, qǐng zài lái yìdiǎnr shuǐ, rè de.*  
-Also, please bring a little more water—hot.
-
-**服务员：好的，我马上来。**  
-*Fúwùyuán: Hǎo de, wǒ mǎshàng lái.*  
-Sure, I’ll be right back.
-
-### B) 汉字 + Pinyin
-乙：我对花生过敏，所以点菜之前想先问一下。(Wǒ duì huāshēng guòmǐn, suǒyǐ diǎn cài zhīqián xiǎng xiān wèn yíxià.)  
-甲：服务员，这个菜里面有花生吗？没有的话我们就点这个。(Fúwùyuán, zhè ge cài lǐmiàn yǒu huāshēng ma? Méiyǒu dehuà wǒmen jiù diǎn zhè ge.)  
-服务员：没有花生，但是有一点儿辣，你可以吗？(Méiyǒu huāshēng, dànshì yǒu yìdiǎnr là, nǐ kěyǐ ma?)  
-乙：可以，不过请少一点儿辣，谢谢。(Kěyǐ, búguò qǐng shǎo yìdiǎnr là, xièxie.)  
-甲：另外，请再来一点儿水，热的。(Lìngwài, qǐng zài lái yìdiǎnr shuǐ, rè de.)  
-服务员：好的，我马上来。(Hǎo de, wǒ mǎshàng lái.)  
-
-### C) 汉字 only
-乙：我对花生过敏，所以点菜之前想先问一下。  
-甲：服务员，这个菜里面有花生吗？没有的话我们就点这个。  
-服务员：没有花生，但是有一点儿辣，你可以吗？  
-乙：可以，不过请少一点儿辣，谢谢。  
-甲：另外，请再来一点儿水，热的。  
-服务员：好的，我马上来。  
-
-**Mini glossary (non-key)**  
-| Word/Phrase | Pinyin | English |
-|---|---|---|
-| 所以 | suǒyǐ | so |
-| 之前 | zhīqián | before |
+| 靠窗 | kàochuāng | by the window |
 | 里面 | lǐmiàn | inside |
-| 没有的话 | méiyǒu dehuà | if there isn’t… |
-| 不过 | búguò | however |
-| 另外 | lìngwài | also; besides |
+| 安静 | ānjìng | quiet |
+| 一会儿 | yíhuìr | in a little while |
+| 决定 | juédìng | decide |
 
 **Comprehension checks**
-1) 乙为什么要先问？  
-2) 这个菜有什么问题（对乙来说）？最后怎么解决？  
+1) 他们一开始想坐哪里？  
+2) 他们为什么还没有马上点菜？  
+3) 服务员接下来可能会做什么？  
 
-## Day 5 🔴 — 结账 (Paying) — Review Days 1–3
+## Day 2 🟢 — 推荐、口味和分量 (Recommendations, taste, and portions)
 
 ### A) 汉字 → Pinyin → English
 
-**甲：服务员，我们想结账，一共多少钱？**  
-*Jiǎ: Fúwùyuán, wǒmen xiǎng jiézhàng, yígòng duōshao qián?*  
-Server, we’d like to pay—how much in total?
+**服务员：如果你们第一次来，我比较推荐这个招牌牛肉面，很多客人都点。**  
+*Fúwùyuán: Rúguǒ nǐmen dì-yī cì lái, wǒ bǐjiào tuījiàn zhè ge zhāopái niúròu miàn, hěn duō kèrén dōu diǎn.*  
+If this is your first time here, I recommend the signature beef noodles. Many customers order it.
 
-**服务员：一共一百二十六块。**  
-*Fúwùyuán: Yígòng yìbǎi èrshíliù kuài.*  
-126 yuan in total.
+**甲：听起来不错，不过我们的口味比较清淡。这个会不会太辣？**  
+*Jiǎ: Tīng qǐlái búcuò, búguò wǒmen de kǒuwèi bǐjiào qīngdàn. Zhè ge huì bu huì tài là?*  
+That sounds good, but our taste is relatively light. Will it be too spicy?
 
-**乙：可以刷卡吗？我也可以付现金。**  
-*Yǐ: Kěyǐ shuākǎ ma? Wǒ yě kěyǐ fù xiànjīn.*  
-Can I pay by card? I can also pay cash.
+**服务员：可以做成微辣，或者完全不辣。分量也比较大，两个人可以一起吃。**  
+*Fúwùyuán: Kěyǐ zuò chéng wēilà, huòzhě wánquán bú là. Fènliàng yě bǐjiào dà, liǎng ge rén kěyǐ yìqǐ chī.*  
+It can be made mildly spicy or not spicy at all. The portion is also fairly large, and two people can share it.
 
-**甲：我来买单吧，下次你请我。**  
-*Jiǎ: Wǒ lái mǎidān ba, xiàcì nǐ qǐng wǒ.*  
-I’ll pay this time; next time you treat me.
-
-**乙：好，那我下次请你吃饭。**  
-*Yǐ: Hǎo, nà wǒ xiàcì qǐng nǐ chīfàn.*  
-OK—then next time I’ll treat you to a meal.
+**乙：那我们先来一份不辣的牛肉面，另外再点一份青菜和两杯热茶。**  
+*Yǐ: Nà wǒmen xiān lái yí fèn bú là de niúròu miàn, lìngwài zài diǎn yí fèn qīngcài hé liǎng bēi rè chá.*  
+Then we’ll first have one non-spicy beef noodles, and additionally order one vegetable dish and two cups of hot tea.
 
 ### B) 汉字 + Pinyin
-甲：服务员，我们想结账，一共多少钱？(Fúwùyuán, wǒmen xiǎng jiézhàng, yígòng duōshao qián?)  
-服务员：一共一百二十六块。(Yígòng yìbǎi èrshíliù kuài.)  
-乙：可以刷卡吗？我也可以付现金。(Kěyǐ shuākǎ ma? Wǒ yě kěyǐ fù xiànjīn.)  
-甲：我来买单吧，下次你请我。(Wǒ lái mǎidān ba, xiàcì nǐ qǐng wǒ.)  
-乙：好，那我下次请你吃饭。(Hǎo, nà wǒ xiàcì qǐng nǐ chīfàn.)  
+服务员：如果你们第一次来，我比较推荐这个招牌牛肉面，很多客人都点。(Rúguǒ nǐmen dì-yī cì lái, wǒ bǐjiào tuījiàn zhè ge zhāopái niúròu miàn, hěn duō kèrén dōu diǎn.)  
+甲：听起来不错，不过我们的口味比较清淡。这个会不会太辣？(Tīng qǐlái búcuò, búguò wǒmen de kǒuwèi bǐjiào qīngdàn. Zhè ge huì bu huì tài là?)  
+服务员：可以做成微辣，或者完全不辣。分量也比较大，两个人可以一起吃。(Kěyǐ zuò chéng wēilà, huòzhě wánquán bú là. Fènliàng yě bǐjiào dà, liǎng ge rén kěyǐ yìqǐ chī.)  
+乙：那我们先来一份不辣的牛肉面，另外再点一份青菜和两杯热茶。(Nà wǒmen xiān lái yí fèn bú là de niúròu miàn, lìngwài zài diǎn yí fèn qīngcài hé liǎng bēi rè chá.)  
 
 ### C) 汉字 only
-甲：服务员，我们想结账，一共多少钱？  
-服务员：一共一百二十六块。  
-乙：可以刷卡吗？我也可以付现金。  
-甲：我来买单吧，下次你请我。  
-乙：好，那我下次请你吃饭。  
+服务员：如果你们第一次来，我比较推荐这个招牌牛肉面，很多客人都点。  
+甲：听起来不错，不过我们的口味比较清淡。这个会不会太辣？  
+服务员：可以做成微辣，或者完全不辣。分量也比较大，两个人可以一起吃。  
+乙：那我们先来一份不辣的牛肉面，另外再点一份青菜和两杯热茶。  
 
 **Mini glossary (non-key)**  
 | Word/Phrase | Pinyin | English |
 |---|---|---|
-| 一百二十六 | yìbǎi èrshíliù | 126 |
-| 付 | fù | pay |
-| 那 | nà | then |
-| 吃饭 | chīfàn | eat a meal |
-| 下次 | xiàcì | next time |
+| 微辣 | wēilà | mildly spicy |
+| 完全 | wánquán | completely |
+| 青菜 | qīngcài | greens |
+| 很多客人 | hěn duō kèrén | many customers |
+| 一起吃 | yìqǐ chī | share together |
 
 **Comprehension checks**
-1) 一共多少钱？  
-2) 甲和乙怎么决定谁买单？  
+1) 甲和乙为什么担心这道菜？  
+2) 服务员给了哪两个辣度选择？  
+3) 他们最后点了哪些东西？  
 
-## Day 6 🔴 — 再来一份 (One more + preferences) — Review Days 1–5
+## Day 3 🟡 — 过敏和换菜 (Allergy and changing dishes)
 
 ### A) 汉字 → Pinyin → English
 
-**甲：这个真的很好吃，我们再来一份，可以吗？**  
-*Jiǎ: Zhè ge zhēn de hěn hǎochī, wǒmen zài lái yí fèn, kěyǐ ma?*  
-This is really delicious—can we get one more portion?
+**乙：不好意思，我刚才又看了一下菜单，发现这个凉菜里可能有花生。**  
+*Yǐ: Bù hǎoyìsi, wǒ gāngcái yòu kàn le yíxià càidān, fāxiàn zhè ge liángcài lǐ kěnéng yǒu huāshēng.*  
+Sorry, I looked at the menu again and noticed this cold dish may have peanuts in it.
 
-**乙：可以，但是不要太咸，也不要太辣。**  
-*Yǐ: Kěyǐ, dànshì bú yào tài xián, yě bú yào tài là.*  
-Sure, but not too salty and not too spicy.
+**服务员：对，这道菜上面会放一点儿花生。请问你是对花生过敏吗？**  
+*Fúwùyuán: Duì, zhè dào cài shàngmiàn huì fàng yìdiǎnr huāshēng. Qǐngwèn nǐ shì duì huāshēng guòmǐn ma?*  
+Yes, this dish normally has a little peanut on top. May I ask whether you’re allergic to peanuts?
 
-**甲：服务员，请再来这个；还要一杯冷水。**  
-*Jiǎ: Fúwùyuán, qǐng zài lái zhè ge; hái yào yì bēi lěng shuǐ.*  
-Server, please bring this again; and a cup of cold water.
+**乙：对，所以我想换一道没有花生、也不要太咸的菜。**  
+*Yǐ: Duì, suǒyǐ wǒ xiǎng huàn yí dào méiyǒu huāshēng, yě bú yào tài xián de cài.*  
+Yes, so I’d like to switch to a dish without peanuts and also not too salty.
 
-**服务员：好的。你们还要茶还是咖啡？**  
-*Fúwùyuán: Hǎo de. Nǐmen hái yào chá háishi kāfēi?*  
-OK. Do you also want tea or coffee?
-
-**乙：我想要咖啡。甲还是要热茶吗？**  
-*Yǐ: Wǒ xiǎng yào kāfēi. Jiǎ háishi yào rè chá ma?*  
-I want coffee. Does A still want hot tea?
-
-**甲：对，我还是要热茶。谢谢！**  
-*Jiǎ: Duì, wǒ háishi yào rè chá. Xièxie!*  
-Yes, I still want hot tea. Thanks!
+**服务员：明白了。那我推荐清炒青菜，比较清淡，也没有你担心的材料。**  
+*Fúwùyuán: Míngbai le. Nà wǒ tuījiàn qīngchǎo qīngcài, bǐjiào qīngdàn, yě méiyǒu nǐ dānxīn de cáiliào.*  
+Understood. Then I recommend stir-fried greens. It’s lighter and doesn’t have the ingredient you’re worried about.
 
 ### B) 汉字 + Pinyin
-甲：这个真的很好吃，我们再来一份，可以吗？(Zhè ge zhēn de hěn hǎochī, wǒmen zài lái yí fèn, kěyǐ ma?)  
-乙：可以，但是不要太咸，也不要太辣。(Kěyǐ, dànshì bú yào tài xián, yě bú yào tài là.)  
-甲：服务员，请再来这个；还要一杯冷水。(Fúwùyuán, qǐng zài lái zhè ge; hái yào yì bēi lěng shuǐ.)  
-服务员：好的。你们还要茶还是咖啡？(Hǎo de. Nǐmen hái yào chá háishi kāfēi?)  
-乙：我想要咖啡。甲还是要热茶吗？(Wǒ xiǎng yào kāfēi. Jiǎ háishi yào rè chá ma?)  
-甲：对，我还是要热茶。谢谢！(Duì, wǒ háishi yào rè chá. Xièxie!)  
+乙：不好意思，我刚才又看了一下菜单，发现这个凉菜里可能有花生。(Bù hǎoyìsi, wǒ gāngcái yòu kàn le yíxià càidān, fāxiàn zhè ge liángcài lǐ kěnéng yǒu huāshēng.)  
+服务员：对，这道菜上面会放一点儿花生。请问你是对花生过敏吗？(Duì, zhè dào cài shàngmiàn huì fàng yìdiǎnr huāshēng. Qǐngwèn nǐ shì duì huāshēng guòmǐn ma?)  
+乙：对，所以我想换一道没有花生、也不要太咸的菜。(Duì, suǒyǐ wǒ xiǎng huàn yí dào méiyǒu huāshēng, yě bú yào tài xián de cài.)  
+服务员：明白了。那我推荐清炒青菜，比较清淡，也没有你担心的材料。(Míngbai le. Nà wǒ tuījiàn qīngchǎo qīngcài, bǐjiào qīngdàn, yě méiyǒu nǐ dānxīn de cáiliào.)  
 
 ### C) 汉字 only
-甲：这个真的很好吃，我们再来一份，可以吗？  
-乙：可以，但是不要太咸，也不要太辣。  
-甲：服务员，请再来这个；还要一杯冷水。  
-服务员：好的。你们还要茶还是咖啡？  
-乙：我想要咖啡。甲还是要热茶吗？  
-甲：对，我还是要热茶。谢谢！  
+乙：不好意思，我刚才又看了一下菜单，发现这个凉菜里可能有花生。  
+服务员：对，这道菜上面会放一点儿花生。请问你是对花生过敏吗？  
+乙：对，所以我想换一道没有花生、也不要太咸的菜。  
+服务员：明白了。那我推荐清炒青菜，比较清淡，也没有你担心的材料。  
 
 **Mini glossary (non-key)**  
 | Word/Phrase | Pinyin | English |
 |---|---|---|
-| 真的 | zhēn de | really |
-| 一份 | yí fèn | one portion |
-| 也 | yě | also |
-| 对 | duì | right; yes |
-| 谢谢 | xièxie | thanks |
+| 凉菜 | liángcài | cold dish |
+| 上面 | shàngmiàn | on top |
+| 明白了 | míngbai le | understood |
+| 材料 | cáiliào | ingredient |
+| 担心 | dānxīn | worry |
 
 **Comprehension checks**
-1) 乙对味道有什么要求？  
-2) 他们最后喝什么？  
+1) 乙为什么要换菜？  
+2) 乙除了花生以外，还有什么口味要求？  
+3) 服务员推荐的新菜为什么更合适？  
 
+## Day 4 🟡 — 上菜太慢了怎么办 (What to do when dishes are slow)
+
+### A) 汉字 → Pinyin → English
+
+**甲：我们已经等了二十多分钟了，饮料先到了，可是主菜还没来。**  
+*Jiǎ: Wǒmen yǐjīng děng le èrshí duō fēnzhōng le, yǐnliào xiān dào le, kěshì zhǔcài hái méi lái.*  
+We’ve already waited more than twenty minutes. The drinks came first, but the main dish still hasn’t arrived.
+
+**乙：要不要问一下服务员？如果厨房太忙，我们也可以先吃别的。**  
+*Yǐ: Yào bu yào wèn yíxià fúwùyuán? Rúguǒ chúfáng tài máng, wǒmen yě kěyǐ xiān chī bié de.*  
+Should we ask the server? If the kitchen is too busy, we can eat something else first.
+
+**服务员：不好意思，让你们久等了。牛肉面正在做，大概还要五分钟。**  
+*Fúwùyuán: Bù hǎoyìsi, ràng nǐmen jiǔ děng le. Niúròu miàn zhèngzài zuò, dàgài hái yào wǔ fēnzhōng.*  
+Sorry to keep you waiting. The beef noodles are being made and will take about five more minutes.
+
+**甲：没关系，那我们先吃青菜吧。如果可以的话，请再加一份小菜。**  
+*Jiǎ: Méi guānxi, nà wǒmen xiān chī qīngcài ba. Rúguǒ kěyǐ dehuà, qǐng zài jiā yí fèn xiǎocài.*  
+That’s okay. Then we’ll eat the greens first. If possible, please add one more small side dish.
+
+### B) 汉字 + Pinyin
+甲：我们已经等了二十多分钟了，饮料先到了，可是主菜还没来。(Wǒmen yǐjīng děng le èrshí duō fēnzhōng le, yǐnliào xiān dào le, kěshì zhǔcài hái méi lái.)  
+乙：要不要问一下服务员？如果厨房太忙，我们也可以先吃别的。(Yào bu yào wèn yíxià fúwùyuán? Rúguǒ chúfáng tài máng, wǒmen yě kěyǐ xiān chī bié de.)  
+服务员：不好意思，让你们久等了。牛肉面正在做，大概还要五分钟。(Bù hǎoyìsi, ràng nǐmen jiǔ děng le. Niúròu miàn zhèngzài zuò, dàgài hái yào wǔ fēnzhōng.)  
+甲：没关系，那我们先吃青菜吧。如果可以的话，请再加一份小菜。(Méi guānxi, nà wǒmen xiān chī qīngcài ba. Rúguǒ kěyǐ dehuà, qǐng zài jiā yí fèn xiǎocài.)  
+
+### C) 汉字 only
+甲：我们已经等了二十多分钟了，饮料先到了，可是主菜还没来。  
+乙：要不要问一下服务员？如果厨房太忙，我们也可以先吃别的。  
+服务员：不好意思，让你们久等了。牛肉面正在做，大概还要五分钟。  
+甲：没关系，那我们先吃青菜吧。如果可以的话，请再加一份小菜。  
+
+**Mini glossary (non-key)**  
+| Word/Phrase | Pinyin | English |
+|---|---|---|
+| 主菜 | zhǔcài | main dish |
+| 厨房 | chúfáng | kitchen |
+| 久等 | jiǔděng | wait a long time |
+| 正在 | zhèngzài | in the middle of |
+| 小菜 | xiǎocài | side dish |
+
+**Comprehension checks**
+1) 他们现在遇到了什么问题？  
+2) 服务员怎么解释？  
+3) 甲最后提出了什么补充要求？  
+
+## Day 5 🔴 — 打包还是现场吃完 (Takeout or finish here?)
+
+### A) 汉字 → Pinyin → English
+
+**乙：这份面分量比我想的还大，我现在已经有点饱了。**  
+*Yǐ: Zhè fèn miàn fènliàng bǐ wǒ xiǎng de hái dà, wǒ xiànzài yǐjīng yǒudiǎnr bǎo le.*  
+This bowl of noodles is even bigger than I expected. I’m already a little full.
+
+**甲：我也是。你觉得我们要不要把剩下的打包带走？**  
+*Jiǎ: Wǒ yě shì. Nǐ juéde wǒmen yào bu yào bǎ shèngxia de dǎbāo dài zǒu?*  
+Me too. Do you think we should pack up the rest to take away?
+
+**乙：可以，尤其是这个青菜，回家以后热一下还可以吃。**  
+*Yǐ: Kěyǐ, yóuqí shì zhè ge qīngcài, huí jiā yǐhòu rè yíxià hái kěyǐ chī.*  
+Yes, especially the greens. We can heat them up at home and still eat them.
+
+**甲：那等一下结账的时候一起说吧，顺便请他们分开装。**  
+*Jiǎ: Nà děng yíxià jiézhàng de shíhou yìqǐ shuō ba, shùnbiàn qǐng tāmen fēnkāi zhuāng.*  
+Then let’s mention it when we pay later, and also ask them to pack it separately.
+
+### B) 汉字 + Pinyin
+乙：这份面分量比我想的还大，我现在已经有点饱了。(Zhè fèn miàn fènliàng bǐ wǒ xiǎng de hái dà, wǒ xiànzài yǐjīng yǒudiǎnr bǎo le.)  
+甲：我也是。你觉得我们要不要把剩下的打包带走？(Wǒ yě shì. Nǐ juéde wǒmen yào bu yào bǎ shèngxia de dǎbāo dài zǒu?)  
+乙：可以，尤其是这个青菜，回家以后热一下还可以吃。(Kěyǐ, yóuqí shì zhè ge qīngcài, huí jiā yǐhòu rè yíxià hái kěyǐ chī.)  
+甲：那等一下结账的时候一起说吧，顺便请他们分开装。(Nà děng yíxià jiézhàng de shíhou yìqǐ shuō ba, shùnbiàn qǐng tāmen fēnkāi zhuāng.)  
+
+### C) 汉字 only
+乙：这份面分量比我想的还大，我现在已经有点饱了。  
+甲：我也是。你觉得我们要不要把剩下的打包带走？  
+乙：可以，尤其是这个青菜，回家以后热一下还可以吃。  
+甲：那等一下结账的时候一起说吧，顺便请他们分开装。  
+
+**Mini glossary (non-key)**  
+| Word/Phrase | Pinyin | English |
+|---|---|---|
+| 剩下 | shèngxia | remaining |
+| 带走 | dài zǒu | take away |
+| 尤其 | yóuqí | especially |
+| 热一下 | rè yíxià | heat up briefly |
+| 分开装 | fēnkāi zhuāng | pack separately |
+
+**Comprehension checks**
+1) 乙为什么想打包？  
+2) 他们准备什么时候提出打包要求？  
+3) 为什么要“分开装”？  
+
+## Day 6 🔴 — 结账和开发票 (Paying and asking for a receipt)
+
+### A) 汉字 → Pinyin → English
+
+**甲：服务员，麻烦结账。我们还想把剩下的两样菜打包。**  
+*Jiǎ: Fúwùyuán, máfan jiézhàng. Wǒmen hái xiǎng bǎ shèngxia de liǎng yàng cài dǎbāo.*  
+Server, could we get the bill? We’d also like to pack up the two remaining dishes.
+
+**服务员：好的，一共一百二十八块。打包盒我马上给你们准备。**  
+*Fúwùyuán: Hǎo de, yígòng yìbǎi èrshíbā kuài. Dǎbāohé wǒ mǎshàng gěi nǐmen zhǔnbèi.*  
+Sure. The total is 128 yuan. I’ll get the takeout boxes ready right away.
+
+**乙：可以刷卡吗？如果可以的话，我还想要一张发票。**  
+*Yǐ: Kěyǐ shuākǎ ma? Rúguǒ kěyǐ dehuà, wǒ hái xiǎng yào yì zhāng fāpiào.*  
+Can I pay by card? If so, I’d also like a receipt.
+
+**服务员：当然可以。请稍等一下，发票和打包好的菜会一起给你们。**  
+*Fúwùyuán: Dāngrán kěyǐ. Qǐng shāo děng yíxià, fāpiào hé dǎbāo hǎo de cài huì yìqǐ gěi nǐmen.*  
+Of course. Please wait a moment. I’ll bring the receipt and the packed dishes together.
+
+### B) 汉字 + Pinyin
+甲：服务员，麻烦结账。我们还想把剩下的两样菜打包。(Fúwùyuán, máfan jiézhàng. Wǒmen hái xiǎng bǎ shèngxia de liǎng yàng cài dǎbāo.)  
+服务员：好的，一共一百二十八块。打包盒我马上给你们准备。(Hǎo de, yígòng yìbǎi èrshíbā kuài. Dǎbāohé wǒ mǎshàng gěi nǐmen zhǔnbèi.)  
+乙：可以刷卡吗？如果可以的话，我还想要一张发票。(Kěyǐ shuākǎ ma? Rúguǒ kěyǐ dehuà, wǒ hái xiǎng yào yì zhāng fāpiào.)  
+服务员：当然可以。请稍等一下，发票和打包好的菜会一起给你们。(Dāngrán kěyǐ. Qǐng shāo děng yíxià, fāpiào hé dǎbāo hǎo de cài huì yìqǐ gěi nǐmen.)  
+
+### C) 汉字 only
+甲：服务员，麻烦结账。我们还想把剩下的两样菜打包。  
+服务员：好的，一共一百二十八块。打包盒我马上给你们准备。  
+乙：可以刷卡吗？如果可以的话，我还想要一张发票。  
+服务员：当然可以。请稍等一下，发票和打包好的菜会一起给你们。  
+
+**Mini glossary (non-key)**  
+| Word/Phrase | Pinyin | English |
+|---|---|---|
+| 两样 | liǎng yàng | two kinds |
+| 打包盒 | dǎbāohé | takeout box |
+| 一张发票 | yì zhāng fāpiào | a receipt |
+| 稍等 | shāoděng | wait a moment |
+| 一起给 | yìqǐ gěi | give together |
+
+**Comprehension checks**
+1) 他们结账的时候还提出了哪两个要求？  
+2) 一共多少钱？  
+3) 服务员最后会一起拿来什么？  

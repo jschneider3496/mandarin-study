@@ -5,277 +5,278 @@ Each day includes:
 - Mini glossary (non-key words/phrases)
 - Comprehension checks
 
-## Day 1 🟢 — 你做什么工作？(Job + responsibility)
+## Day 1 🟢 — 负责什么工作？(Responsibilities at work)
 
 ### A) 汉字 → Pinyin → English
 
-**甲：你在什么公司工作？平时忙不忙？**  
-*Jiǎ: Nǐ zài shénme gōngsī gōngzuò? Píngshí máng bu máng?*  
-What company do you work at? Are you usually busy?
+**甲：你最近在做什么项目？平时主要负责哪一部分？**  
+*Jiǎ: Nǐ zuìjìn zài zuò shénme xiàngmù? Píngshí zhǔyào fùzé nǎ yí bùfen?*  
+What project are you working on recently? Which part are you mainly responsible for?
 
-**乙：我在一家公司工作，最近比较忙，因为有一个新项目。**  
-*Yǐ: Wǒ zài yì jiā gōngsī gōngzuò, zuìjìn bǐjiào máng, yīnwèi yǒu yí ge xīn xiàngmù.*  
-I work at a company. Recently I’m relatively busy because there’s a new project.
+**乙：我在做一个新的客户项目，主要负责时间安排、会议记录和跟团队沟通。**  
+*Yǐ: Wǒ zài zuò yí ge xīn de kèhù xiàngmù, zhǔyào fùzé shíjiān ānpái, huìyì jìlù hé gēn tuánduì gōutōng.*  
+I’m working on a new client project, mainly responsible for scheduling, meeting notes, and communicating with the team.
 
-**甲：那你主要负责什么任务？需要同事帮忙吗？**  
-*Jiǎ: Nà nǐ zhǔyào fùzé shénme rènwu? Xūyào tóngshì bāngmáng ma?*  
-Then what tasks are you mainly responsible for? Do you need colleagues’ help?
+**甲：听起来事情不少。你一个人处理得过来吗？**  
+*Jiǎ: Tīng qǐlái shìqing bù shǎo. Nǐ yí ge rén chǔlǐ de guòlái ma?*  
+That sounds like quite a lot. Can you handle it all by yourself?
 
-**乙：我负责时间安排和报告，如果有问题我会请同事帮忙。**  
-*Yǐ: Wǒ fùzé shíjiān ānpái hé bàogào, rúguǒ yǒu wèntí wǒ huì qǐng tóngshì bāngmáng.*  
-I’m responsible for scheduling and reports. If there’s a problem, I’ll ask colleagues for help.
+**乙：大部分可以，不过如果进度太赶，我还是会请同事帮忙。**  
+*Yǐ: Dà bùfen kěyǐ, búguò rúguǒ jìndù tài gǎn, wǒ háishi huì qǐng tóngshì bāngmáng.*  
+For the most part, yes, but if the schedule gets too tight, I’ll still ask colleagues for help.
 
 ### B) 汉字 + Pinyin
-甲：你在什么公司工作？平时忙不忙？(Nǐ zài shénme gōngsī gōngzuò? Píngshí máng bu máng?)  
-乙：我在一家公司工作，最近比较忙，因为有一个新项目。(Wǒ zài yì jiā gōngsī gōngzuò, zuìjìn bǐjiào máng, yīnwèi yǒu yí ge xīn xiàngmù.)  
-甲：那你主要负责什么任务？需要同事帮忙吗？(Nà nǐ zhǔyào fùzé shénme rènwu? Xūyào tóngshì bāngmáng ma?)  
-乙：我负责时间安排和报告，如果有问题我会请同事帮忙。(Wǒ fùzé shíjiān ānpái hé bàogào, rúguǒ yǒu wèntí wǒ huì qǐng tóngshì bāngmáng.)  
+甲：你最近在做什么项目？平时主要负责哪一部分？(Nǐ zuìjìn zài zuò shénme xiàngmù? Píngshí zhǔyào fùzé nǎ yí bùfen?)  
+乙：我在做一个新的客户项目，主要负责时间安排、会议记录和跟团队沟通。(Wǒ zài zuò yí ge xīn de kèhù xiàngmù, zhǔyào fùzé shíjiān ānpái, huìyì jìlù hé gēn tuánduì gōutōng.)  
+甲：听起来事情不少。你一个人处理得过来吗？(Tīng qǐlái shìqing bù shǎo. Nǐ yí ge rén chǔlǐ de guòlái ma?)  
+乙：大部分可以，不过如果进度太赶，我还是会请同事帮忙。(Dà bùfen kěyǐ, búguò rúguǒ jìndù tài gǎn, wǒ háishi huì qǐng tóngshì bāngmáng.)  
 
 ### C) 汉字 only
-甲：你在什么公司工作？平时忙不忙？  
-乙：我在一家公司工作，最近比较忙，因为有一个新项目。  
-甲：那你主要负责什么任务？需要同事帮忙吗？  
-乙：我负责时间安排和报告，如果有问题我会请同事帮忙。  
+甲：你最近在做什么项目？平时主要负责哪一部分？  
+乙：我在做一个新的客户项目，主要负责时间安排、会议记录和跟团队沟通。  
+甲：听起来事情不少。你一个人处理得过来吗？  
+乙：大部分可以，不过如果进度太赶，我还是会请同事帮忙。  
 
 **Mini glossary (non-key)**  
 | Word/Phrase | Pinyin | English |
 |---|---|---|
-| 平时 | píngshí | usually |
-| 最近 | zuìjìn | recently |
-| 比较 | bǐjiào | relatively |
-| 新 | xīn | new |
-| 主要 | zhǔyào | mainly |
-| 安排 | ānpái | arrange; schedule |
+| 一部分 | yí bùfen | one part |
+| 记录 | jìlù | record; notes |
+| 沟通 | gōutōng | communicate |
+| 处理得过来 | chǔlǐ de guòlái | handle/manage |
+| 大部分 | dà bùfen | most |
 
 **Comprehension checks**
-1) 乙为什么最近很忙？  
-2) 乙主要负责什么？  
+1) 乙主要负责哪些工作？  
+2) 什么情况下乙会请同事帮忙？  
+3) 从对话看，乙现在忙吗？为什么？  
 
-## Day 2 🟢 — 什么时候开会？(Meeting planning)
+## Day 2 🟢 — 会议前要准备什么 (What to prepare before a meeting)
 
 ### A) 汉字 → Pinyin → English
 
-**甲：我们什么时候开会？今天还是明天？**  
-*Jiǎ: Wǒmen shénme shíhou kāihuì? Jīntiān háishi míngtiān?*  
-When are we having the meeting—today or tomorrow?
+**甲：今天下午的会议很重要，你准备得怎么样了？**  
+*Jiǎ: Jīntiān xiàwǔ de huìyì hěn zhòngyào, nǐ zhǔnbèi de zěnmeyàng le?*  
+This afternoon’s meeting is important. How is your preparation going?
 
-**乙：今天下午两点开会，老板和同事都会来，所以很重要。**  
-*Yǐ: Jīntiān xiàwǔ liǎng diǎn kāihuì, lǎobǎn hé tóngshì dōu huì lái, suǒyǐ hěn zhòngyào.*  
-The meeting is today at 2 pm; the boss and colleagues will all come, so it’s important.
+**乙：报告已经写得差不多了，不过有两页数据我还想再确认一下。**  
+*Yǐ: Bàogào yǐjīng xiě de chàbuduō le, búguò yǒu liǎng yè shùjù wǒ hái xiǎng zài quèrèn yíxià.*  
+The report is almost finished, but there are two pages of data I still want to confirm.
 
-**甲：好的。我现在开始准备报告，你能帮我看看吗？**  
-*Jiǎ: Hǎo de. Wǒ xiànzài kāishǐ zhǔnbèi bàogào, nǐ néng bāng wǒ kànkan ma?*  
-OK. I’ll start preparing the report now—can you help me take a look?
+**甲：如果你需要，我可以先帮你看结构，再一起讨论重点。**  
+*Jiǎ: Rúguǒ nǐ xūyào, wǒ kěyǐ xiān bāng nǐ kàn jiégòu, zài yìqǐ tǎolùn zhòngdiǎn.*  
+If you need, I can first help you review the structure and then discuss the key points together.
 
-**乙：可以。如果你需要，我会给你一些建议。**  
-*Yǐ: Kěyǐ. Rúguǒ nǐ xūyào, wǒ huì gěi nǐ yìxiē jiànyì.*  
-Sure. If you need, I’ll give you some suggestions.
+**乙：太好了。这样我就能提前把最后一版准备好，不会开会前才着急。**  
+*Yǐ: Tài hǎo le. Zhèyàng wǒ jiù néng tíqián bǎ zuìhòu yì bǎn zhǔnbèi hǎo, bú huì kāihuì qián cái zháojí.*  
+That would be great. Then I can get the final version ready in advance and won’t be rushing right before the meeting.
 
 ### B) 汉字 + Pinyin
-甲：我们什么时候开会？今天还是明天？(Wǒmen shénme shíhou kāihuì? Jīntiān háishi míngtiān?)  
-乙：今天下午两点开会，老板和同事都会来，所以很重要。(Jīntiān xiàwǔ liǎng diǎn kāihuì, lǎobǎn hé tóngshì dōu huì lái, suǒyǐ hěn zhòngyào.)  
-甲：好的。我现在开始准备报告，你能帮我看看吗？(Hǎo de. Wǒ xiànzài kāishǐ zhǔnbèi bàogào, nǐ néng bāng wǒ kànkan ma?)  
-乙：可以。如果你需要，我会给你一些建议。(Kěyǐ. Rúguǒ nǐ xūyào, wǒ huì gěi nǐ yìxiē jiànyì.)  
+甲：今天下午的会议很重要，你准备得怎么样了？(Jīntiān xiàwǔ de huìyì hěn zhòngyào, nǐ zhǔnbèi de zěnmeyàng le?)  
+乙：报告已经写得差不多了，不过有两页数据我还想再确认一下。(Bàogào yǐjīng xiě de chàbuduō le, búguò yǒu liǎng yè shùjù wǒ hái xiǎng zài quèrèn yíxià.)  
+甲：如果你需要，我可以先帮你看结构，再一起讨论重点。(Rúguǒ nǐ xūyào, wǒ kěyǐ xiān bāng nǐ kàn jiégòu, zài yìqǐ tǎolùn zhòngdiǎn.)  
+乙：太好了。这样我就能提前把最后一版准备好，不会开会前才着急。(Tài hǎo le. Zhèyàng wǒ jiù néng tíqián bǎ zuìhòu yì bǎn zhǔnbèi hǎo, bú huì kāihuì qián cái zháojí.)  
 
 ### C) 汉字 only
-甲：我们什么时候开会？今天还是明天？  
-乙：今天下午两点开会，老板和同事都会来，所以很重要。  
-甲：好的。我现在开始准备报告，你能帮我看看吗？  
-乙：可以。如果你需要，我会给你一些建议。  
+甲：今天下午的会议很重要，你准备得怎么样了？  
+乙：报告已经写得差不多了，不过有两页数据我还想再确认一下。  
+甲：如果你需要，我可以先帮你看结构，再一起讨论重点。  
+乙：太好了。这样我就能提前把最后一版准备好，不会开会前才着急。  
 
 **Mini glossary (non-key)**  
 | Word/Phrase | Pinyin | English |
 |---|---|---|
-| 下午 | xiàwǔ | afternoon |
-| 两点 | liǎng diǎn | 2 o’clock |
-| 都会 | dōu huì | will all |
-| 准备 | zhǔnbèi | prepare |
-| 看看 | kànkan | take a look |
-| 建议 | jiànyì | suggestion |
+| 两页 | liǎng yè | two pages |
+| 确认 | quèrèn | confirm |
+| 结构 | jiégòu | structure |
+| 重点 | zhòngdiǎn | key point |
+| 最后一版 | zuìhòu yì bǎn | final version |
 
 **Comprehension checks**
-1) 会议什么时候开？谁会来？  
-2) 甲要准备什么？乙怎么帮忙？  
+1) 乙还有什么没有完全准备好？  
+2) 甲打算怎么帮忙？  
+3) 乙为什么觉得这样安排更好？  
 
-## Day 3 🟡 — 任务进度 (Task status) — Review Day 1
+## Day 3 🟡 — 汇报进度和截止时间 (Status update and deadline)
 
 ### A) 汉字 → Pinyin → English
 
-**甲：这个任务你完成了吗？如果还没有，什么时候能完成？**  
-*Jiǎ: Zhè ge rènwu nǐ wánchéng le ma? Rúguǒ hái méiyǒu, shénme shíhou néng wánchéng?*  
-Have you finished this task? If not yet, when can you finish?
+**甲：这个任务的截止时间是明天下午，你现在的进度到哪儿了？**  
+*Jiǎ: Zhè ge rènwu de jiézhǐ shíjiān shì míngtiān xiàwǔ, nǐ xiànzài de jìndù dào nǎr le?*  
+The deadline for this task is tomorrow afternoon. How far along are you now?
 
-**乙：还没有，我需要一点儿时间；但是我应该今天能完成。**  
-*Yǐ: Hái méiyǒu, wǒ xūyào yìdiǎnr shíjiān; dànshì wǒ yīnggāi jīntiān néng wánchéng.*  
-Not yet, I need a bit of time; but I should be able to finish today.
+**乙：主体已经完成了，不过还有一部分说明没写完，也需要再修改一下。**  
+*Yǐ: Zhǔtǐ yǐjīng wánchéng le, búguò hái yǒu yí bùfen shuōmíng méi xiě wán, yě xūyào zài xiūgǎi yíxià.*  
+The main body is already finished, but one part of the explanation isn’t done yet and still needs a bit more revision.
 
-**甲：好的。如果有问题，马上告诉我，我们一起解决。**  
-*Jiǎ: Hǎo de. Rúguǒ yǒu wèntí, mǎshàng gàosu wǒ, wǒmen yìqǐ jiějué.*  
-OK. If there’s a problem, tell me right away—we’ll solve it together.
+**甲：你觉得今天能结束吗？如果不行，我们要早点调整安排。**  
+*Jiǎ: Nǐ juéde jīntiān néng jiéshù ma? Rúguǒ bù xíng, wǒmen yào zǎodiǎn tiáozhěng ānpái.*  
+Do you think you can finish today? If not, we need to adjust the schedule earlier.
 
-**乙：谢谢。我完成以后会发邮件给你。**  
-*Yǐ: Xièxie. Wǒ wánchéng yǐhòu huì fā yóujiàn gěi nǐ.*  
-Thanks. After I finish, I’ll email you.
+**乙：我应该能完成。虽然时间有点赶，但是我今晚继续做，明早再检查一次。**  
+*Yǐ: Wǒ yīnggāi néng wánchéng. Suīrán shíjiān yǒudiǎnr gǎn, dànshì wǒ jīnwǎn jìxù zuò, míngzǎo zài jiǎnchá yí cì.*  
+I should be able to finish. Although time is a bit tight, I’ll continue tonight and check it once more tomorrow morning.
 
 ### B) 汉字 + Pinyin
-甲：这个任务你完成了吗？如果还没有，什么时候能完成？(Zhè ge rènwu nǐ wánchéng le ma? Rúguǒ hái méiyǒu, shénme shíhou néng wánchéng?)  
-乙：还没有，我需要一点儿时间；但是我应该今天能完成。(Hái méiyǒu, wǒ xūyào yìdiǎnr shíjiān; dànshì wǒ yīnggāi jīntiān néng wánchéng.)  
-甲：好的。如果有问题，马上告诉我，我们一起解决。(Hǎo de. Rúguǒ yǒu wèntí, mǎshàng gàosu wǒ, wǒmen yìqǐ jiějué.)  
-乙：谢谢。我完成以后会发邮件给你。(Xièxie. Wǒ wánchéng yǐhòu huì fā yóujiàn gěi nǐ.)  
+甲：这个任务的截止时间是明天下午，你现在的进度到哪儿了？(Zhè ge rènwu de jiézhǐ shíjiān shì míngtiān xiàwǔ, nǐ xiànzài de jìndù dào nǎr le?)  
+乙：主体已经完成了，不过还有一部分说明没写完，也需要再修改一下。(Zhǔtǐ yǐjīng wánchéng le, búguò hái yǒu yí bùfen shuōmíng méi xiě wán, yě xūyào zài xiūgǎi yíxià.)  
+甲：你觉得今天能结束吗？如果不行，我们要早点调整安排。(Nǐ juéde jīntiān néng jiéshù ma? Rúguǒ bù xíng, wǒmen yào zǎodiǎn tiáozhěng ānpái.)  
+乙：我应该能完成。虽然时间有点赶，但是我今晚继续做，明早再检查一次。(Wǒ yīnggāi néng wánchéng. Suīrán shíjiān yǒudiǎnr gǎn, dànshì wǒ jīnwǎn jìxù zuò, míngzǎo zài jiǎnchá yí cì.)  
 
 ### C) 汉字 only
-甲：这个任务你完成了吗？如果还没有，什么时候能完成？  
-乙：还没有，我需要一点儿时间；但是我应该今天能完成。  
-甲：好的。如果有问题，马上告诉我，我们一起解决。  
-乙：谢谢。我完成以后会发邮件给你。  
+甲：这个任务的截止时间是明天下午，你现在的进度到哪儿了？  
+乙：主体已经完成了，不过还有一部分说明没写完，也需要再修改一下。  
+甲：你觉得今天能结束吗？如果不行，我们要早点调整安排。  
+乙：我应该能完成。虽然时间有点赶，但是我今晚继续做，明早再检查一次。  
 
 **Mini glossary (non-key)**  
 | Word/Phrase | Pinyin | English |
 |---|---|---|
-| 还没有 | hái méiyǒu | not yet |
-| 马上 | mǎshàng | right away |
-| 解决 | jiějué | solve |
-| 完成以后 | wánchéng yǐhòu | after finishing |
-| 发…给… | fā… gěi… | send … to … |
+| 主体 | zhǔtǐ | main body |
+| 没写完 | méi xiě wán | not finished writing |
+| 调整 | tiáozhěng | adjust |
+| 检查 | jiǎnchá | check |
+| 明早 | míngzǎo | tomorrow morning |
 
 **Comprehension checks**
-1) 乙什么时候能完成？  
-2) 甲让乙怎么做？  
+1) 乙已经完成了什么？  
+2) 还剩下哪两件事？  
+3) 为什么甲说要早点调整安排？  
 
-## Day 4 🟡 — 帮个忙 (Request + explain) — Review Day 2
+## Day 4 🟡 — 临时问题和解决办法 (A sudden problem and how to handle it)
 
 ### A) 汉字 → Pinyin → English
 
-**乙：我现在有一个问题，你可以帮忙吗？我有点儿着急。**  
-*Yǐ: Wǒ xiànzài yǒu yí ge wèntí, nǐ kěyǐ bāngmáng ma? Wǒ yǒudiǎnr zhāojí.*  
-I have a problem right now—can you help? I’m a bit urgent.
+**乙：我这边出了一个临时问题，客户刚刚发邮件，说想改两个要求。**  
+*Yǐ: Wǒ zhèbiān chū le yí ge línshí wèntí, kèhù gānggang fā yóujiàn, shuō xiǎng gǎi liǎng ge yāoqiú.*  
+A temporary problem came up on my side. The client just sent an email saying they want to change two requirements.
 
-**甲：可以。你需要我做什么？先简单说一下。**  
-*Jiǎ: Kěyǐ. Nǐ xūyào wǒ zuò shénme? Xiān jiǎndān shuō yíxià.*  
-Sure. What do you need me to do? Explain briefly first.
+**甲：改动大吗？如果只是小地方，我们今天应该还能处理完。**  
+*Jiǎ: Gǎidòng dà ma? Rúguǒ zhǐshì xiǎo dìfang, wǒmen jīntiān yīnggāi hái néng chǔlǐ wán.*  
+Is the change big? If it’s only small parts, we should still be able to finish today.
 
-**乙：请你解释一下这个报告，然后告诉我哪里有问题。**  
-*Yǐ: Qǐng nǐ jiěshì yíxià zhè ge bàogào, ránhòu gàosu wǒ nǎli yǒu wèntí.*  
-Please explain this report a bit, then tell me where the problem is.
+**乙：一个不大，另一个需要再讨论一下方案，所以我想先跟团队开个短会。**  
+*Yǐ: Yí ge bú dà, lìng yí ge xūyào zài tǎolùn yíxià fāng'àn, suǒyǐ wǒ xiǎng xiān gēn tuánduì kāi ge duǎn huì.*  
+One isn’t big, but the other needs a bit more discussion about the plan, so I want to have a short meeting with the team first.
 
-**甲：好。我先看一下，等一下就回复你。**  
-*Jiǎ: Hǎo. Wǒ xiān kàn yíxià, děng yíxià jiù huífù nǐ.*  
-OK. I’ll look first, and I’ll reply to you in a moment.
+**甲：好，你先整理重点，我去联系同事。十五分钟后我们一起讨论。**  
+*Jiǎ: Hǎo, nǐ xiān zhěnglǐ zhòngdiǎn, wǒ qù liánxì tóngshì. Shíwǔ fēnzhōng hòu wǒmen yìqǐ tǎolùn.*  
+Okay. You organize the key points first, and I’ll contact the colleagues. We’ll discuss it together in fifteen minutes.
 
 ### B) 汉字 + Pinyin
-乙：我现在有一个问题，你可以帮忙吗？我有点儿着急。(Wǒ xiànzài yǒu yí ge wèntí, nǐ kěyǐ bāngmáng ma? Wǒ yǒudiǎnr zhāojí.)  
-甲：可以。你需要我做什么？先简单说一下。(Kěyǐ. Nǐ xūyào wǒ zuò shénme? Xiān jiǎndān shuō yíxià.)  
-乙：请你解释一下这个报告，然后告诉我哪里有问题。(Qǐng nǐ jiěshì yíxià zhè ge bàogào, ránhòu gàosu wǒ nǎli yǒu wèntí.)  
-甲：好。我先看一下，等一下就回复你。(Hǎo. Wǒ xiān kàn yíxià, děng yíxià jiù huífù nǐ.)  
+乙：我这边出了一个临时问题，客户刚刚发邮件，说想改两个要求。(Wǒ zhèbiān chū le yí ge línshí wèntí, kèhù gānggang fā yóujiàn, shuō xiǎng gǎi liǎng ge yāoqiú.)  
+甲：改动大吗？如果只是小地方，我们今天应该还能处理完。(Gǎidòng dà ma? Rúguǒ zhǐshì xiǎo dìfang, wǒmen jīntiān yīnggāi hái néng chǔlǐ wán.)  
+乙：一个不大，另一个需要再讨论一下方案，所以我想先跟团队开个短会。(Yí ge bú dà, lìng yí ge xūyào zài tǎolùn yíxià fāng'àn, suǒyǐ wǒ xiǎng xiān gēn tuánduì kāi ge duǎn huì.)  
+甲：好，你先整理重点，我去联系同事。十五分钟后我们一起讨论。(Hǎo, nǐ xiān zhěnglǐ zhòngdiǎn, wǒ qù liánxì tóngshì. Shíwǔ fēnzhōng hòu wǒmen yìqǐ tǎolùn.)  
 
 ### C) 汉字 only
-乙：我现在有一个问题，你可以帮忙吗？我有点儿着急。  
-甲：可以。你需要我做什么？先简单说一下。  
-乙：请你解释一下这个报告，然后告诉我哪里有问题。  
-甲：好。我先看一下，等一下就回复你。  
+乙：我这边出了一个临时问题，客户刚刚发邮件，说想改两个要求。  
+甲：改动大吗？如果只是小地方，我们今天应该还能处理完。  
+乙：一个不大，另一个需要再讨论一下方案，所以我想先跟团队开个短会。  
+甲：好，你先整理重点，我去联系同事。十五分钟后我们一起讨论。  
 
 **Mini glossary (non-key)**  
 | Word/Phrase | Pinyin | English |
 |---|---|---|
-| 着急 | zhāojí | anxious; urgent |
-| 简单 | jiǎndān | simple; briefly |
-| 哪里 | nǎli | where |
-| 等一下 | děng yíxià | wait a moment |
-| 看一下 | kàn yíxià | take a quick look |
+| 临时 | línshí | temporary |
+| 改动 | gǎidòng | change; modification |
+| 要求 | yāoqiú | requirement |
+| 短会 | duǎn huì | short meeting |
+| 整理 | zhěnglǐ | organize |
 
 **Comprehension checks**
-1) 乙为什么需要帮忙？  
-2) 甲打算怎么做？  
+1) 客户提出了什么情况？  
+2) 为什么乙想先开个短会？  
+3) 甲和乙各自接下来要做什么？  
 
-## Day 5 🔴 — 请假 (Ask for leave) — Review Days 1–3
+## Day 5 🔴 — 请假前先安排好工作 (Arrange work before asking for leave)
 
 ### A) 汉字 → Pinyin → English
 
-**乙：老板，我明天想请假一天，因为家里有事，可以吗？**  
-*Yǐ: Lǎobǎn, wǒ míngtiān xiǎng qǐngjià yì tiān, yīnwèi jiālǐ yǒu shì, kěyǐ ma?*  
-Boss, I want to take one day off tomorrow because I have something at home—OK?
+**乙：老板，我想提前跟您说一声，我下周一可能需要请假半天。**  
+*Yǐ: Lǎobǎn, wǒ xiǎng tíqián gēn nín shuō yì shēng, wǒ xià zhōu yī kěnéng xūyào qǐngjià bàn tiān.*  
+Boss, I wanted to tell you in advance that I may need to take half a day off next Monday.
 
-**老板：可以，但是今天的任务必须完成，而且会议别迟到。**  
-*Lǎobǎn: Kěyǐ, dànshì jīntiān de rènwu bìxū wánchéng, érqiě huìyì bié chídào.*  
-OK, but today’s tasks must be finished, and don’t be late to the meeting.
+**老板：可以，不过你负责的那个项目最近很关键。你已经安排好了吗？**  
+*Lǎobǎn: Kěyǐ, búguò nǐ fùzé de nà ge xiàngmù zuìjìn hěn guānjiàn. Nǐ yǐjīng ānpái hǎo le ma?*  
+That’s okay, but the project you’re responsible for is in an important stage recently. Have you arranged everything already?
 
-**乙：好的。我今天加班把任务完成，完成以后我会发邮件。**  
-*Yǐ: Hǎo de. Wǒ jīntiān jiābān bǎ rènwu wánchéng, wánchéng yǐhòu wǒ huì fā yóujiàn.*  
-OK. I’ll work overtime today to finish the task; after finishing I’ll send an email.
+**乙：我已经把主要任务列出来了，也跟团队说过。如果有临时问题，我会先回复邮件。**  
+*Yǐ: Wǒ yǐjīng bǎ zhǔyào rènwu liè chūlái le, yě gēn tuánduì shuō guò. Rúguǒ yǒu línshí wèntí, wǒ huì xiān huífù yóujiàn.*  
+I’ve already listed the main tasks and also told the team. If there’s a temporary problem, I’ll reply to emails first.
 
-**老板：如果有问题，马上回复我。**  
-*Lǎobǎn: Rúguǒ yǒu wèntí, mǎshàng huífù wǒ.*  
-If there’s a problem, reply to me right away.
+**老板：那就好。只要进度不要受太大影响，半天假没有问题。**  
+*Lǎobǎn: Nà jiù hǎo. Zhǐyào jìndù bú yào shòu tài dà yǐngxiǎng, bàn tiān jià méiyǒu wèntí.*  
+That’s good. As long as the progress isn’t affected too much, taking half a day off is fine.
 
 ### B) 汉字 + Pinyin
-乙：老板，我明天想请假一天，因为家里有事，可以吗？(Lǎobǎn, wǒ míngtiān xiǎng qǐngjià yì tiān, yīnwèi jiālǐ yǒu shì, kěyǐ ma?)  
-老板：可以，但是今天的任务必须完成，而且会议别迟到。(Kěyǐ, dànshì jīntiān de rènwu bìxū wánchéng, érqiě huìyì bié chídào.)  
-乙：好的。我今天加班把任务完成，完成以后我会发邮件。(Hǎo de. Wǒ jīntiān jiābān bǎ rènwu wánchéng, wánchéng yǐhòu wǒ huì fā yóujiàn.)  
-老板：如果有问题，马上回复我。(Rúguǒ yǒu wèntí, mǎshàng huífù wǒ.)  
+乙：老板，我想提前跟您说一声，我下周一可能需要请假半天。(Lǎobǎn, wǒ xiǎng tíqián gēn nín shuō yì shēng, wǒ xià zhōu yī kěnéng xūyào qǐngjià bàn tiān.)  
+老板：可以，不过你负责的那个项目最近很关键。你已经安排好了吗？(Kěyǐ, búguò nǐ fùzé de nà ge xiàngmù zuìjìn hěn guānjiàn. Nǐ yǐjīng ānpái hǎo le ma?)  
+乙：我已经把主要任务列出来了，也跟团队说过。如果有临时问题，我会先回复邮件。(Wǒ yǐjīng bǎ zhǔyào rènwu liè chūlái le, yě gēn tuánduì shuō guò. Rúguǒ yǒu línshí wèntí, wǒ huì xiān huífù yóujiàn.)  
+老板：那就好。只要进度不要受太大影响，半天假没有问题。(Nà jiù hǎo. Zhǐyào jìndù bú yào shòu tài dà yǐngxiǎng, bàn tiān jià méiyǒu wèntí.)  
 
 ### C) 汉字 only
-乙：老板，我明天想请假一天，因为家里有事，可以吗？  
-老板：可以，但是今天的任务必须完成，而且会议别迟到。  
-乙：好的。我今天加班把任务完成，完成以后我会发邮件。  
-老板：如果有问题，马上回复我。  
+乙：老板，我想提前跟您说一声，我下周一可能需要请假半天。  
+老板：可以，不过你负责的那个项目最近很关键。你已经安排好了吗？  
+乙：我已经把主要任务列出来了，也跟团队说过。如果有临时问题，我会先回复邮件。  
+老板：那就好。只要进度不要受太大影响，半天假没有问题。  
 
 **Mini glossary (non-key)**  
 | Word/Phrase | Pinyin | English |
 |---|---|---|
-| 家里 | jiālǐ | at home; family |
-| 有事 | yǒu shì | have something to do |
-| 必须 | bìxū | must |
-| 而且 | érqiě | moreover |
-| 迟到 | chídào | be late |
-| 别… | bié… | don’t… |
+| 关键 | guānjiàn | crucial |
+| 列出来 | liè chūlái | list out |
+| 说过 | shuō guò | have told |
+| 受影响 | shòu yǐngxiǎng | be affected |
+| 半天假 | bàn tiān jià | half-day leave |
 
 **Comprehension checks**
-1) 乙为什么想请假？  
-2) 老板的条件是什么？  
+1) 老板最关心的是什么？  
+2) 乙为了请假提前做了哪些准备？  
+3) 在什么条件下老板同意请假？  
 
-## Day 6 🔴 — 邮件和回复 (Email workflow) — Review Days 1–5
+## Day 6 🔴 — 邮件总结和下一步安排 (Email summary and next steps)
 
 ### A) 汉字 → Pinyin → English
 
-**甲：会议结束以后，我需要发送一封邮件给客户，你能帮我检查吗？**  
-*Jiǎ: Huìyì jiéshù yǐhòu, wǒ xūyào fāsòng yì fēng yóujiàn gěi kèhù, nǐ néng bāng wǒ jiǎnchá ma?*  
-After the meeting ends, I need to send an email to the client—can you help me check it?
+**甲：今天的会开完以后，你能不能发一封总结邮件给团队？**  
+*Jiǎ: Jīntiān de huì kāi wán yǐhòu, nǐ néng bu néng fā yì fēng zǒngjié yóujiàn gěi tuánduì?*  
+After today’s meeting ends, can you send a summary email to the team?
 
-**乙：可以。你先发给我，我看完以后马上回复你。**  
-*Yǐ: Kěyǐ. Nǐ xiān fā gěi wǒ, wǒ kàn wán yǐhòu mǎshàng huífù nǐ.*  
-Sure. Send it to me first; after I finish reading, I’ll reply right away.
+**乙：可以。我会先写清楚今天讨论的结果，再说明每个人的下一步任务。**  
+*Yǐ: Kěyǐ. Wǒ huì xiān xiě qīngchu jīntiān tǎolùn de jiéguǒ, zài shuōmíng měi ge rén de xià yí bù rènwu.*  
+Sure. I’ll first clearly write out today’s discussion results, then explain each person’s next task.
 
-**甲：如果他们回复很多问题，我会解释清楚，也会继续跟进。**  
-*Jiǎ: Rúguǒ tāmen huífù hěn duō wèntí, wǒ huì jiěshì qīngchu, yě huì jìxù gēnjìn.*  
-If they reply with many questions, I’ll explain clearly and continue to follow up.
+**甲：很好。如果客户晚上之前回复，我们明天一早就能继续处理。**  
+*Jiǎ: Hěn hǎo. Rúguǒ kèhù wǎnshang zhīqián huífù, wǒmen míngtiān yìzǎo jiù néng jìxù chǔlǐ.*  
+Very good. If the client replies before tonight, we’ll be able to continue handling it early tomorrow.
 
-**乙：太好了，那我们现在继续工作，把项目结束。**  
-*Yǐ: Tài hǎo le, nà wǒmen xiànzài jìxù gōngzuò, bǎ xiàngmù jiéshù.*  
-Great—then let’s keep working now and finish the project.
+**乙：明白。我发完邮件以后也会再检查一次进度，免得漏掉重要的事。**  
+*Yǐ: Míngbai. Wǒ fā wán yóujiàn yǐhòu yě huì zài jiǎnchá yí cì jìndù, miǎnde lòudiào zhòngyào de shì.*  
+Understood. After sending the email, I’ll also check the progress once more so I don’t miss anything important.
 
 ### B) 汉字 + Pinyin
-甲：会议结束以后，我需要发送一封邮件给客户，你能帮我检查吗？(Huìyì jiéshù yǐhòu, wǒ xūyào fāsòng yì fēng yóujiàn gěi kèhù, nǐ néng bāng wǒ jiǎnchá ma?)  
-乙：可以。你先发给我，我看完以后马上回复你。(Kěyǐ. Nǐ xiān fā gěi wǒ, wǒ kàn wán yǐhòu mǎshàng huífù nǐ.)  
-甲：如果他们回复很多问题，我会解释清楚，也会继续跟进。(Rúguǒ tāmen huífù hěn duō wèntí, wǒ huì jiěshì qīngchu, yě huì jìxù gēnjìn.)  
-乙：太好了，那我们现在继续工作，把项目结束。(Tài hǎo le, nà wǒmen xiànzài jìxù gōngzuò, bǎ xiàngmù jiéshù.)  
+甲：今天的会开完以后，你能不能发一封总结邮件给团队？(Jīntiān de huì kāi wán yǐhòu, nǐ néng bu néng fā yì fēng zǒngjié yóujiàn gěi tuánduì?)  
+乙：可以。我会先写清楚今天讨论的结果，再说明每个人的下一步任务。(Kěyǐ. Wǒ huì xiān xiě qīngchu jīntiān tǎolùn de jiéguǒ, zài shuōmíng měi ge rén de xià yí bù rènwu.)  
+甲：很好。如果客户晚上之前回复，我们明天一早就能继续处理。(Hěn hǎo. Rúguǒ kèhù wǎnshang zhīqián huífù, wǒmen míngtiān yìzǎo jiù néng jìxù chǔlǐ.)  
+乙：明白。我发完邮件以后也会再检查一次进度，免得漏掉重要的事。(Míngbai. Wǒ fā wán yóujiàn yǐhòu yě huì zài jiǎnchá yí cì jìndù, miǎnde lòudiào zhòngyào de shì.)  
 
 ### C) 汉字 only
-甲：会议结束以后，我需要发送一封邮件给客户，你能帮我检查吗？  
-乙：可以。你先发给我，我看完以后马上回复你。  
-甲：如果他们回复很多问题，我会解释清楚，也会继续跟进。  
-乙：太好了，那我们现在继续工作，把项目结束。  
+甲：今天的会开完以后，你能不能发一封总结邮件给团队？  
+乙：可以。我会先写清楚今天讨论的结果，再说明每个人的下一步任务。  
+甲：很好。如果客户晚上之前回复，我们明天一早就能继续处理。  
+乙：明白。我发完邮件以后也会再检查一次进度，免得漏掉重要的事。  
 
 **Mini glossary (non-key)**  
 | Word/Phrase | Pinyin | English |
 |---|---|---|
 | 一封 | yì fēng | one (email/letter) |
-| 检查 | jiǎnchá | check |
-| 看完 | kàn wán | finish reading |
-| 很多 | hěn duō | many |
-| 跟进 | gēnjìn | follow up |
-| 那 | nà | then |
+| 结果 | jiéguǒ | result |
+| 一早 | yìzǎo | early in the morning |
+| 免得 | miǎnde | so as not to |
+| 漏掉 | lòudiào | leave out; miss |
 
 **Comprehension checks**
-1) 甲什么时候发送邮件？发给谁？  
-2) 如果客户回复很多问题，甲打算怎么做？  
-
+1) 乙的邮件里要写哪两类内容？  
+2) 如果客户晚上之前回复，会发生什么？  
+3) 为什么乙发完邮件以后还要再检查一次进度？  
