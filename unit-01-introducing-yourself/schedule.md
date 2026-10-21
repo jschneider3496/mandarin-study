@@ -1,86 +1,67 @@
-# Unit 01 — Schedule (6 days)
+# Unit 01 — Six-Day Practice Plan
 
-General rules:
-- Do a quick scan of all 40 key words every day (1–2 minutes).
-- Use the day’s focus set for deeper speaking practice.
-- Spaced repetition: Day 3+ always review earlier days.
+Use this file as a checklist. The actual readings and exercises are in `reading.md`; check work afterward in `answer-key.md`.
 
-## Day 1 🟢
+## Daily method (25–35 minutes)
 
-- **Vocab focus:** #1–#15 (greetings, names, question particles, 的)
-- **Grammar targets:**  
-  - `我叫… / 你叫…`  
-  - `…吗？` yes/no questions
-- **Reading:** Day 1 “第一次见面”
-- **Speaking (answer in 3 sentences):**
-  1) Introduce yourself with your name, surname, and one extra detail.  
-  2) Ask: “What is your name?”  
-  3) Say: “Your name sounds nice,” and add one natural follow-up.  
-  4) Use at least 4 words: 叫 / 姓 / 名字 / 呢  
-  5) Ask GPT one question back.
+1. **Retrieve (3–5 min):** answer the warm-up aloud without notes.
+2. **Read (5 min):** read the characters-only dialogue twice; summarize it once.
+3. **Understand (5 min):** answer all five dialogue questions in full Mandarin sentences.
+4. **Build (7–10 min):** complete the model-sentence, controlled, and English→Mandarin exercises.
+5. **Speak (8–12 min):** make original sentences and complete the roleplay.
+6. **Check (2–3 min):** use `answer-key.md`, correct errors, and repeat corrected sentences twice.
 
-## Day 2 🟢
+Do not scan all 40 words before every lesson. First try retrieval; look at `vocab.md` only after identifying what you cannot recall.
 
-- **Vocab focus:** #16–#31 (also/all, from/to, where, this/that)
-- **Grammar targets:**  
-  - `从…来` (from …)  
-  - `住在…` (live in …)  
-  - `哪儿/哪` questions
-- **Reading:** Day 2 “你从哪儿来？”
-- **Speaking (constraints):**
-  1) Translate: “Are you American?”  
-  2) Answer in 3 sentences: where you’re from, where you live now, and how long you’ve been there.  
-  3) Use at least 4 words: 从 / 来 / 住 / 哪儿  
-  4) Ask and answer a return question using `你呢？`
+## Day 1 🟢 — Identity and origin
 
-## Day 3 🟡 (Review yesterday + Day 1)
+- **New targets:** #1–#10
+- **Required output:** four-sentence self-introduction; three follow-up questions
+- **Repetition goal:** distinguish `来自` from `从…来`
+- **Finish when:** you can state your name, origin, and current location without notes
 
-- **Vocab focus:** #31–#40 (now/today/tomorrow, age, study/work, friend)
-- **Review:** say 4 sentences reusing Day 1–2 vocabulary.
-- **Grammar targets:**  
-  - `我也… / 我们都…`  
-  - `在…` (location: 在这儿工作)
-- **Reading:** Day 3 “学生还是工作？”
-- **Speaking (constraints):**
-  1) Answer: “Are you a student?” (use 是/不是)  
-  2) Translate: “I study Chinese a little today, and tomorrow I want to practice again.”  
-  3) Use at least 5 words: 也 / 都 / 在 / 工作 / 学  
-  4) Ask a follow-up question about what GPT studies/does.
+## Day 2 🟢 — Work, study, and interests
 
-## Day 4 🟡 (Review yesterday + Day 1)
+- **New targets:** #11–#20
+- **Recycle:** #4, #8, #10
+- **Required output:** describe work/study; compare two interests
+- **Repetition goal:** use `兴趣`, `爱好`, `比较`, and `更` in separate sentences
+- **Finish when:** you can ask and answer four questions about work, study, and interests
 
-- **Focus:** mix #1–#40; pick 10 weak words and drill them.
-- **Review:** re-tell Day 2 in 2 sentences (from where + where live).
-- **Grammar targets:**  
-  - `几 + measure` patterns: `几岁/几点`  
-  - `喜欢…吗？ / 我也喜欢…`
-- **Reading:** Day 4 “你几岁？你喜欢什么？”
-- **Speaking (constraints):**
-  1) Answer: “How old are you?”  
-  2) Ask: “What do you like?” and answer in 3–4 sentences with one reason.  
-  3) Use at least 4 words: 几 / 岁 / 喜欢 / 也  
-  4) Include a time word: 今天/明天/现在
+## Day 3 🟡 — Routines and weekend plans
 
-## Day 5 🔴 (Review Days 1–3)
+- **New targets:** #21–#30
+- **Recycle:** #13–#20
+- **Required output:** 30-second routine; weekend negotiation
+- **Repetition goal:** connect ideas with `因为…所以…` and `但是`; ask a choice with `还是`
+- **Finish when:** you can describe a usual routine and a future plan with a reason
 
-- **Review:** rapid-fire: 8 prompts (EN → ZH) using core words (我/你/是/不/吗/的/从/住/工作).
-- **Grammar targets:**  
-  - Pronouns in conversation: 他/她  
-  - `这是…` introductions (as a chunk)
-- **Reading:** Day 5 “介绍朋友”
-- **Speaking (constraints):**
-  1) Introduce a friend in 3–4 sentences.  
-  2) Ask where they’re from, where they live now, and what they do.  
-  3) Use at least 6 earlier words (Day 1–3).  
-  4) Ask GPT to introduce “their friend” back and compare the two people.
+## Day 4 🟡 — Friends, colleagues, and contact
 
-## Day 6 🔴 (Review Days 1–5)
+- **New targets:** #31–#40
+- **Recycle:** #2, #7, #16, #29, #30
+- **Required output:** introduce another person; invite them and handle a scheduling conflict
+- **Repetition goal:** contrast `已经` and `还`; use `如果…方便的话…`
+- **Finish when:** you can exchange contact information and arrange another time naturally
 
-- **Review:** summarize Days 1–5 in 5 sentences (use 我/你/他/她/也/都).
-- **Grammar targets:**  
-  - Planning: `明天…去…吗？`  
-  - Sequencing chunk: `先…` (as a simple adverb)
-- **Reading:** Day 6 “明天一起去吗？”
-- **Capstone roleplay (3–5 minutes):**
-  - You meet someone new, introduce yourself, ask where they’re from, what they do, what they like, and make a plan for tomorrow.  
-  - Constraints: answer in 3–4 sentences each turn; reuse ≥8 ⭐ Core words; include one reason and one comparison.
+## Day 5 🔴 — Introduce and compare someone
+
+- **Focus:** all 40 targets, especially slow words
+- **Required output:** six-sentence third-person introduction; four follow-up questions
+- **Repetition goal:** combine identity, work/study, interests, routine, and plans
+- **Finish when:** you can introduce someone for 45 seconds without a script
+
+## Day 6 🔴 — Capstone conversation
+
+- **Focus:** flexible cumulative use
+- **Required output:** two-minute introduction; six questions; roleplay with a scheduling twist
+- **Repetition goal:** reuse at least 12 targets, including words from all four focus groups
+- **Finish when:** you can sustain a four-to-six-minute conversation and recover when the first plan fails
+
+## After the unit
+
+Keep a short list of:
+- Five words you can use quickly
+- Three words that still feel slow
+- Two grammar patterns to recycle next week
+- One recurring speaking error to retest

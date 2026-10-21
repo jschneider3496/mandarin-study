@@ -2,6 +2,8 @@
 
 This pack is designed for **reading + speaking** using **simplified characters** and **tone-mark pinyin**.
 
+For the canonical practice-first format and LLM authoring requirements, see [`LESSON-DESIGN.md`](LESSON-DESIGN.md).
+
 Current target difficulty: **4–6 / 10**
 - Still accessible and high-frequency
 - More multi-step answers, short explanations, and light inference
@@ -12,14 +14,16 @@ Current target difficulty: **4–6 / 10**
 - 8 units × 6 days each
 - Each unit has **40 key words** (targets). Readings may include extra simple words (listed in a mini glossary).
 
+**Format note:** Unit 1 is the practice-first pilot. Its `reading.md` integrates retrieval, an eight-turn dialogue, comprehension, controlled construction, English→Mandarin translation, original sentences, and roleplay. Use its separate `answer-key.md` only after attempting the exercises. Units 2–8 still use the earlier format.
+
 ## How to use (20–30 min/day)
 
 1) **Vocab (8–10 min)**  
-   Pick the day’s focus set from `schedule.md`. Do fast recall out loud: EN → ZH, then ZH → EN.
+   Pick the day’s focus set from `schedule.md`. Attempt retrieval before reopening `vocab.md`, then do fast recall aloud: EN → ZH, then ZH → EN.
 2) **Reading (8–10 min)**  
    Read **simplified-only** first. Use pinyin only when stuck. Check English last. Retell the reading in **3–4 Chinese sentences** before checking the translation.
 3) **Speaking (8–10 min)**  
-   Do the prompts in `schedule.md`, then start a fresh GPT chat using either:
+   In Unit 1, do the integrated prompts in `reading.md`; in Units 2–8, use the prompts in `schedule.md`. Then start a fresh GPT chat using either:
    - `tutor.md` (top-level, works for any unit/day), or
    - the unit’s `tutor.md` (more specific)
 
