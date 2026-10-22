@@ -35,7 +35,7 @@ Do not maximize vocabulary breadth at the cost of practice depth. Fewer well-rec
 
 ## Unit file contract
 
-Each practice-first unit contains exactly three files: `vocab.md`, `lessons.md`, and `answer-key.md`. The repository also provides one shared top-level `tutor.md`.
+Each practice-first unit contains exactly two files: `vocab.md` and `lessons.md`. The repository also provides one shared top-level `tutor.md`.
 
 ### `vocab.md`
 
@@ -51,19 +51,13 @@ Each practice-first unit contains exactly three files: `vocab.md`, `lessons.md`,
 - Target allocation, recycling goals, required output, and completion criteria at the start of each day.
 - Characters-first input and all learner-facing exercises.
 - Retrieval, comprehension, controlled production, translation, original sentences, and roleplay.
-- No visible solutions immediately below an exercise.
+- A collapsed answer/support panel immediately after every numbered section.
+- Natural model responses for retrieval, quick-production, original-sentence, and roleplay sections.
+- Hanzi, tone-mark pinyin, and English for every answer and model, including single-word answers.
 
-This is the unit's complete learner-facing practice workbook. Do not create a separate `reading.md` or `schedule.md` for a practice-first unit.
+This is the unit's complete learner-facing practice workbook. Do not create separate `reading.md`, `schedule.md`, `answer-key.md`, or per-unit `tutor.md` files for a practice-first unit.
 
-### `answer-key.md`
-
-- Mirror the day and numbered section headings from `lessons.md` so the learner can move directly between a prompt and its support.
-- Provide natural model responses for retrieval, quick-production, original-sentence, and roleplay sections; do not limit the key to dialogue translations and controlled exercises.
-- Hanzi, tone-mark pinyin, and English support for every dialogue line.
-- Hanzi, tone-mark pinyin, and English for every suggested comprehension answer.
-- Hanzi, tone-mark pinyin, and English for every controlled exercise and English→Mandarin answer, including single-word answers.
-- Acknowledge that open-ended prompts can have many correct answers.
-- Give one natural model rather than implying it is the only possible translation.
+Use HTML `<details>` and `<summary>` elements for each answer panel so support is nearby but hidden during the first attempt. Acknowledge that open-ended prompts can have many correct answers and give one natural model rather than implying it is the only possible response.
 
 ## Shared top-level `tutor.md`
 
@@ -123,7 +117,7 @@ Avoid prompts that merely ask the learner to recite a vocabulary list.
 - Build one coherent, plausible situation.
 - Use the day's target language naturally.
 - Reuse earlier targets where the context supports them.
-- Withhold pinyin and English until `answer-key.md`.
+- Withhold pinyin and English until the collapsed support panel immediately after the dialogue.
 - Add a mini glossary of no more than about five necessary non-target items.
 
 Do not print the same dialogue three times in different formats. That creates visual volume without creating a new retrieval event.
@@ -201,7 +195,7 @@ Finish with one short task performed without notes. The exit ticket should test 
 
 ## Vocabulary repetition standard
 
-A vocabulary label, glossary entry, or answer-key appearance does not count as a meaningful encounter.
+A vocabulary label, glossary entry, or answer-panel appearance does not count as a meaningful encounter.
 
 A meaningful encounter occurs when a target is used in a natural Mandarin sentence that the learner must understand, manipulate, or produce.
 
@@ -221,7 +215,7 @@ Do not satisfy the standard by repeating an identical sentence. Vary the speaker
 
 The learner's first pass should be characters only. This encourages actual reading instead of automatic dependence on pinyin or English.
 
-Place these in `answer-key.md`:
+Place these in the collapsed support panel immediately after the matching section in `lessons.md`:
 
 - Line-by-line Hanzi, tone-mark pinyin, and concise English meaning
 - Controlled exercise answers in Hanzi, tone-mark pinyin, and English
@@ -285,11 +279,11 @@ Create a coherent progression in which later situations naturally reuse earlier 
 
 ### 4. Draft `lessons.md`
 
-Write the characters-first material and exercises. Keep answers out of this file.
+Write the characters-first material and exercises first. Do not place visible answers inside the exercise itself.
 
-### 5. Draft `answer-key.md`
+### 5. Add collapsed answer panels
 
-Verify every answer against the exact prompt. Mirror the numbered section structure from `lessons.md`, including model responses for open production. For every answer or model, include Hanzi, tone-mark pinyin, and English. Add support only after the Mandarin dialogue is stable.
+After each numbered section, add a collapsed panel containing its support or model responses. Verify every answer against the exact prompt. For every answer or model, include Hanzi, tone-mark pinyin, and English. Add support only after the Mandarin dialogue is stable.
 
 ### 6. Align the unit and global tutor
 
@@ -304,9 +298,9 @@ Check all of the following:
 - Every day has retrieval and independent production.
 - Every day has dialogue questions.
 - Every day has English→Mandarin production or a cumulative equivalent.
-- Pinyin and English are separated from the first reading attempt and accompany every answer in the answer key.
+- Pinyin and English remain collapsed during the first attempt and accompany every answer or model.
 - Answer numbering matches exercise numbering.
-- Day titles, target ranges, exercises, and answers agree across the three unit files.
+- Day titles, target ranges, exercises, and embedded answers agree across the two unit files.
 - Roleplays become less controlled over the six days.
 - The capstone includes an interaction problem or change of plan.
 - Markdown passes `git diff --check`.

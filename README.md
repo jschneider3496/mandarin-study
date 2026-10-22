@@ -14,7 +14,7 @@ Current target difficulty: **4–6 / 10**
 - 8 units × 6 days each
 - Each unit has **40 key words** (targets). Readings may include extra simple words (listed in a mini glossary).
 
-**Format note:** Unit 1 is the practice-first pilot. Its `lessons.md` integrates the daily plan, retrieval, an eight-turn dialogue, comprehension, controlled construction, English→Mandarin translation, original sentences, roleplay, and completion criteria. Use its separate `answer-key.md` only after attempting the exercises. Units 2–8 still use the earlier format.
+**Format note:** Unit 1 is the practice-first pilot. Its `lessons.md` integrates the daily plan, retrieval, an eight-turn dialogue, comprehension, controlled construction, English→Mandarin translation, original sentences, roleplay, completion criteria, and collapsed answer panels. Open each panel only after attempting its exercise. Units 2–8 still use the earlier format.
 
 ## How to use (25–35 min/day)
 
