@@ -35,7 +35,7 @@ Do not maximize vocabulary breadth at the cost of practice depth. Fewer well-rec
 
 ## Unit file contract
 
-Each practice-first unit should contain:
+Each practice-first unit contains exactly three files: `vocab.md`, `lessons.md`, and `answer-key.md`. The repository also provides one shared top-level `tutor.md`.
 
 ### `vocab.md`
 
@@ -44,36 +44,33 @@ Each practice-first unit should contain:
 - A short bank of functional “must-say” sentences.
 - Existing vocabulary must not be silently removed, renamed, or renumbered during a lesson rewrite.
 
-### `reading.md`
+### `lessons.md`
 
 - Six complete daily lessons.
+- A short daily method at the top of the file.
+- Target allocation, recycling goals, required output, and completion criteria at the start of each day.
 - Characters-first input and all learner-facing exercises.
 - Retrieval, comprehension, controlled production, translation, original sentences, and roleplay.
 - No visible solutions immediately below an exercise.
 
-Despite the historical filename, this is the unit's main practice workbook, not just a collection of readings.
+This is the unit's complete learner-facing practice workbook. Do not create a separate `reading.md` or `schedule.md` for a practice-first unit.
 
 ### `answer-key.md`
 
-- Tone-mark pinyin and English support for each dialogue.
-- Suggested answers for factual comprehension questions.
-- Answers for controlled exercises and English→Mandarin translation.
+- Hanzi, tone-mark pinyin, and English support for every dialogue line.
+- Hanzi, tone-mark pinyin, and English for every suggested comprehension answer.
+- Hanzi, tone-mark pinyin, and English for every controlled exercise and English→Mandarin answer, including single-word answers.
 - Acknowledge that open-ended prompts can have many correct answers.
 - Give one natural model rather than implying it is the only possible translation.
 
-### `schedule.md`
+## Shared top-level `tutor.md`
 
-- A short usage checklist, target allocation, recycling plan, and completion criteria.
-- Do not duplicate the full exercises from `reading.md`.
-- State what the learner should be able to produce before advancing.
-
-### `tutor.md`
-
-- Instructions for interactive practice using the static lesson.
+- One repository-level protocol for interactive practice with every unit.
 - Require production before revealing a model.
 - Ask one prompt at a time.
 - Track errors and vocabulary the learner recognizes but avoids using.
 - Retest weak language later in a different context.
+- Do not create a per-unit `tutor.md`; unit-specific scenarios and complications belong in `lessons.md`.
 
 ## Six-day progression
 
@@ -88,7 +85,7 @@ For a 40-target existing unit, use this default allocation:
 | 5 | Introduce or report about another person/situation | Cumulative retrieval and recombination |
 | 6 | Sustain a flexible capstone conversation | Cumulative performance with a complication |
 
-The semantic groupings in `vocab.md` may justify a different split. If so, preserve all targets and document the changed allocation in `schedule.md`.
+The semantic groupings in `vocab.md` may justify a different split. If so, preserve all targets and document the changed allocation in each day header in `lessons.md`.
 
 Days 1–4 should introduce language. Days 5–6 should primarily test recombination, recall, and conversational flexibility rather than add another large vocabulary set.
 
@@ -224,10 +221,9 @@ The learner's first pass should be characters only. This encourages actual readi
 
 Place these in `answer-key.md`:
 
-- Line-by-line tone-mark pinyin
-- Concise English meaning
-- Controlled exercise answers
-- Suggested factual comprehension answers
+- Line-by-line Hanzi, tone-mark pinyin, and concise English meaning
+- Controlled exercise answers in Hanzi, tone-mark pinyin, and English
+- Suggested factual comprehension answers in Hanzi, tone-mark pinyin, and English
 
 When writing pinyin:
 
@@ -285,17 +281,17 @@ Do not rely on memory to distribute 40 targets.
 
 Create a coherent progression in which later situations naturally reuse earlier language. The capstone should combine several earlier functions rather than introduce an unrelated setting.
 
-### 4. Draft `reading.md`
+### 4. Draft `lessons.md`
 
 Write the characters-first material and exercises. Keep answers out of this file.
 
 ### 5. Draft `answer-key.md`
 
-Verify every answer against the exact prompt. Add dialogue pinyin and English only after the Mandarin dialogue is stable.
+Verify every answer against the exact prompt. For every numbered answer, include Hanzi, tone-mark pinyin, and English. Add support only after the Mandarin dialogue is stable.
 
-### 6. Align supporting files
+### 6. Align the unit and global tutor
 
-Update `schedule.md` and `tutor.md` so their target ranges, day titles, activities, and completion criteria match `reading.md`.
+Confirm that each `lessons.md` day header states its targets, recycling, output, and completion criteria. Update the top-level `tutor.md` only when the reusable session protocol changes; keep unit-specific content in `lessons.md`.
 
 ### 7. Audit before completion
 
@@ -306,9 +302,9 @@ Check all of the following:
 - Every day has retrieval and independent production.
 - Every day has dialogue questions.
 - Every day has English→Mandarin production or a cumulative equivalent.
-- Pinyin and English are separated from the first reading attempt.
+- Pinyin and English are separated from the first reading attempt and accompany every answer in the answer key.
 - Answer numbering matches exercise numbering.
-- Day titles and target ranges agree across files.
+- Day titles, target ranges, exercises, and answers agree across the three unit files.
 - Roleplays become less controlled over the six days.
 - The capstone includes an interaction problem or change of plan.
 - Markdown passes `git diff --check`.

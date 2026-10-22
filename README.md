@@ -14,18 +14,16 @@ Current target difficulty: **4–6 / 10**
 - 8 units × 6 days each
 - Each unit has **40 key words** (targets). Readings may include extra simple words (listed in a mini glossary).
 
-**Format note:** Unit 1 is the practice-first pilot. Its `reading.md` integrates retrieval, an eight-turn dialogue, comprehension, controlled construction, English→Mandarin translation, original sentences, and roleplay. Use its separate `answer-key.md` only after attempting the exercises. Units 2–8 still use the earlier format.
+**Format note:** Unit 1 is the practice-first pilot. Its `lessons.md` integrates the daily plan, retrieval, an eight-turn dialogue, comprehension, controlled construction, English→Mandarin translation, original sentences, roleplay, and completion criteria. Use its separate `answer-key.md` only after attempting the exercises. Units 2–8 still use the earlier format.
 
-## How to use (20–30 min/day)
+## How to use (25–35 min/day)
 
 1) **Vocab (8–10 min)**  
-   Pick the day’s focus set from `schedule.md`. Attempt retrieval before reopening `vocab.md`, then do fast recall aloud: EN → ZH, then ZH → EN.
+   In Unit 1, use the target and recycling lists at the start of the day in `lessons.md`. In Units 2–8, use `schedule.md`. Attempt retrieval before reopening `vocab.md`, then do fast recall aloud: EN → ZH, then ZH → EN.
 2) **Reading (8–10 min)**  
    Read **simplified-only** first. Use pinyin only when stuck. Check English last. Retell the reading in **3–4 Chinese sentences** before checking the translation.
 3) **Speaking (8–10 min)**  
-   In Unit 1, do the integrated prompts in `reading.md`; in Units 2–8, use the prompts in `schedule.md`. Then start a fresh GPT chat using either:
-   - `tutor.md` (top-level, works for any unit/day), or
-   - the unit’s `tutor.md` (more specific)
+   In Unit 1, do the integrated prompts in `lessons.md`; in Units 2–8, use the prompts in `schedule.md`. To practice interactively, start a fresh GPT chat using the top-level `tutor.md`, which works for every unit and day.
 
 ## When to advance
 

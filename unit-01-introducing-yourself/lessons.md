@@ -2,12 +2,16 @@
 
 This unit uses the same 40 targets in `vocab.md`, but every day is organized around retrieval and production.
 
-Suggested order:
-1. Say the warm-up answers aloud without notes.
-2. Read the dialogue in characters only.
-3. Answer the questions in complete Mandarin sentences.
-4. Complete the controlled exercises before checking `answer-key.md`.
-5. Finish with original sentences and roleplay.
+## Daily method (25–35 minutes)
+
+1. **Retrieve (3–5 min):** say the warm-up answers aloud without notes.
+2. **Read (5 min):** read the characters-only dialogue twice and summarize it once.
+3. **Understand (5 min):** answer all dialogue questions in full Mandarin sentences.
+4. **Build (7–10 min):** complete the model-sentence, controlled, and English→Mandarin exercises.
+5. **Speak (8–12 min):** make original sentences and complete the roleplay.
+6. **Check (2–3 min):** use `answer-key.md`, correct errors, and repeat corrected sentences twice.
+
+Do not scan all 40 words before every lesson. Try retrieval first; open `vocab.md` only after identifying what you cannot recall.
 
 Do not check pinyin, translations, or suggested answers until you have attempted the exercises.
 
@@ -15,6 +19,9 @@ Do not check pinyin, translations, or suggested answers until you have attempted
 
 - **New targets:** 你好 / 认识 / 自我介绍 / 叫 / 姓 / 名字 / 介绍 / 来自 / 从 / 住在
 - **Patterns:** `我叫…，姓…` · `我来自… / 我从…来` · `你住在哪儿？`
+- **Required output:** four-sentence self-introduction; three follow-up questions
+- **Repetition goal:** distinguish `来自` from `从…来`
+- **Finish when:** you can state your name, origin, and current location without notes
 
 ### 1. Quick production
 
@@ -89,6 +96,9 @@ Translate before checking the key.
 - **New targets:** 现在 / 目前 / 工作 / 学习 / 专业 / 兴趣 / 爱好 / 喜欢 / 比较 / 更
 - **Recycle:** 叫 / 来自 / 住在
 - **Patterns:** `目前在…工作/学习` · `我的专业是…` · `比起A，我更喜欢B`
+- **Required output:** describe work or study; compare two interests
+- **Repetition goal:** use `兴趣`, `爱好`, `比较`, and `更` in separate sentences
+- **Finish when:** you can ask and answer four questions about work, study, and interests
 
 ### 1. Retrieval warm-up
 
@@ -162,6 +172,9 @@ Combine the ideas.
 - **New targets:** 觉得 / 因为 / 所以 / 但是 / 还是 / 一般 / 经常 / 平时 / 周末 / 计划
 - **Recycle:** 工作 / 学习 / 兴趣 / 喜欢 / 比较 / 更
 - **Patterns:** `因为…所以…` · `A还是B？` · expressing a contrast with `但是`
+- **Required output:** 30-second routine; weekend negotiation
+- **Repetition goal:** connect ideas with `因为…所以…` and `但是`; ask a choice with `还是`
+- **Finish when:** you can describe a usual routine and a future plan with a reason
 
 ### 1. Retrieval warm-up
 
@@ -232,6 +245,9 @@ Transform or combine.
 - **New targets:** 打算 / 以后 / 已经 / 还 / 如果 / 方便 / 一起 / 联系 / 朋友 / 同事
 - **Recycle:** 认识 / 介绍 / 兴趣 / 周末 / 计划
 - **Patterns:** `已经…了，还…` · `如果…的话，就…` · `以后可以一起…`
+- **Required output:** introduce another person; invite them and handle a scheduling conflict
+- **Repetition goal:** contrast `已经` and `还`; use `如果…方便的话…`
+- **Finish when:** you can exchange contact information and arrange another time naturally
 
 ### 1. Retrieval warm-up
 
@@ -301,6 +317,9 @@ Combine the ideas.
 
 - **Focus:** cumulative reuse of all 40 targets
 - **Goal:** describe and compare people without following a memorized script
+- **Required output:** six-sentence third-person introduction; four follow-up questions
+- **Repetition goal:** combine identity, work or study, interests, routine, and plans
+- **Finish when:** you can introduce someone for 45 seconds without a script
 
 ### 1. Rapid retrieval
 
@@ -364,6 +383,9 @@ Correct each sentence aloud.
 
 - **Focus:** cumulative performance and flexible conversation
 - **Goal:** sustain a four-to-six-minute conversation using Unit 1 vocabulary
+- **Required output:** two-minute introduction; six questions; roleplay with a scheduling twist
+- **Repetition goal:** reuse at least 12 targets, including words from all four focus groups
+- **Finish when:** you can sustain the conversation and recover when the first plan fails
 
 ### 1. Retrieval challenge
 
@@ -427,3 +449,12 @@ Can you:
 - Ask a natural question back?
 
 Write down three words that still feel slow. Use each in a new sentence, then say those sentences twice.
+
+### After the unit
+
+Record:
+
+- Five words you can use quickly
+- Three words that still feel slow
+- Two grammar patterns to recycle next week
+- One recurring speaking error to retest
