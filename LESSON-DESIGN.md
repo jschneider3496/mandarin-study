@@ -57,6 +57,8 @@ This is the unit's complete learner-facing practice workbook. Do not create a se
 
 ### `answer-key.md`
 
+- Mirror the day and numbered section headings from `lessons.md` so the learner can move directly between a prompt and its support.
+- Provide natural model responses for retrieval, quick-production, original-sentence, and roleplay sections; do not limit the key to dialogue translations and controlled exercises.
 - Hanzi, tone-mark pinyin, and English support for every dialogue line.
 - Hanzi, tone-mark pinyin, and English for every suggested comprehension answer.
 - Hanzi, tone-mark pinyin, and English for every controlled exercise and English→Mandarin answer, including single-word answers.
@@ -287,7 +289,7 @@ Write the characters-first material and exercises. Keep answers out of this file
 
 ### 5. Draft `answer-key.md`
 
-Verify every answer against the exact prompt. For every numbered answer, include Hanzi, tone-mark pinyin, and English. Add support only after the Mandarin dialogue is stable.
+Verify every answer against the exact prompt. Mirror the numbered section structure from `lessons.md`, including model responses for open production. For every answer or model, include Hanzi, tone-mark pinyin, and English. Add support only after the Mandarin dialogue is stable.
 
 ### 6. Align the unit and global tutor
 

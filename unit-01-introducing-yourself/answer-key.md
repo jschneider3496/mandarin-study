@@ -4,7 +4,19 @@ Use this file only after attempting the corresponding section in `lessons.md`. E
 
 ## Day 1
 
-### Dialogue support
+### 1. Quick production — Model responses
+
+1. 你好，我叫安娜。我来自美国，现在住在上海。<br>
+   *Nǐhǎo, wǒ jiào Ānnà. Wǒ láizì Měiguó, xiànzài zhù zài Shànghǎi.*<br>
+   Hello, my name is Anna. I am from the United States and now live in Shanghai.
+2. 我从芝加哥来。<br>
+   *Wǒ cóng Zhījiāgē lái.*<br>
+   I come from Chicago.
+3. 你叫什么名字？你来自哪儿？你现在住在哪儿？<br>
+   *Nǐ jiào shénme míngzi? Nǐ láizì nǎr? Nǐ xiànzài zhù zài nǎr?*<br>
+   What is your name? Where are you from? Where do you live now?
+
+### 2. Read first: characters only — Dialogue support
 
 1. 你好！我们还不认识吧？我先做个自我介绍。我叫林舟，姓林。<br>
    *Nǐhǎo! Wǒmen hái bú rènshi ba? Wǒ xiān zuò ge zìwǒ jièshào. Wǒ jiào Lín Zhōu, xìng Lín.*<br>
@@ -31,7 +43,7 @@ Use this file only after attempting the corresponding section in `lessons.md`. E
    *Yuánlái wǒmen zhù de bù yuǎn. Rènshi nǐ hěn gāoxìng!*<br>
    It turns out we do not live far apart. Nice to meet you!
 
-### Suggested comprehension answers
+### 3. Dialogue questions — Suggested answers
 
 1. 林舟姓林，他的名字叫林舟。<br>
    *Lín Zhōu xìng Lín, tā de míngzi jiào Lín Zhōu.*<br>
@@ -49,7 +61,27 @@ Use this file only after attempting the corresponding section in `lessons.md`. E
    *Nǐ xiànzài zuò shénme gōngzuò?*<br>
    What work do you do now?
 
-### Controlled practice
+### 4. See the words again — Sample changes
+
+These are example changes, not the only correct answers.
+
+1. 你好，我叫李明，姓李。<br>
+   *Nǐhǎo, wǒ jiào Lǐ Míng, xìng Lǐ.*<br>
+   Hello, my name is Li Ming, and my surname is Li.
+2. 我的名字是王月，很高兴认识你。<br>
+   *Wǒ de míngzi shì Wáng Yuè, hěn gāoxìng rènshi nǐ.*<br>
+   My name is Wang Yue. Nice to meet you.
+3. 我来做个自我介绍：我来自西安，现在住在苏州。<br>
+   *Wǒ lái zuò ge zìwǒ jièshào: wǒ láizì Xī'ān, xiànzài zhù zài Sūzhōu.*<br>
+   Let me introduce myself: I am from Xi'an and now live in Suzhou.
+4. 我从加拿大来，但是现在住在中国。<br>
+   *Wǒ cóng Jiānádà lái, dànshì xiànzài zhù zài Zhōngguó.*<br>
+   I come from Canada, but I now live in China.
+5. 这是我的朋友安娜，我来介绍一下。<br>
+   *Zhè shì wǒ de péngyou Ānnà, wǒ lái jièshào yíxià.*<br>
+   This is my friend Anna. Let me introduce her.
+
+### 5. Controlled practice
 
 1. 自我介绍<br>
    *zìwǒ jièshào*<br>
@@ -70,7 +102,7 @@ Use this file only after attempting the corresponding section in `lessons.md`. E
    *Wǒ cóng Hángzhōu lái.*<br>
    I come from Hangzhou.
 
-### English → Mandarin
+### 6. English → Mandarin
 
 1. 你好，我叫安娜。<br>
    *Nǐhǎo, wǒ jiào Ānnà.*<br>
@@ -88,9 +120,36 @@ Use this file only after attempting the corresponding section in `lessons.md`. E
    *Zhè shì wǒ de péngyou, wǒ lái gěi nǐmen jièshào yíxià.*<br>
    This is my friend. I will introduce you two.
 
+### 7. Create and speak — Model responses
+
+1. 你好，我叫安娜，姓李。我的中文名字叫李安娜。我来自美国，现在住在上海。很高兴认识你。<br>
+   *Nǐhǎo, wǒ jiào Ānnà, xìng Lǐ. Wǒ de Zhōngwén míngzi jiào Lǐ Ānnà. Wǒ láizì Měiguó, xiànzài zhù zài Shànghǎi. Hěn gāoxìng rènshi nǐ.*<br>
+   Hello, my name is Anna, and my surname is Li. My Chinese name is Li Anna. I am from the United States and now live in Shanghai. Nice to meet you.
+2. 我来自美国。我从芝加哥来。<br>
+   *Wǒ láizì Měiguó. Wǒ cóng Zhījiāgē lái.*<br>
+   I am from the United States. I come from Chicago.
+3. 你叫什么名字？你来自哪儿？你现在住在哪儿？<br>
+   *Nǐ jiào shénme míngzi? Nǐ láizì nǎr? Nǐ xiànzài zhù zài nǎr?*<br>
+   What is your name? Where are you from? Where do you live now?
+4. 你好，我是新搬来的邻居，我叫安娜。你叫什么名字？你也住在这栋楼吗？<br>
+   *Nǐhǎo, wǒ shì xīn bān lái de línjū, wǒ jiào Ānnà. Nǐ jiào shénme míngzi? Nǐ yě zhù zài zhè dòng lóu ma?*<br>
+   Hello, I am the new neighbor, and my name is Anna. What is your name? Do you also live in this building?
+
 ## Day 2
 
-### Dialogue support
+### 1. Retrieval warm-up — Model responses
+
+1. 你好，我叫安娜。我来自美国，现在住在上海。很高兴认识你。<br>
+   *Nǐhǎo, wǒ jiào Ānnà. Wǒ láizì Měiguó, xiànzài zhù zài Shànghǎi. Hěn gāoxìng rènshi nǐ.*<br>
+   Hello, my name is Anna. I am from the United States and now live in Shanghai. Nice to meet you.
+2. 你来自哪儿？你现在住在哪儿？<br>
+   *Nǐ láizì nǎr? Nǐ xiànzài zhù zài nǎr?*<br>
+   Where are you from? Where do you live now?
+3. 我来自加拿大。我从多伦多来。<br>
+   *Wǒ láizì Jiānádà. Wǒ cóng Duōlúnduō lái.*<br>
+   I am from Canada. I come from Toronto.
+
+### 2. Read first: characters only — Dialogue support
 
 1. 林舟，你现在做什么工作？<br>
    *Lín Zhōu, nǐ xiànzài zuò shénme gōngzuò?*<br>
@@ -117,7 +176,7 @@ Use this file only after attempting the corresponding section in `lessons.md`. E
    *Nà wǒmen yǐhòu kěyǐ yìqǐ xuéxí, hùxiāng bāngzhù.*<br>
    Then we can study together and help each other later.
 
-### Suggested comprehension answers
+### 3. Dialogue questions — Suggested answers
 
 1. 林舟目前在一家科技公司工作。<br>
    *Lín Zhōu mùqián zài yì jiā kējì gōngsī gōngzuò.*<br>
@@ -135,7 +194,25 @@ Use this file only after attempting the corresponding section in `lessons.md`. E
    *Wǒ gēn Ānnà gèng xiàng, yīnwèi wǒ yě bǐjiào xǐhuan yuèdú.*<br>
    I am more like Anna because I also prefer reading.
 
-### Controlled practice
+### 4. See the words again — Sample changes
+
+1. 我现在住在上海，目前在一家公司工作。<br>
+   *Wǒ xiànzài zhù zài Shànghǎi, mùqián zài yì jiā gōngsī gōngzuò.*<br>
+   I now live in Shanghai and currently work at a company.
+2. 她的专业比较难，但是她很喜欢。<br>
+   *Tā de zhuānyè bǐjiào nán, dànshì tā hěn xǐhuan.*<br>
+   Her major is relatively difficult, but she likes it very much.
+3. 我的专业是商务，我对语言很有兴趣。<br>
+   *Wǒ de zhuānyè shì shāngwù, wǒ duì yǔyán hěn yǒu xìngqù.*<br>
+   My major is business, and I am very interested in languages.
+4. 跑步是我的爱好，学中文也是我的爱好。<br>
+   *Pǎobù shì wǒ de àihào, xué Zhōngwén yě shì wǒ de àihào.*<br>
+   Running is my hobby, and studying Chinese is also my hobby.
+5. 比起阅读，我更喜欢练习说中文。<br>
+   *Bǐqǐ yuèdú, wǒ gèng xǐhuan liànxí shuō Zhōngwén.*<br>
+   Compared with reading, I prefer practicing spoken Chinese.
+
+### 5. Controlled practice
 
 1. 目前<br>
    *mùqián*<br>
@@ -159,7 +236,7 @@ Use this file only after attempting the corresponding section in `lessons.md`. E
    *Wǒ xuéxí Zhōngwén, dànshì wǒ gèng xiǎng liànxí kǒuyǔ.*<br>
    I study Chinese, but I want to practice speaking more.
 
-### English → Mandarin
+### 6. English → Mandarin
 
 1. 我目前在一家公司工作。<br>
    *Wǒ mùqián zài yì jiā gōngsī gōngzuò.*<br>
@@ -177,9 +254,36 @@ Use this file only after attempting the corresponding section in `lessons.md`. E
    *Bǐqǐ xiě, wǒ gèng xǐhuan shuō Zhōngwén.*<br>
    Compared with writing, I prefer speaking Chinese.
 
+### 7. Create and speak — Model responses
+
+1. 我目前在一家科技公司工作。我的工作比较忙，但是很有意思。我也在学习中文。<br>
+   *Wǒ mùqián zài yì jiā kējì gōngsī gōngzuò. Wǒ de gōngzuò bǐjiào máng, dànshì hěn yǒu yìsi. Wǒ yě zài xuéxí Zhōngwén.*<br>
+   I currently work at a technology company. My work is relatively busy, but it is interesting. I am also studying Chinese.
+2. 我对语言有兴趣。跑步是我的爱好。<br>
+   *Wǒ duì yǔyán yǒu xìngqù. Pǎobù shì wǒ de àihào.*<br>
+   I am interested in languages. Running is my hobby.
+3. 这本书比较容易。比起写汉字，我更喜欢阅读。<br>
+   *Zhè běn shū bǐjiào róngyì. Bǐqǐ xiě Hànzì, wǒ gèng xǐhuan yuèdú.*<br>
+   This book is relatively easy. Compared with writing Chinese characters, I prefer reading.
+4. 你现在工作还是学习？你的专业是什么？你有什么兴趣？<br>
+   *Nǐ xiànzài gōngzuò háishi xuéxí? Nǐ de zhuānyè shì shénme? Nǐ yǒu shénme xìngqù?*<br>
+   Do you work or study now? What is your major? What interests do you have?
+
 ## Day 3
 
-### Dialogue support
+### 1. Retrieval warm-up — Model responses
+
+1. 我目前在医院工作。我的专业是护理。<br>
+   *Wǒ mùqián zài yīyuàn gōngzuò. Wǒ de zhuānyè shì hùlǐ.*<br>
+   I currently work at a hospital. My specialty is nursing.
+2. 我对语言和音乐有兴趣，但是我更喜欢语言。<br>
+   *Wǒ duì yǔyán hé yīnyuè yǒu xìngqù, dànshì wǒ gèng xǐhuan yǔyán.*<br>
+   I am interested in languages and music, but I prefer languages.
+3. 你为什么喜欢你的工作？<br>
+   *Nǐ wèishénme xǐhuan nǐ de gōngzuò?*<br>
+   Why do you like your work?
+
+### 2. Read first: characters only — Dialogue support
 
 1. 你平时工作和学习都很忙吗？<br>
    *Nǐ píngshí gōngzuò hé xuéxí dōu hěn máng ma?*<br>
@@ -206,7 +310,7 @@ Use this file only after attempting the corresponding section in `lessons.md`. E
    *Zhè ge jìhuà búcuò, yīnwèi yùndòng hé jiàn péngyou dōu hěn zhòngyào.*<br>
    That plan is good because exercise and seeing friends are both important.
 
-### Suggested comprehension answers
+### 3. Dialogue questions — Suggested answers
 
 1. 因为安娜白天要上课，所以她一般晚上复习。<br>
    *Yīnwèi Ānnà báitiān yào shàngkè, suǒyǐ tā yìbān wǎnshang fùxí.*<br>
@@ -224,7 +328,25 @@ Use this file only after attempting the corresponding section in `lessons.md`. E
    *Ānnà de zhōumò gèng xiàng wǒ de zhōumò, yīnwèi wǒ yě jīngcháng qù túshūguǎn.*<br>
    Anna's weekend is more like mine because I also often go to the library.
 
-### Controlled practice
+### 4. See the words again — Sample changes
+
+1. 我觉得晚上学习比较好，因为那时候我有时间。<br>
+   *Wǒ juéde wǎnshang xuéxí bǐjiào hǎo, yīnwèi nà shíhou wǒ yǒu shíjiān.*<br>
+   I think studying at night is better because I have time then.
+2. 因为我周末不工作，所以我经常跟朋友见面。<br>
+   *Yīnwèi wǒ zhōumò bù gōngzuò, suǒyǐ wǒ jīngcháng gēn péngyou jiànmiàn.*<br>
+   Because I do not work on weekends, I often meet friends.
+3. 我喜欢出去，但是今天还是想在家学习。<br>
+   *Wǒ xǐhuan chūqù, dànshì jīntiān háishi xiǎng zài jiā xuéxí.*<br>
+   I like going out, but today I still want to study at home.
+4. 你平时在家工作还是去公司？<br>
+   *Nǐ píngshí zài jiā gōngzuò háishi qù gōngsī?*<br>
+   Do you usually work at home or go to the office?
+5. 我一般周四做周末计划，周五再决定去哪儿。<br>
+   *Wǒ yìbān Zhōusì zuò zhōumò jìhuà, Zhōuwǔ zài juédìng qù nǎr.*<br>
+   I generally make weekend plans Thursday and decide where to go Friday.
+
+### 5. Controlled practice
 
 1. 但是<br>
    *dànshì*<br>
@@ -245,7 +367,7 @@ Use this file only after attempting the corresponding section in `lessons.md`. E
    *Wǒmen Zhōuliù jiàn, háishi Zhōurì jiàn?*<br>
    Should we meet Saturday or Sunday?
 
-### English → Mandarin
+### 6. English → Mandarin
 
 1. 我一般晚上学习。<br>
    *Wǒ yìbān wǎnshang xuéxí.*<br>
@@ -263,9 +385,36 @@ Use this file only after attempting the corresponding section in `lessons.md`. E
    *Nǐ juéde wǒmen yīnggāi hē kāfēi, háishi yìqǐ chīfàn?*<br>
    Do you think we should drink coffee or eat together?
 
+### 7. Create and speak — Model responses
+
+1. 我平时早上工作，晚上学习中文。我一般在家学习，但是周末经常去图书馆。<br>
+   *Wǒ píngshí zǎoshang gōngzuò, wǎnshang xuéxí Zhōngwén. Wǒ yìbān zài jiā xuéxí, dànshì zhōumò jīngcháng qù túshūguǎn.*<br>
+   I usually work in the morning and study Chinese at night. I generally study at home, but often go to the library on weekends.
+2. 这个周末我打算跟朋友吃饭，因为我们很久没见了。<br>
+   *Zhè ge zhōumò wǒ dǎsuàn gēn péngyou chīfàn, yīnwèi wǒmen hěn jiǔ méi jiàn le.*<br>
+   This weekend I plan to eat with a friend because we have not seen each other for a long time.
+3. 你想周六喝咖啡还是周日吃饭？我想周日吃饭，因为周六我要工作。<br>
+   *Nǐ xiǎng Zhōuliù hē kāfēi háishi Zhōurì chīfàn? Wǒ xiǎng Zhōurì chīfàn, yīnwèi Zhōuliù wǒ yào gōngzuò.*<br>
+   Do you want to drink coffee Saturday or eat together Sunday? I want to eat Sunday because I have to work Saturday.
+4. 我想周末出去，但是你想在家休息。我们周六下午一起喝咖啡，晚上都在家休息吧。<br>
+   *Wǒ xiǎng zhōumò chūqù, dànshì nǐ xiǎng zài jiā xiūxi. Wǒmen Zhōuliù xiàwǔ yìqǐ hē kāfēi, wǎnshang dōu zài jiā xiūxi ba.*<br>
+   I want to go out this weekend, but you want to rest at home. Let us have coffee Saturday afternoon and both rest at home in the evening.
+
 ## Day 4
 
-### Dialogue support
+### 1. Retrieval warm-up — Model responses
+
+1. 我平时晚上学习，周末经常跟朋友见面。<br>
+   *Wǒ píngshí wǎnshang xuéxí, zhōumò jīngcháng gēn péngyou jiànmiàn.*<br>
+   I usually study at night and often meet friends on weekends.
+2. 因为这个周末天气很好，所以我打算去跑步。<br>
+   *Yīnwèi zhè ge zhōumò tiānqì hěn hǎo, suǒyǐ wǒ dǎsuàn qù pǎobù.*<br>
+   Because the weather will be good this weekend, I plan to run.
+3. 你想一起喝咖啡还是吃饭？<br>
+   *Nǐ xiǎng yìqǐ hē kāfēi háishi chīfàn?*<br>
+   Do you want to have coffee or eat together?
+
+### 2. Read first: characters only — Dialogue support
 
 1. 安娜，这是我的同事小顾。小顾，这是我的朋友安娜。<br>
    *Ānnà, zhè shì wǒ de tóngshì Xiǎo Gù. Xiǎo Gù, zhè shì wǒ de péngyou Ānnà.*<br>
@@ -292,7 +441,7 @@ Use this file only after attempting the corresponding section in `lessons.md`. E
    *Hǎo. Rènshi xīn péngyou, hái néng yìqǐ xuéxí, zhēn búcuò.*<br>
    Great. Meeting a new friend and also being able to study together is really nice.
 
-### Suggested comprehension answers
+### 3. Dialogue questions — Suggested answers
 
 1. 小顾是林舟的同事。<br>
    *Xiǎo Gù shì Lín Zhōu de tóngshì.*<br>
@@ -310,7 +459,25 @@ Use this file only after attempting the corresponding section in `lessons.md`. E
    *Wǒ huì xiān gēn Ānnà jiāohuàn liánxì fāngshì, yǐhòu gěi tā fā xiāoxi.*<br>
    I would first exchange contact information with Anna and message her later.
 
-### Controlled practice
+### 4. See the words again — Sample changes
+
+1. 我已经认识她了，但是还不认识她的朋友。<br>
+   *Wǒ yǐjīng rènshi tā le, dànshì hái bù rènshi tā de péngyou.*<br>
+   I already know her, but I do not know her friend yet.
+2. 我打算周末联系同事，一起喝咖啡。<br>
+   *Wǒ dǎsuàn zhōumò liánxì tóngshì, yìqǐ hē kāfēi.*<br>
+   I plan to contact a colleague this weekend and have coffee together.
+3. 如果你周日方便的话，我们就一起吃饭。<br>
+   *Rúguǒ nǐ Zhōurì fāngbiàn dehuà, wǒmen jiù yìqǐ chīfàn.*<br>
+   If Sunday is convenient for you, we will eat together.
+4. 他是我的同事，也是我以前的朋友。<br>
+   *Tā shì wǒ de tóngshì, yě shì wǒ yǐqián de péngyou.*<br>
+   He is my colleague and also an old friend.
+5. 我们已经加了联系方式，以后可以一起学习。<br>
+   *Wǒmen yǐjīng jiā le liánxì fāngshì, yǐhòu kěyǐ yìqǐ xuéxí.*<br>
+   We have already exchanged contact information, so we can study together later.
+
+### 5. Controlled practice
 
 1. 已经；还<br>
    *yǐjīng; hái*<br>
@@ -331,7 +498,7 @@ Use this file only after attempting the corresponding section in `lessons.md`. E
    *Wǒmen yǐjīng yǒu duìfāng de liánxì fāngshì le, yǐhòu kěyǐ liánxì.*<br>
    We already have each other's contact information, so we can talk later.
 
-### English → Mandarin
+### 6. English → Mandarin
 
 1. 我已经认识她了，但是还不认识她的同事。<br>
    *Wǒ yǐjīng rènshi tā le, dànshì hái bù rènshi tā de tóngshì.*<br>
@@ -349,9 +516,45 @@ Use this file only after attempting the corresponding section in `lessons.md`. E
    *Wǒmen xiān jiā liánxì fāngshì, yǐhòu bǎochí liánxì ba.*<br>
    Let us exchange contact information and keep in touch later.
 
+### 7. Create and speak — Model responses
+
+1. 我已经做完工作了。我已经联系朋友了。我已经吃饭了。我还打算学习中文，也打算去跑步。<br>
+   *Wǒ yǐjīng zuòwán gōngzuò le. Wǒ yǐjīng liánxì péngyou le. Wǒ yǐjīng chīfàn le. Wǒ hái dǎsuàn xuéxí Zhōngwén, yě dǎsuàn qù pǎobù.*<br>
+   I have already finished work, contacted a friend, and eaten. I still plan to study Chinese and go running.
+2. 如果你周日下午方便的话，我们一起喝咖啡吧。<br>
+   *Rúguǒ nǐ Zhōurì xiàwǔ fāngbiàn dehuà, wǒmen yìqǐ hē kāfēi ba.*<br>
+   If Sunday afternoon is convenient for you, let us have coffee together.
+3. 这是我的朋友小王。她来自北京，现在住在上海。她目前在一家银行工作。她对语言很有兴趣。<br>
+   *Zhè shì wǒ de péngyou Xiǎo Wáng. Tā láizì Běijīng, xiànzài zhù zài Shànghǎi. Tā mùqián zài yì jiā yínháng gōngzuò. Tā duì yǔyán hěn yǒu xìngqù.*<br>
+   This is my friend Xiao Wang. She is from Beijing and now lives in Shanghai. She currently works at a bank. She is very interested in languages.
+4. 我也喜欢学语言。如果你方便，我们周六一起学习吧。周六我已经有计划了，周日下午可以吗？可以，我们先加联系方式吧。<br>
+   *Wǒ yě xǐhuan xué yǔyán. Rúguǒ nǐ fāngbiàn, wǒmen Zhōuliù yìqǐ xuéxí ba. Zhōuliù wǒ yǐjīng yǒu jìhuà le, Zhōurì xiàwǔ kěyǐ ma? Kěyǐ, wǒmen xiān jiā liánxì fāngshì ba.*<br>
+   I also like studying languages. If you are free, let us study together Saturday. I already have plans Saturday; is Sunday afternoon okay? Yes, let us exchange contact information first.
+
 ## Day 5
 
-### Dialogue support
+### 1. Rapid retrieval — Model responses
+
+1. 我来自加拿大，现在住在上海。<br>
+   *Wǒ láizì Jiānádà, xiànzài zhù zài Shànghǎi.*<br>
+   I am from Canada and now live in Shanghai.
+2. 我目前在一家科技公司工作。<br>
+   *Wǒ mùqián zài yì jiā kējì gōngsī gōngzuò.*<br>
+   I currently work at a technology company.
+3. 我的专业是商务，我对语言很有兴趣。<br>
+   *Wǒ de zhuānyè shì shāngwù, wǒ duì yǔyán hěn yǒu xìngqù.*<br>
+   My major is business, and I am very interested in languages.
+4. 我平时晚上学习，经常去图书馆。<br>
+   *Wǒ píngshí wǎnshang xuéxí, jīngcháng qù túshūguǎn.*<br>
+   I usually study at night and often go to the library.
+5. 这个周末我打算跟朋友吃饭。<br>
+   *Zhè ge zhōumò wǒ dǎsuàn gēn péngyou chīfàn.*<br>
+   This weekend I plan to eat with a friend.
+6. 如果你方便的话，我们一起喝咖啡吧。<br>
+   *Rúguǒ nǐ fāngbiàn dehuà, wǒmen yìqǐ hē kāfēi ba.*<br>
+   If you are free, let us have coffee together.
+
+### 2. Read first: characters only — Dialogue support
 
 1. 小顾，我想把我的朋友美玲介绍给你。她来自新加坡，现在住在上海。<br>
    *Xiǎo Gù, wǒ xiǎng bǎ wǒ de péngyou Měilíng jièshào gěi nǐ. Tā láizì Xīnjiāpō, xiànzài zhù zài Shànghǎi.*<br>
@@ -378,7 +581,7 @@ Use this file only after attempting the corresponding section in `lessons.md`. E
    *Rúguǒ tā zhè ge zhōumò fāngbiàn, wǒmen kěyǐ liánxì tā, yìqǐ hē kāfēi.*<br>
    If she is free this weekend, we can contact her and have coffee together.
 
-### Suggested comprehension answers
+### 3. Dialogue questions — Suggested answers
 
 1. 美玲来自新加坡，现在住在上海。<br>
    *Měilíng láizì Xīnjiāpō, xiànzài zhù zài Shànghǎi.*<br>
@@ -396,7 +599,7 @@ Use this file only after attempting the corresponding section in `lessons.md`. E
    *Xiǎo Gù jiànyì liánxì Měilíng, zhè ge zhōumò yìqǐ hē kāfēi.*<br>
    Xiao Gu suggests contacting Meiling and having coffee together this weekend.
 
-### Accuracy practice
+### 4. Accuracy practice
 
 1. 我来自美国。／我从美国来。<br>
    *Wǒ láizì Měiguó. / Wǒ cóng Měiguó lái.*<br>
@@ -414,7 +617,7 @@ Use this file only after attempting the corresponding section in `lessons.md`. E
    *Rúguǒ nǐ fāngbiàn, wǒmen jiù yìqǐ chīfàn.*<br>
    If you are free, we will eat together.
 
-### English → Mandarin
+### 5. English → Mandarin
 
 1. 这是我的同事，我来介绍一下她。<br>
    *Zhè shì wǒ de tóngshì, wǒ lái jièshào yíxià tā.*<br>
@@ -432,9 +635,39 @@ Use this file only after attempting the corresponding section in `lessons.md`. E
    *Rúguǒ tā zhè ge zhōumò fāngbiàn, wǒmen dǎsuàn qǐng tā hē kāfēi.*<br>
    If she is free this weekend, we plan to invite her for coffee.
 
+### 6. Create and speak — Model responses
+
+1. 这是我的朋友美玲。她来自新加坡，现在住在上海。她目前在一家银行工作，周末还学习中文。她对语言有兴趣，也喜欢跑步和做饭。比起运动，她更喜欢跟朋友一起吃饭。这个周末她打算跟朋友喝咖啡。<br>
+   *Zhè shì wǒ de péngyou Měilíng. Tā láizì Xīnjiāpō, xiànzài zhù zài Shànghǎi. Tā mùqián zài yì jiā yínháng gōngzuò, zhōumò hái xuéxí Zhōngwén. Tā duì yǔyán yǒu xìngqù, yě xǐhuan pǎobù hé zuòfàn. Bǐqǐ yùndòng, tā gèng xǐhuan gēn péngyou yìqǐ chīfàn. Zhè ge zhōumò tā dǎsuàn gēn péngyou hē kāfēi.*<br>
+   This is my friend Meiling. She is from Singapore and now lives in Shanghai. She currently works at a bank and still studies Chinese on weekends. She is interested in languages and likes running and cooking. Compared with exercise, she prefers eating with friends. This weekend she plans to have coffee with friends.
+2. 她为什么学习中文？她平时什么时候跑步？她周末经常做什么？她打算什么时候喝咖啡？<br>
+   *Tā wèishénme xuéxí Zhōngwén? Tā píngshí shénme shíhou pǎobù? Tā zhōumò jīngcháng zuò shénme? Tā dǎsuàn shénme shíhou hē kāfēi?*<br>
+   Why does she study Chinese? When does she usually run? What does she often do on weekends? When does she plan to have coffee?
+3. 你好，这是我的朋友美玲。你们都对语言有兴趣。你们平时还喜欢做什么？如果这个周末方便，你们可以一起喝咖啡。<br>
+   *Nǐhǎo, zhè shì wǒ de péngyou Měilíng. Nǐmen dōu duì yǔyán yǒu xìngqù. Nǐmen píngshí hái xǐhuan zuò shénme? Rúguǒ zhè ge zhōumò fāngbiàn, nǐmen kěyǐ yìqǐ hē kāfēi.*<br>
+   Hello, this is my friend Meiling. You are both interested in languages. What else do you usually like doing? If you are free this weekend, you can have coffee together.
+
 ## Day 6
 
-### Dialogue support
+### 1. Retrieval challenge — Model responses
+
+1. 我叫安娜，来自加拿大。<br>
+   *Wǒ jiào Ānnà, láizì Jiānádà.*<br>
+   My name is Anna, and I am from Canada.
+2. 我目前在上海学习中文。<br>
+   *Wǒ mùqián zài Shànghǎi xuéxí Zhōngwén.*<br>
+   I currently study Chinese in Shanghai.
+3. 我对语言有兴趣，但是我更喜欢练习口语。<br>
+   *Wǒ duì yǔyán yǒu xìngqù, dànshì wǒ gèng xǐhuan liànxí kǒuyǔ.*<br>
+   I am interested in languages, but I prefer practicing speaking.
+4. 我一般晚上学习，所以这个周末我打算去图书馆。<br>
+   *Wǒ yìbān wǎnshang xuéxí, suǒyǐ zhè ge zhōumò wǒ dǎsuàn qù túshūguǎn.*<br>
+   I usually study at night, so this weekend I plan to go to the library.
+5. 如果你方便的话，我们可以一起喝咖啡。<br>
+   *Rúguǒ nǐ fāngbiàn dehuà, wǒmen kěyǐ yìqǐ hē kāfēi.*<br>
+   If you are free, we can have coffee together.
+
+### 2. Read first: characters only — Dialogue support
 
 1. 你好，这儿有人坐吗？我叫陈明，第一次来参加这个活动。<br>
    *Nǐhǎo, zhèr yǒu rén zuò ma? Wǒ jiào Chén Míng, dì-yī cì lái cānjiā zhè ge huódòng.*<br>
@@ -461,7 +694,7 @@ Use this file only after attempting the corresponding section in `lessons.md`. E
    *Zhōurì wǒ yǐjīng yǒu jìhuà le, búguò Zhōuliù hái fāngbiàn. Wǒmen xiān jiā liánxì fāngshì ba.*<br>
    I already have plans Sunday, but Saturday still works. Let us exchange contact information first.
 
-### Suggested comprehension answers
+### 3. Dialogue questions — Suggested answers
 
 1. 陈明是第一次来这里，他来参加一个活动。<br>
    *Chén Míng shì dì-yī cì lái zhèlǐ, tā lái cānjiā yí ge huódòng.*<br>
@@ -479,7 +712,7 @@ Use this file only after attempting the corresponding section in `lessons.md`. E
    *Yīnwèi Ānnà Zhōurì yǐjīng yǒu jìhuà le, suǒyǐ tāmen kěnéng Zhōuliù jiànmiàn.*<br>
    Because Anna already has plans Sunday, they may meet Saturday.
 
-### English → Mandarin
+### 4. English → Mandarin
 
 1. 很高兴认识你。你是第一次来这儿吗？<br>
    *Hěn gāoxìng rènshi nǐ. Nǐ shì dì-yī cì lái zhèr ma?*<br>
@@ -496,6 +729,40 @@ Use this file only after attempting the corresponding section in `lessons.md`. E
 5. 我周日已经有计划了。如果周六方便，就联系我吧。<br>
    *Wǒ Zhōurì yǐjīng yǒu jìhuà le. Rúguǒ Zhōuliù fāngbiàn, jiù liánxì wǒ ba.*<br>
    I already have plans Sunday. If Saturday is convenient, contact me.
+
+### 5. Independent production — Model responses
+
+#### Round 1 — Two-minute introduction
+
+你好，我叫安娜，来自加拿大，现在住在上海。我目前在这里学习中文。学习语言是我的爱好，我也喜欢看电影和做饭。我平时晚上学习，周末经常跟朋友见面。这个周末我打算去图书馆，然后跟朋友一起吃饭。<br>
+*Nǐhǎo, wǒ jiào Ānnà, láizì Jiānádà, xiànzài zhù zài Shànghǎi. Wǒ mùqián zài zhèlǐ xuéxí Zhōngwén. Xuéxí yǔyán shì wǒ de àihào, wǒ yě xǐhuan kàn diànyǐng hé zuòfàn. Wǒ píngshí wǎnshang xuéxí, zhōumò jīngcháng gēn péngyou jiànmiàn. Zhè ge zhōumò wǒ dǎsuàn qù túshūguǎn, ránhòu gēn péngyou yìqǐ chīfàn.*<br>
+Hello, my name is Anna. I am from Canada and now live in Shanghai. I currently study Chinese here. Studying languages is my hobby, and I also like watching movies and cooking. I usually study at night and often meet friends on weekends. This weekend I plan to go to the library and then eat with friends.
+
+#### Round 2 — Follow-up questions
+
+你叫什么名字？你来自哪儿？你现在住在哪儿？你目前工作还是学习？你平时在家学习还是去图书馆？你这个周末有什么计划？<br>
+*Nǐ jiào shénme míngzi? Nǐ láizì nǎr? Nǐ xiànzài zhù zài nǎr? Nǐ mùqián gōngzuò háishi xuéxí? Nǐ píngshí zài jiā xuéxí háishi qù túshūguǎn? Nǐ zhè ge zhōumò yǒu shénme jìhuà?*<br>
+What is your name? Where are you from? Where do you live now? Do you currently work or study? Do you usually study at home or go to the library? What plans do you have this weekend?
+
+#### Round 3 — Roleplay with a twist
+
+A：我也喜欢做饭！如果你周日方便，我们可以一起做饭。<br>
+*Wǒ yě xǐhuan zuòfàn! Rúguǒ nǐ Zhōurì fāngbiàn, wǒmen kěyǐ yìqǐ zuòfàn.*<br>
+I also like cooking! If you are free Sunday, we can cook together.
+
+B：周日我已经有计划了，不过周六下午方便。<br>
+*Zhōurì wǒ yǐjīng yǒu jìhuà le, búguò Zhōuliù xiàwǔ fāngbiàn.*<br>
+I already have plans Sunday, but Saturday afternoon works.
+
+A：好，那我们周六下午见。我们先加联系方式吧。<br>
+*Hǎo, nà wǒmen Zhōuliù xiàwǔ jiàn. Wǒmen xiān jiā liánxì fāngshì ba.*<br>
+Great, then let us meet Saturday afternoon. Let us exchange contact information first.
+
+### 6. Self-check — Example reflection
+
+我可以不用看书介绍自己，也可以问别人六个问题。我还要多练习“目前”、“比较”和“方便”。下次我想练习更快地回答问题。<br>
+*Wǒ kěyǐ bú yòng kàn shū jièshào zìjǐ, yě kěyǐ wèn biérén liù ge wèntí. Wǒ hái yào duō liànxí “mùqián,” “bǐjiào” hé “fāngbiàn.” Xià cì wǒ xiǎng liànxí gèng kuài de huídá wèntí.*<br>
+I can introduce myself without looking at the book and can ask another person six questions. I still need to practice “currently,” “relatively,” and “convenient.” Next time I want to practice answering questions more quickly.
 
 ## How to use corrections
 
