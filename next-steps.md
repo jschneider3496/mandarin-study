@@ -1,6 +1,8 @@
 # Next Steps (Ideas to Expand)
 
-## More unit ideas (same format)
+## More unit ideas (use the practice-first format)
+
+Create new units and rewrite existing units according to `LESSON-DESIGN.md`. Preserve each existing unit's vocabulary targets during a rewrite.
 
 - Housing: rent, repairs, utilities
 - Emergencies + asking for help
