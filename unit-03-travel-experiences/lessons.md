@@ -1,6 +1,6 @@
 # Unit 03 — Travel Experiences: Practice Lessons (Day 1–6)
 
-This unit preserves all 40 targets in `vocab.md` and reorganizes the original readings and schedule around retrieval and production.
+This unit preserves all 40 targets in `vocab.md` and organizes each day around retrieval and production.
 
 ## Daily method (25–35 minutes)
 
@@ -38,11 +38,11 @@ Without reopening `vocab.md`:
 
 1. 甲：你原来的行程不是先去南京吗？怎么现在改成上海了？<br>
    *Jiǎ: Nǐ yuánlái de xíngchéng bú shì xiān qù Nánjīng ma? Zěnme xiànzài gǎi chéng Shànghǎi le?*<br>
-   Wasn’t your original itinerary to go to Nanjing first? How did it become Shanghai now?
+   Wasn’t your original itinerary to go to Nanjing first? Why did you change it to Shanghai?
 
 2. 乙：因为航班时间不太合适，所以我把第一站改成上海，再从那边坐火车去别的地方。<br>
    *Yǐ: Yīnwèi hángbān shíjiān bú tài héshì, suǒyǐ wǒ bǎ dì-yī zhàn gǎi chéng Shànghǎi, zài cóng nàbiān zuò huǒchē qù bié de dìfang.*<br>
-   Because the flight time wasn’t very suitable, I changed the first stop to Shanghai and will then take a train elsewhere from there.
+   Because the flight schedule wasn't convenient, I changed the first stop to Shanghai and will then take a train to other places from there.
 
 3. 甲：这样听起来也不错。酒店和车票你都已经预订了吗？<br>
    *Jiǎ: Zhèyàng tīng qǐlái yě búcuò. Jiǔdiàn hé chēpiào nǐ dōu yǐjīng yùdìng le ma?*<br>
@@ -74,11 +74,11 @@ Without reopening `vocab.md`:
 
 1. 甲：你原来的行程不是先去南京吗？怎么现在改成上海了？<br>
    *Jiǎ: Nǐ yuánlái de xíngchéng bú shì xiān qù Nánjīng ma? Zěnme xiànzài gǎi chéng Shànghǎi le?*<br>
-   Wasn’t your original itinerary to go to Nanjing first? How did it become Shanghai now?
+   Wasn’t your original itinerary to go to Nanjing first? Why did you change it to Shanghai?
 
 2. 乙：因为航班时间不太合适，所以我把第一站改成上海，再从那边坐火车去别的地方。<br>
    *Yǐ: Yīnwèi hángbān shíjiān bú tài héshì, suǒyǐ wǒ bǎ dì-yī zhàn gǎi chéng Shànghǎi, zài cóng nàbiān zuò huǒchē qù bié de dìfang.*<br>
-   Because the flight time wasn’t very suitable, I changed the first stop to Shanghai and will then take a train elsewhere from there.
+   Because the flight schedule wasn't convenient, I changed the first stop to Shanghai and will then take a train to other places from there.
 
 3. 甲：这样听起来也不错。酒店和车票你都已经预订了吗？<br>
    *Jiǎ: Zhèyàng tīng qǐlái yě búcuò. Jiǔdiàn hé chēpiào nǐ dōu yǐjīng yùdìng le ma?*<br>
@@ -105,7 +105,7 @@ Answer in complete Mandarin sentences.
 
 1. 乙：因为航班时间不太合适，所以我把第一站改成上海，再从那边坐火车去别的地方。<br>
    *Yǐ: Yīnwèi hángbān shíjiān bú tài héshì, suǒyǐ wǒ bǎ dì-yī zhàn gǎi chéng Shànghǎi, zài cóng nàbiān zuò huǒchē qù bié de dìfang.*<br>
-   Because the flight time wasn’t very suitable, I changed the first stop to Shanghai and will then take a train elsewhere from there.
+   Because the flight schedule wasn't convenient, I changed the first stop to Shanghai and will then take a train to other places from there.
 
 2. 乙：差不多都准备好了，所以这次出发前我没有上次那么紧张。<br>
    *Yǐ: Chàbuduō dōu zhǔnbèi hǎo le, suǒyǐ zhè cì chūfā qián wǒ méiyǒu shàng cì nàme jǐnzhāng.*<br>
@@ -121,8 +121,8 @@ Answer in complete Mandarin sentences.
 
 Translate before opening the support panel.
 
-1. Wasn’t your original itinerary to go to Nanjing first? How did it become Shanghai now?
-2. Because the flight time wasn’t very suitable, I changed the first stop to Shanghai and will then take a train elsewhere from there.
+1. Wasn’t your original itinerary to go to Nanjing first? Why did you change it to Shanghai?
+2. Because the flight schedule wasn't convenient, I changed the first stop to Shanghai and will then take a train to other places from there.
 3. That actually sounds good too. Have you already booked the hotel and tickets?
 4. Almost everything is ready, so before this trip I’m not as nervous as last time.
 
@@ -133,11 +133,11 @@ Translate before opening the support panel.
 
 1. 甲：你原来的行程不是先去南京吗？怎么现在改成上海了？<br>
    *Jiǎ: Nǐ yuánlái de xíngchéng bú shì xiān qù Nánjīng ma? Zěnme xiànzài gǎi chéng Shànghǎi le?*<br>
-   Wasn’t your original itinerary to go to Nanjing first? How did it become Shanghai now?
+   Wasn’t your original itinerary to go to Nanjing first? Why did you change it to Shanghai?
 
 2. 乙：因为航班时间不太合适，所以我把第一站改成上海，再从那边坐火车去别的地方。<br>
    *Yǐ: Yīnwèi hángbān shíjiān bú tài héshì, suǒyǐ wǒ bǎ dì-yī zhàn gǎi chéng Shànghǎi, zài cóng nàbiān zuò huǒchē qù bié de dìfang.*<br>
-   Because the flight time wasn’t very suitable, I changed the first stop to Shanghai and will then take a train elsewhere from there.
+   Because the flight schedule wasn't convenient, I changed the first stop to Shanghai and will then take a train to other places from there.
 
 3. 甲：这样听起来也不错。酒店和车票你都已经预订了吗？<br>
    *Jiǎ: Zhèyàng tīng qǐlái yě búcuò. Jiǔdiàn hé chēpiào nǐ dōu yǐjīng yùdìng le ma?*<br>
@@ -151,7 +151,7 @@ Translate before opening the support panel.
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 1. “I plan to travel this weekend.”
 2. Say: first go to A, then go to B, and explain why.
@@ -170,7 +170,7 @@ Then:
 
 1. 乙：因为航班时间不太合适，所以我把第一站改成上海，再从那边坐火车去别的地方。<br>
    *Yǐ: Yīnwèi hángbān shíjiān bú tài héshì, suǒyǐ wǒ bǎ dì-yī zhàn gǎi chéng Shànghǎi, zài cóng nàbiān zuò huǒchē qù bié de dìfang.*<br>
-   Because the flight time wasn’t very suitable, I changed the first stop to Shanghai and will then take a train elsewhere from there.
+   Because the flight schedule wasn't convenient, I changed the first stop to Shanghai and will then take a train to other places from there.
 
 2. 甲：这样听起来也不错。酒店和车票你都已经预订了吗？<br>
    *Jiǎ: Zhèyàng tīng qǐlái yě búcuò. Jiǔdiàn hé chēpiào nǐ dōu yǐjīng yùdìng le ma?*<br>
@@ -193,11 +193,11 @@ Without notes, summarize today’s situation in three connected sentences. Use a
 
 1. 甲：你原来的行程不是先去南京吗？怎么现在改成上海了？<br>
    *Jiǎ: Nǐ yuánlái de xíngchéng bú shì xiān qù Nánjīng ma? Zěnme xiànzài gǎi chéng Shànghǎi le?*<br>
-   Wasn’t your original itinerary to go to Nanjing first? How did it become Shanghai now?
+   Wasn’t your original itinerary to go to Nanjing first? Why did you change it to Shanghai?
 
 2. 乙：因为航班时间不太合适，所以我把第一站改成上海，再从那边坐火车去别的地方。<br>
    *Yǐ: Yīnwèi hángbān shíjiān bú tài héshì, suǒyǐ wǒ bǎ dì-yī zhàn gǎi chéng Shànghǎi, zài cóng nàbiān zuò huǒchē qù bié de dìfang.*<br>
-   Because the flight time wasn’t very suitable, I changed the first stop to Shanghai and will then take a train elsewhere from there.
+   Because the flight schedule wasn't convenient, I changed the first stop to Shanghai and will then take a train to other places from there.
 
 3. 乙：差不多都准备好了，所以这次出发前我没有上次那么紧张。<br>
    *Yǐ: Chàbuduō dōu zhǔnbèi hǎo le, suǒyǐ zhè cì chūfā qián wǒ méiyǒu shàng cì nàme jǐnzhāng.*<br>
@@ -234,7 +234,7 @@ Without reopening `vocab.md`:
 
 2. 乙：不太顺利。路上堵了一会儿，不过我还是提前到了。<br>
    *Yǐ: Bú tài shùnlì. Lùshang dǔ le yíhuìr, búguò wǒ háishi tíqián dào le.*<br>
-   Not completely smoothly. The road was blocked for a while, but I still arrived early.
+   Not really. Traffic was backed up for a while, but I still arrived early.
 
 3. 甲：那还好。后来航班按时起飞了吗？<br>
    *Jiǎ: Nà hái hǎo. Hòulái hángbān ànshí qǐfēi le ma?*<br>
@@ -270,7 +270,7 @@ Without reopening `vocab.md`:
 
 2. 乙：不太顺利。路上堵了一会儿，不过我还是提前到了。<br>
    *Yǐ: Bú tài shùnlì. Lùshang dǔ le yíhuìr, búguò wǒ háishi tíqián dào le.*<br>
-   Not completely smoothly. The road was blocked for a while, but I still arrived early.
+   Not really. Traffic was backed up for a while, but I still arrived early.
 
 3. 甲：那还好。后来航班按时起飞了吗？<br>
    *Jiǎ: Nà hái hǎo. Hòulái hángbān ànshí qǐfēi le ma?*<br>
@@ -297,11 +297,11 @@ Answer in complete Mandarin sentences.
 
 1. 乙：不太顺利。路上堵了一会儿，不过我还是提前到了。<br>
    *Yǐ: Bú tài shùnlì. Lùshang dǔ le yíhuìr, búguò wǒ háishi tíqián dào le.*<br>
-   Not completely smoothly. The road was blocked for a while, but I still arrived early.
+   Not really. Traffic was backed up for a while, but I still arrived early.
 
 2. 乙：不太顺利。路上堵了一会儿，不过我还是提前到了。<br>
    *Yǐ: Bú tài shùnlì. Lùshang dǔ le yíhuìr, búguò wǒ háishi tíqián dào le.*<br>
-   Not completely smoothly. The road was blocked for a while, but I still arrived early.
+   Not really. Traffic was backed up for a while, but I still arrived early.
 
 3. 乙：没有，晚了四十分钟，所以我到酒店的时候已经很累了。<br>
    *Yǐ: Méiyǒu, wǎn le sìshí fēnzhōng, suǒyǐ wǒ dào jiǔdiàn de shíhou yǐjīng hěn lèi le.*<br>
@@ -314,7 +314,7 @@ Answer in complete Mandarin sentences.
 Translate before opening the support panel.
 
 1. Did you get to the airport smoothly today? I saw it was raining the whole time outside.
-2. Not completely smoothly. The road was blocked for a while, but I still arrived early.
+2. Not really. Traffic was backed up for a while, but I still arrived early.
 3. That’s still okay. Did the flight take off on time later?
 4. No, it was delayed by forty minutes, so by the time I arrived at the hotel, I was already very tired.
 
@@ -329,7 +329,7 @@ Translate before opening the support panel.
 
 2. 乙：不太顺利。路上堵了一会儿，不过我还是提前到了。<br>
    *Yǐ: Bú tài shùnlì. Lùshang dǔ le yíhuìr, búguò wǒ háishi tíqián dào le.*<br>
-   Not completely smoothly. The road was blocked for a while, but I still arrived early.
+   Not really. Traffic was backed up for a while, but I still arrived early.
 
 3. 甲：那还好。后来航班按时起飞了吗？<br>
    *Jiǎ: Nà hái hǎo. Hòulái hángbān ànshí qǐfēi le ma?*<br>
@@ -343,7 +343,7 @@ Translate before opening the support panel.
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 1. Translate: “I bought the ticket.”
 2. Answer in 3 sentences: how you go, how long it takes, and what luggage you bring.
@@ -362,7 +362,7 @@ Then:
 
 1. 乙：不太顺利。路上堵了一会儿，不过我还是提前到了。<br>
    *Yǐ: Bú tài shùnlì. Lùshang dǔ le yíhuìr, búguò wǒ háishi tíqián dào le.*<br>
-   Not completely smoothly. The road was blocked for a while, but I still arrived early.
+   Not really. Traffic was backed up for a while, but I still arrived early.
 
 2. 甲：那还好。后来航班按时起飞了吗？<br>
    *Jiǎ: Nà hái hǎo. Hòulái hángbān ànshí qǐfēi le ma?*<br>
@@ -389,7 +389,7 @@ Without notes, summarize today’s situation in three connected sentences. Use a
 
 2. 乙：不太顺利。路上堵了一会儿，不过我还是提前到了。<br>
    *Yǐ: Bú tài shùnlì. Lùshang dǔ le yíhuìr, búguò wǒ háishi tíqián dào le.*<br>
-   Not completely smoothly. The road was blocked for a while, but I still arrived early.
+   Not really. Traffic was backed up for a while, but I still arrived early.
 
 3. 乙：没有，晚了四十分钟，所以我到酒店的时候已经很累了。<br>
    *Yǐ: Méiyǒu, wǎn le sìshí fēnzhōng, suǒyǐ wǒ dào jiǔdiàn de shíhou yǐjīng hěn lèi le.*<br>
@@ -427,7 +427,7 @@ Without reopening `vocab.md`:
 
 2. 前台：好的，我帮您查一下。您原来订的是大床房，不过现在只剩安静一点的双床房了。<br>
    *Qiántái: Hǎo de, wǒ bāng nín chá yíxià. Nín yuánlái dìng de shì dàchuángfáng, búguò xiànzài zhǐ shèng ānjìng yìdiǎn de shuāngchuángfáng le.*<br>
-   Certainly, let me check. You originally booked a double bed room, but only a quieter twin room is left now.
+   Certainly, let me check. You originally booked a room with a double bed, but only a quieter twin room is left now.
 
 3. 乙：如果差别不大，也可以。反正我只住两晚，安静一点更重要。<br>
    *Yǐ: Rúguǒ chābié bú dà, yě kěyǐ. Fǎnzhèng wǒ zhǐ zhù liǎng wǎn, ānjìng yìdiǎn gèng zhòngyào.*<br>
@@ -463,7 +463,7 @@ Without reopening `vocab.md`:
 
 2. 前台：好的，我帮您查一下。您原来订的是大床房，不过现在只剩安静一点的双床房了。<br>
    *Qiántái: Hǎo de, wǒ bāng nín chá yíxià. Nín yuánlái dìng de shì dàchuángfáng, búguò xiànzài zhǐ shèng ānjìng yìdiǎn de shuāngchuángfáng le.*<br>
-   Certainly, let me check. You originally booked a double bed room, but only a quieter twin room is left now.
+   Certainly, let me check. You originally booked a room with a double bed, but only a quieter twin room is left now.
 
 3. 乙：如果差别不大，也可以。反正我只住两晚，安静一点更重要。<br>
    *Yǐ: Rúguǒ chābié bú dà, yě kěyǐ. Fǎnzhèng wǒ zhǐ zhù liǎng wǎn, ānjìng yìdiǎn gèng zhòngyào.*<br>
@@ -494,7 +494,7 @@ Answer in complete Mandarin sentences.
 
 2. 前台：好的，我帮您查一下。您原来订的是大床房，不过现在只剩安静一点的双床房了。<br>
    *Qiántái: Hǎo de, wǒ bāng nín chá yíxià. Nín yuánlái dìng de shì dàchuángfáng, búguò xiànzài zhǐ shèng ānjìng yìdiǎn de shuāngchuángfáng le.*<br>
-   Certainly, let me check. You originally booked a double bed room, but only a quieter twin room is left now.
+   Certainly, let me check. You originally booked a room with a double bed, but only a quieter twin room is left now.
 
 3. 前台：明白了。那我现在给您办入住，明天中午以前退房就可以。<br>
    *Qiántái: Míngbai le. Nà wǒ xiànzài gěi nín bàn rùzhù, míngtiān zhōngwǔ yǐqián tuìfáng jiù kěyǐ.*<br>
@@ -507,7 +507,7 @@ Answer in complete Mandarin sentences.
 Translate before opening the support panel.
 
 1. Hello, I booked a room yesterday and would like to check in today. Here is my passport.
-2. Certainly, let me check. You originally booked a double bed room, but only a quieter twin room is left now.
+2. Certainly, let me check. You originally booked a room with a double bed, but only a quieter twin room is left now.
 3. If the difference isn’t big, that’s fine. Anyway, I’m only staying two nights, and a quieter room is more important.
 4. Understood. I’ll check you in now. You just need to check out before noon tomorrow.
 
@@ -522,7 +522,7 @@ Translate before opening the support panel.
 
 2. 前台：好的，我帮您查一下。您原来订的是大床房，不过现在只剩安静一点的双床房了。<br>
    *Qiántái: Hǎo de, wǒ bāng nín chá yíxià. Nín yuánlái dìng de shì dàchuángfáng, búguò xiànzài zhǐ shèng ānjìng yìdiǎn de shuāngchuángfáng le.*<br>
-   Certainly, let me check. You originally booked a double bed room, but only a quieter twin room is left now.
+   Certainly, let me check. You originally booked a room with a double bed, but only a quieter twin room is left now.
 
 3. 乙：如果差别不大，也可以。反正我只住两晚，安静一点更重要。<br>
    *Yǐ: Rúguǒ chābié bú dà, yě kěyǐ. Fǎnzhèng wǒ zhǐ zhù liǎng wǎn, ānjìng yìdiǎn gèng zhòngyào.*<br>
@@ -536,7 +536,7 @@ Translate before opening the support panel.
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 1. Say your arrival plan: check in first, then visit, and mention one booking detail.
 2. Use ≥5 words: 到 / 以后 / 先 / 再 / 入住
@@ -554,7 +554,7 @@ Then:
 
 1. 前台：好的，我帮您查一下。您原来订的是大床房，不过现在只剩安静一点的双床房了。<br>
    *Qiántái: Hǎo de, wǒ bāng nín chá yíxià. Nín yuánlái dìng de shì dàchuángfáng, búguò xiànzài zhǐ shèng ānjìng yìdiǎn de shuāngchuángfáng le.*<br>
-   Certainly, let me check. You originally booked a double bed room, but only a quieter twin room is left now.
+   Certainly, let me check. You originally booked a room with a double bed, but only a quieter twin room is left now.
 
 2. 乙：如果差别不大，也可以。反正我只住两晚，安静一点更重要。<br>
    *Yǐ: Rúguǒ chābié bú dà, yě kěyǐ. Fǎnzhèng wǒ zhǐ zhù liǎng wǎn, ānjìng yìdiǎn gèng zhòngyào.*<br>
@@ -581,7 +581,7 @@ Without notes, summarize today’s situation in three connected sentences. Use a
 
 2. 前台：好的，我帮您查一下。您原来订的是大床房，不过现在只剩安静一点的双床房了。<br>
    *Qiántái: Hǎo de, wǒ bāng nín chá yíxià. Nín yuánlái dìng de shì dàchuángfáng, búguò xiànzài zhǐ shèng ānjìng yìdiǎn de shuāngchuángfáng le.*<br>
-   Certainly, let me check. You originally booked a double bed room, but only a quieter twin room is left now.
+   Certainly, let me check. You originally booked a room with a double bed, but only a quieter twin room is left now.
 
 3. 前台：明白了。那我现在给您办入住，明天中午以前退房就可以。<br>
    *Qiántái: Míngbai le. Nà wǒ xiànzài gěi nín bàn rùzhù, míngtiān zhōngwǔ yǐqián tuìfáng jiù kěyǐ.*<br>
@@ -672,7 +672,7 @@ Answer in complete Mandarin sentences.
 
 1. 乙今天按什么顺序去了哪些地方？
 2. 为什么乙觉得这个景点值得推荐？
-3. 乙今天最大的缺点是什么？
+3. 乙觉得今天的行程有什么缺点？
 
 <details>
 <summary>Show pinyin, English, and model answers</summary>
@@ -727,7 +727,7 @@ Translate before opening the support panel.
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 1. Say 3–4 sentences about what you did today on a trip.
 2. Include 1 feeling: 开心/累 + `觉得`.
@@ -854,7 +854,7 @@ Without reopening `vocab.md`:
 
 4. 乙：这次我住得更久，也更愿意慢慢走，所以虽然有点麻烦，但是感觉比上次丰富得多。<br>
    *Yǐ: Zhè cì wǒ zhù de gèng jiǔ, yě gèng yuànyì mànmàn zǒu, suǒyǐ suīrán yǒudiǎnr máfan, dànshì gǎnjué bǐ shàng cì fēngfù de duō.*<br>
-   This time I’m staying longer and I’m more willing to walk slowly, so although it’s a little troublesome, it feels much richer than last time.
+   This time I’m staying longer and taking more time to explore, so although it’s a little troublesome, the experience feels much richer than last time.
 
 </details>
 
@@ -881,7 +881,7 @@ Answer in complete Mandarin sentences.
 
 3. 乙：这次我住得更久，也更愿意慢慢走，所以虽然有点麻烦，但是感觉比上次丰富得多。<br>
    *Yǐ: Zhè cì wǒ zhù de gèng jiǔ, yě gèng yuànyì mànmàn zǒu, suǒyǐ suīrán yǒudiǎnr máfan, dànshì gǎnjué bǐ shàng cì fēngfù de duō.*<br>
-   This time I’m staying longer and I’m more willing to walk slowly, so although it’s a little troublesome, it feels much richer than last time.
+   This time I’m staying longer and taking more time to explore, so although it’s a little troublesome, the experience feels much richer than last time.
 
 </details>
 
@@ -892,7 +892,7 @@ Translate before opening the support panel.
 1. Haven’t you been to this city before? Why did you want to come again this time?
 2. I’ve been here once, but last time the itinerary was too rushed and I only saw a few popular sights.
 3. Then what’s the biggest difference this time?
-4. This time I’m staying longer and I’m more willing to walk slowly, so although it’s a little troublesome, it feels much richer than last time.
+4. This time I’m staying longer and taking more time to explore, so although it’s a little troublesome, the experience feels much richer than last time.
 
 <details>
 <summary>Show pinyin, English, and model answers</summary>
@@ -913,13 +913,13 @@ Translate before opening the support panel.
 
 4. 乙：这次我住得更久，也更愿意慢慢走，所以虽然有点麻烦，但是感觉比上次丰富得多。<br>
    *Yǐ: Zhè cì wǒ zhù de gèng jiǔ, yě gèng yuànyì mànmàn zǒu, suǒyǐ suīrán yǒudiǎnr máfan, dànshì gǎnjué bǐ shàng cì fēngfù de duō.*<br>
-   This time I’m staying longer and I’m more willing to walk slowly, so although it’s a little troublesome, it feels much richer than last time.
+   This time I’m staying longer and taking more time to explore, so although it’s a little troublesome, the experience feels much richer than last time.
 
 </details>
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 1. Ask GPT: “Have you been to X?” and respond with `去过/没去过`.
 2. Explain why you liked/didn’t like it using 因为…所以… and one contrast with 但是.
@@ -945,7 +945,7 @@ Then:
 
 3. 乙：这次我住得更久，也更愿意慢慢走，所以虽然有点麻烦，但是感觉比上次丰富得多。<br>
    *Yǐ: Zhè cì wǒ zhù de gèng jiǔ, yě gèng yuànyì mànmàn zǒu, suǒyǐ suīrán yǒudiǎnr máfan, dànshì gǎnjué bǐ shàng cì fēngfù de duō.*<br>
-   This time I’m staying longer and I’m more willing to walk slowly, so although it’s a little troublesome, it feels much richer than last time.
+   This time I’m staying longer and taking more time to explore, so although it’s a little troublesome, the experience feels much richer than last time.
 
 </details>
 
@@ -968,7 +968,7 @@ Without notes, summarize today’s situation in three connected sentences. Use a
 
 3. 乙：这次我住得更久，也更愿意慢慢走，所以虽然有点麻烦，但是感觉比上次丰富得多。<br>
    *Yǐ: Zhè cì wǒ zhù de gèng jiǔ, yě gèng yuànyì mànmàn zǒu, suǒyǐ suīrán yǒudiǎnr máfan, dànshì gǎnjué bǐ shàng cì fēngfù de duō.*<br>
-   This time I’m staying longer and I’m more willing to walk slowly, so although it’s a little troublesome, it feels much richer than last time.
+   This time I’m staying longer and taking more time to explore, so although it’s a little troublesome, the experience feels much richer than last time.
 
 </details>
 
@@ -1005,7 +1005,7 @@ Without reopening `vocab.md`:
 
 3. 乙：我参观了很多景点，也拍了不少照片，还买了纪念品送朋友，所以整体上我觉得很值得。<br>
    *Yǐ: Wǒ cānguān le hěn duō jǐngdiǎn, yě pāi le bù shǎo zhàopiàn, hái mǎi le jìniànpǐn sòng péngyou, suǒyǐ zhěngtǐ shàng wǒ juéde hěn zhíde.*<br>
-   I visited many sights, took quite a lot of photos, and bought souvenirs for friends, so overall I think it was very worth it.
+   I visited many sights, took quite a lot of photos, and bought souvenirs for friends, so overall I think it was well worth it.
 
 </details>
 
@@ -1014,7 +1014,7 @@ Without reopening `vocab.md`:
 - 甲：如果让你用几句话总结这次旅行，你会怎么说？
 - 乙：虽然出发的时候有点不顺利，但是后面的行程越来越顺。
 - 乙：我参观了很多景点，也拍了不少照片，还买了纪念品送朋友，所以整体上我觉得很值得。
-- 乙：如果下次再来，我想提前订更久一点的房间，这样就不用一直赶时间了。
+- 乙：如果下次再来，我想提前把房间多订几天，这样就不用一直赶时间了。
 
 **Mini glossary (non-target support)**
 
@@ -1041,11 +1041,11 @@ Without reopening `vocab.md`:
 
 3. 乙：我参观了很多景点，也拍了不少照片，还买了纪念品送朋友，所以整体上我觉得很值得。<br>
    *Yǐ: Wǒ cānguān le hěn duō jǐngdiǎn, yě pāi le bù shǎo zhàopiàn, hái mǎi le jìniànpǐn sòng péngyou, suǒyǐ zhěngtǐ shàng wǒ juéde hěn zhíde.*<br>
-   I visited many sights, took quite a lot of photos, and bought souvenirs for friends, so overall I think it was very worth it.
+   I visited many sights, took quite a lot of photos, and bought souvenirs for friends, so overall I think it was well worth it.
 
-4. 乙：如果下次再来，我想提前订更久一点的房间，这样就不用一直赶时间了。<br>
-   *Yǐ: Rúguǒ xiàcì zài lái, wǒ xiǎng tíqián dìng gèng jiǔ yìdiǎn de fángjiān, zhèyàng jiù bú yòng yìzhí gǎn shíjiān le.*<br>
-   If I come again next time, I want to book a room for a little longer in advance so I won’t have to rush the whole time.
+4. 乙：如果下次再来，我想提前把房间多订几天，这样就不用一直赶时间了。<br>
+   *Yǐ: Rúguǒ xiàcì zài lái, wǒ xiǎng tíqián bǎ fángjiān duō dìng jǐ tiān, zhèyàng jiù bú yòng yìzhí gǎn shíjiān le.*<br>
+   If I come again, I want to book a few more nights in advance so I won’t have to rush the whole time.
 
 </details>
 
@@ -1068,11 +1068,11 @@ Answer in complete Mandarin sentences.
 
 2. 乙：我参观了很多景点，也拍了不少照片，还买了纪念品送朋友，所以整体上我觉得很值得。<br>
    *Yǐ: Wǒ cānguān le hěn duō jǐngdiǎn, yě pāi le bù shǎo zhàopiàn, hái mǎi le jìniànpǐn sòng péngyou, suǒyǐ zhěngtǐ shàng wǒ juéde hěn zhíde.*<br>
-   I visited many sights, took quite a lot of photos, and bought souvenirs for friends, so overall I think it was very worth it.
+   I visited many sights, took quite a lot of photos, and bought souvenirs for friends, so overall I think it was well worth it.
 
-3. 乙：如果下次再来，我想提前订更久一点的房间，这样就不用一直赶时间了。<br>
-   *Yǐ: Rúguǒ xiàcì zài lái, wǒ xiǎng tíqián dìng gèng jiǔ yìdiǎn de fángjiān, zhèyàng jiù bú yòng yìzhí gǎn shíjiān le.*<br>
-   If I come again next time, I want to book a room for a little longer in advance so I won’t have to rush the whole time.
+3. 乙：如果下次再来，我想提前把房间多订几天，这样就不用一直赶时间了。<br>
+   *Yǐ: Rúguǒ xiàcì zài lái, wǒ xiǎng tíqián bǎ fángjiān duō dìng jǐ tiān, zhèyàng jiù bú yòng yìzhí gǎn shíjiān le.*<br>
+   If I come again, I want to book a few more nights in advance so I won’t have to rush the whole time.
 
 </details>
 
@@ -1082,8 +1082,8 @@ Translate before opening the support panel.
 
 1. If you had to summarize this trip in a few sentences, what would you say?
 2. Although things weren’t very smooth when I first left, the itinerary went more and more smoothly afterward.
-3. I visited many sights, took quite a lot of photos, and bought souvenirs for friends, so overall I think it was very worth it.
-4. If I come again next time, I want to book a room for a little longer in advance so I won’t have to rush the whole time.
+3. I visited many sights, took quite a lot of photos, and bought souvenirs for friends, so overall I think it was well worth it.
+4. If I come again, I want to book a few more nights in advance so I won’t have to rush the whole time.
 
 <details>
 <summary>Show pinyin, English, and model answers</summary>
@@ -1100,17 +1100,17 @@ Translate before opening the support panel.
 
 3. 乙：我参观了很多景点，也拍了不少照片，还买了纪念品送朋友，所以整体上我觉得很值得。<br>
    *Yǐ: Wǒ cānguān le hěn duō jǐngdiǎn, yě pāi le bù shǎo zhàopiàn, hái mǎi le jìniànpǐn sòng péngyou, suǒyǐ zhěngtǐ shàng wǒ juéde hěn zhíde.*<br>
-   I visited many sights, took quite a lot of photos, and bought souvenirs for friends, so overall I think it was very worth it.
+   I visited many sights, took quite a lot of photos, and bought souvenirs for friends, so overall I think it was well worth it.
 
-4. 乙：如果下次再来，我想提前订更久一点的房间，这样就不用一直赶时间了。<br>
-   *Yǐ: Rúguǒ xiàcì zài lái, wǒ xiǎng tíqián dìng gèng jiǔ yìdiǎn de fángjiān, zhèyàng jiù bú yòng yìzhí gǎn shíjiān le.*<br>
-   If I come again next time, I want to book a room for a little longer in advance so I won’t have to rush the whole time.
+4. 乙：如果下次再来，我想提前把房间多订几天，这样就不用一直赶时间了。<br>
+   *Yǐ: Rúguǒ xiàcì zài lái, wǒ xiǎng tíqián bǎ fángjiān duō dìng jǐ tiān, zhèyàng jiù bú yòng yìzhí gǎn shíjiān le.*<br>
+   If I come again, I want to book a few more nights in advance so I won’t have to rush the whole time.
 
 </details>
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 - You and GPT talk about a recent trip: planning → transport → hotel → sightseeing → recap.
   - Constraints: 3–4 sentences/turn; reuse ≥8 ⭐ Core words; include at least 2 sentences with 因为…所以… and one sentence with 过.
@@ -1132,11 +1132,11 @@ Then:
 
 2. 乙：我参观了很多景点，也拍了不少照片，还买了纪念品送朋友，所以整体上我觉得很值得。<br>
    *Yǐ: Wǒ cānguān le hěn duō jǐngdiǎn, yě pāi le bù shǎo zhàopiàn, hái mǎi le jìniànpǐn sòng péngyou, suǒyǐ zhěngtǐ shàng wǒ juéde hěn zhíde.*<br>
-   I visited many sights, took quite a lot of photos, and bought souvenirs for friends, so overall I think it was very worth it.
+   I visited many sights, took quite a lot of photos, and bought souvenirs for friends, so overall I think it was well worth it.
 
-3. 乙：如果下次再来，我想提前订更久一点的房间，这样就不用一直赶时间了。<br>
-   *Yǐ: Rúguǒ xiàcì zài lái, wǒ xiǎng tíqián dìng gèng jiǔ yìdiǎn de fángjiān, zhèyàng jiù bú yòng yìzhí gǎn shíjiān le.*<br>
-   If I come again next time, I want to book a room for a little longer in advance so I won’t have to rush the whole time.
+3. 乙：如果下次再来，我想提前把房间多订几天，这样就不用一直赶时间了。<br>
+   *Yǐ: Rúguǒ xiàcì zài lái, wǒ xiǎng tíqián bǎ fángjiān duō dìng jǐ tiān, zhèyàng jiù bú yòng yìzhí gǎn shíjiān le.*<br>
+   If I come again, I want to book a few more nights in advance so I won’t have to rush the whole time.
 
 </details>
 
@@ -1157,9 +1157,9 @@ Without notes, summarize today’s situation in three connected sentences. Use a
    *Yǐ: Suīrán chūfā de shíhou yǒudiǎnr bù shùnlì, dànshì hòumiàn de xíngchéng yuèláiyuè shùn.*<br>
    Although things weren’t very smooth when I first left, the itinerary went more and more smoothly afterward.
 
-3. 乙：如果下次再来，我想提前订更久一点的房间，这样就不用一直赶时间了。<br>
-   *Yǐ: Rúguǒ xiàcì zài lái, wǒ xiǎng tíqián dìng gèng jiǔ yìdiǎn de fángjiān, zhèyàng jiù bú yòng yìzhí gǎn shíjiān le.*<br>
-   If I come again next time, I want to book a room for a little longer in advance so I won’t have to rush the whole time.
+3. 乙：如果下次再来，我想提前把房间多订几天，这样就不用一直赶时间了。<br>
+   *Yǐ: Rúguǒ xiàcì zài lái, wǒ xiǎng tíqián bǎ fángjiān duō dìng jǐ tiān, zhèyàng jiù bú yòng yìzhí gǎn shíjiān le.*<br>
+   If I come again, I want to book a few more nights in advance so I won’t have to rush the whole time.
 
 </details>
 
