@@ -1,6 +1,6 @@
 # Unit 05 — Daily Health: Practice Lessons (Day 1–6)
 
-This unit preserves all 40 targets in `vocab.md` and reorganizes the original readings and schedule around retrieval and production.
+This unit preserves all 40 targets in `vocab.md` and organizes each day around retrieval and production.
 
 ## Daily method (25–35 minutes)
 
@@ -13,7 +13,7 @@ This unit preserves all 40 targets in `vocab.md` and reorganizes the original re
 
 Each numbered section has a collapsed support panel. Do not open it until you have attempted the exercise.
 
-## Day 1 🟢 — 最近身体怎么样？(How is your health recently?)
+## Day 1 🟢 — 最近身体怎么样？ (How have you been feeling lately?)
 
 - **Vocab focus:** #1–#10 (health and symptoms)
 - **Grammar targets:**
@@ -46,7 +46,7 @@ Without reopening `vocab.md`:
 
 3. 甲：是不是工作压力太大？你应该早点休息。<br>
    *Jiǎ: Shì bu shì gōngzuò yālì tài dà? Nǐ yīnggāi zǎodiǎn xiūxi.*<br>
-   Is it because work pressure is too high? You should rest earlier.
+   Is it because work pressure is too high? You should go to bed earlier.
 
 </details>
 
@@ -84,7 +84,7 @@ Without reopening `vocab.md`:
 
 3. 甲：是不是工作压力太大？你应该早点休息。<br>
    *Jiǎ: Shì bu shì gōngzuò yālì tài dà? Nǐ yīnggāi zǎodiǎn xiūxi.*<br>
-   Is it because work pressure is too high? You should rest earlier.
+   Is it because work pressure is too high? You should go to bed earlier.
 
 4. 乙：对，所以我今天打算早点回家，不加班了。<br>
    *Yǐ: Duì, suǒyǐ wǒ jīntiān dǎsuàn zǎodiǎn huí jiā, bú jiābān le.*<br>
@@ -92,11 +92,11 @@ Without reopening `vocab.md`:
 
 5. 甲：那你明天还来公司吗？<br>
    *Jiǎ: Nà nǐ míngtiān hái lái gōngsī ma?*<br>
-   Then are you still coming to the company tomorrow?
+   Will you still come into the office tomorrow?
 
 6. 乙：如果早上身体好一点，我就来；如果还难受，我会请假半天。<br>
    *Yǐ: Rúguǒ zǎoshang shēntǐ hǎo yìdiǎn, wǒ jiù lái; rúguǒ hái nánshòu, wǒ huì qǐngjià bàn tiān.*<br>
-   If I feel a bit better in the morning, I will come; if I still feel bad, I will ask for half a day off.
+   If I feel a bit better in the morning, I will come; if I still feel bad, I will take half a day off.
 
 </details>
 
@@ -133,9 +133,9 @@ Translate before opening the support panel.
 
 1. How has your health been recently? During yesterday's meeting, you looked a bit tired.
 2. I haven't felt very well recently. Sometimes I have a headache, and I also don't sleep very well at night.
-3. Is it because work pressure is too high? You should rest earlier.
+3. Is it because work pressure is too high? You should go to bed earlier.
 4. Right, so today I plan to go home earlier and not work overtime.
-5. Then are you still coming to the company tomorrow?
+5. Will you still come into the office tomorrow?
 
 <details>
 <summary>Show pinyin, English, and model answers</summary>
@@ -152,7 +152,7 @@ Translate before opening the support panel.
 
 3. 甲：是不是工作压力太大？你应该早点休息。<br>
    *Jiǎ: Shì bu shì gōngzuò yālì tài dà? Nǐ yīnggāi zǎodiǎn xiūxi.*<br>
-   Is it because work pressure is too high? You should rest earlier.
+   Is it because work pressure is too high? You should go to bed earlier.
 
 4. 乙：对，所以我今天打算早点回家，不加班了。<br>
    *Yǐ: Duì, suǒyǐ wǒ jīntiān dǎsuàn zǎodiǎn huí jiā, bú jiābān le.*<br>
@@ -160,13 +160,13 @@ Translate before opening the support panel.
 
 5. 甲：那你明天还来公司吗？<br>
    *Jiǎ: Nà nǐ míngtiān hái lái gōngsī ma?*<br>
-   Then are you still coming to the company tomorrow?
+   Will you still come into the office tomorrow?
 
 </details>
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 1. Describe how you feel today in 3–4 sentences.
 2. Use ≥4 words: 身体 / 舒服 / 头疼 / 压力
@@ -175,7 +175,7 @@ Complete the original production tasks from the unit plan:
 Then:
 
 1. Retell the dialogue in three or four connected Mandarin sentences.
-2. Roleplay “最近身体怎么样？(How is your health recently?)”; change one detail so the first response no longer works.
+2. Roleplay “最近身体怎么样？ (How have you been feeling lately?)”; change one detail so the first response no longer works.
 3. Ask one natural question back.
 
 <details>
@@ -189,11 +189,11 @@ Then:
 
 2. 甲：那你明天还来公司吗？<br>
    *Jiǎ: Nà nǐ míngtiān hái lái gōngsī ma?*<br>
-   Then are you still coming to the company tomorrow?
+   Will you still come into the office tomorrow?
 
 3. 乙：如果早上身体好一点，我就来；如果还难受，我会请假半天。<br>
    *Yǐ: Rúguǒ zǎoshang shēntǐ hǎo yìdiǎn, wǒ jiù lái; rúguǒ hái nánshòu, wǒ huì qǐngjià bàn tiān.*<br>
-   If I feel a bit better in the morning, I will come; if I still feel bad, I will ask for half a day off.
+   If I feel a bit better in the morning, I will come; if I still feel bad, I will take half a day off.
 
 </details>
 
@@ -216,7 +216,7 @@ Without notes, summarize today’s situation in three connected sentences. Use a
 
 3. 乙：如果早上身体好一点，我就来；如果还难受，我会请假半天。<br>
    *Yǐ: Rúguǒ zǎoshang shēntǐ hǎo yìdiǎn, wǒ jiù lái; rúguǒ hái nánshòu, wǒ huì qǐngjià bàn tiān.*<br>
-   If I feel a bit better in the morning, I will come; if I still feel bad, I will ask for half a day off.
+   If I feel a bit better in the morning, I will come; if I still feel bad, I will take half a day off.
 
 </details>
 
@@ -373,7 +373,7 @@ Translate before opening the support panel.
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 1. Roleplay: tell a friend your symptoms and decide whether to go to the pharmacy or hospital.
 2. Use ≥4 words: 感冒 / 发烧 / 药店 / 休息
@@ -456,7 +456,7 @@ Without reopening `vocab.md`:
 
 2. 乙：以前我经常十二点以后才睡，所以早上起床很难。<br>
    *Yǐ: Yǐqián wǒ jīngcháng shí'èr diǎn yǐhòu cái shuì, suǒyǐ zǎoshang qǐchuáng hěn nán.*<br>
-   Before, I often only slept after twelve, so getting up in the morning was hard.
+   I used to stay up until after midnight, so getting up in the morning was hard.
 
 3. 甲：这个习惯对身体不好。你打算怎么改？<br>
    *Jiǎ: Zhè ge xíguàn duì shēntǐ bù hǎo. Nǐ dǎsuàn zěnme gǎi?*<br>
@@ -494,7 +494,7 @@ Without reopening `vocab.md`:
 
 2. 乙：以前我经常十二点以后才睡，所以早上起床很难。<br>
    *Yǐ: Yǐqián wǒ jīngcháng shí'èr diǎn yǐhòu cái shuì, suǒyǐ zǎoshang qǐchuáng hěn nán.*<br>
-   Before, I often only slept after twelve, so getting up in the morning was hard.
+   I used to stay up until after midnight, so getting up in the morning was hard.
 
 3. 甲：这个习惯对身体不好。你打算怎么改？<br>
    *Jiǎ: Zhè ge xíguàn duì shēntǐ bù hǎo. Nǐ dǎsuàn zěnme gǎi?*<br>
@@ -502,7 +502,7 @@ Without reopening `vocab.md`:
 
 4. 乙：我打算每天十一点前睡觉，也要少看手机。<br>
    *Yǐ: Wǒ dǎsuàn měi tiān shíyī diǎn qián shuìjiào, yě yào shǎo kàn shǒujī.*<br>
-   I plan to sleep before eleven every day and also look at my phone less.
+   I plan to go to bed before eleven every day and spend less time on my phone.
 
 5. 甲：你觉得最难改的习惯是什么？<br>
    *Jiǎ: Nǐ juéde zuì nán gǎi de xíguàn shì shénme?*<br>
@@ -510,7 +510,7 @@ Without reopening `vocab.md`:
 
 6. 乙：最难的是睡前看手机，因为我总觉得还有消息没看。<br>
    *Yǐ: Zuì nán de shì shuì qián kàn shǒujī, yīnwèi wǒ zǒng juéde hái yǒu xiāoxi méi kàn.*<br>
-   The hardest is looking at my phone before sleep, because I always feel there are still messages I have not read.
+   The hardest habit to change is looking at my phone before bed, because I always feel that I still have unread messages.
 
 </details>
 
@@ -529,7 +529,7 @@ Answer in complete Mandarin sentences.
 
 1. 乙：以前我经常十二点以后才睡，所以早上起床很难。<br>
    *Yǐ: Yǐqián wǒ jīngcháng shí'èr diǎn yǐhòu cái shuì, suǒyǐ zǎoshang qǐchuáng hěn nán.*<br>
-   Before, I often only slept after twelve, so getting up in the morning was hard.
+   I used to stay up until after midnight, so getting up in the morning was hard.
 
 2. 甲：这个习惯对身体不好。你打算怎么改？<br>
    *Jiǎ: Zhè ge xíguàn duì shēntǐ bù hǎo. Nǐ dǎsuàn zěnme gǎi?*<br>
@@ -537,7 +537,7 @@ Answer in complete Mandarin sentences.
 
 3. 乙：我打算每天十一点前睡觉，也要少看手机。<br>
    *Yǐ: Wǒ dǎsuàn měi tiān shíyī diǎn qián shuìjiào, yě yào shǎo kàn shǒujī.*<br>
-   I plan to sleep before eleven every day and also look at my phone less.
+   I plan to go to bed before eleven every day and spend less time on my phone.
 
 </details>
 
@@ -546,9 +546,9 @@ Answer in complete Mandarin sentences.
 Translate before opening the support panel.
 
 1. What time did you often go to sleep before?
-2. Before, I often only slept after twelve, so getting up in the morning was hard.
+2. I used to stay up until after midnight, so getting up in the morning was hard.
 3. This habit isn't good for your health. How do you plan to change it?
-4. I plan to sleep before eleven every day and also look at my phone less.
+4. I plan to go to bed before eleven every day and spend less time on my phone.
 5. What habit do you think is hardest to change?
 
 <details>
@@ -562,7 +562,7 @@ Translate before opening the support panel.
 
 2. 乙：以前我经常十二点以后才睡，所以早上起床很难。<br>
    *Yǐ: Yǐqián wǒ jīngcháng shí'èr diǎn yǐhòu cái shuì, suǒyǐ zǎoshang qǐchuáng hěn nán.*<br>
-   Before, I often only slept after twelve, so getting up in the morning was hard.
+   I used to stay up until after midnight, so getting up in the morning was hard.
 
 3. 甲：这个习惯对身体不好。你打算怎么改？<br>
    *Jiǎ: Zhè ge xíguàn duì shēntǐ bù hǎo. Nǐ dǎsuàn zěnme gǎi?*<br>
@@ -570,7 +570,7 @@ Translate before opening the support panel.
 
 4. 乙：我打算每天十一点前睡觉，也要少看手机。<br>
    *Yǐ: Wǒ dǎsuàn měi tiān shíyī diǎn qián shuìjiào, yě yào shǎo kàn shǒujī.*<br>
-   I plan to sleep before eleven every day and also look at my phone less.
+   I plan to go to bed before eleven every day and spend less time on my phone.
 
 5. 甲：你觉得最难改的习惯是什么？<br>
    *Jiǎ: Nǐ juéde zuì nán gǎi de xíguàn shì shénme?*<br>
@@ -580,7 +580,7 @@ Translate before opening the support panel.
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 1. Explain one habit you want to change and why.
 2. Use ≥5 words: 习惯 / 生活 / 注意 / 保持 / 健康
@@ -598,7 +598,7 @@ Then:
 
 1. 乙：我打算每天十一点前睡觉，也要少看手机。<br>
    *Yǐ: Wǒ dǎsuàn měi tiān shíyī diǎn qián shuìjiào, yě yào shǎo kàn shǒujī.*<br>
-   I plan to sleep before eleven every day and also look at my phone less.
+   I plan to go to bed before eleven every day and spend less time on my phone.
 
 2. 甲：你觉得最难改的习惯是什么？<br>
    *Jiǎ: Nǐ juéde zuì nán gǎi de xíguàn shì shénme?*<br>
@@ -606,7 +606,7 @@ Then:
 
 3. 乙：最难的是睡前看手机，因为我总觉得还有消息没看。<br>
    *Yǐ: Zuì nán de shì shuì qián kàn shǒujī, yīnwèi wǒ zǒng juéde hái yǒu xiāoxi méi kàn.*<br>
-   The hardest is looking at my phone before sleep, because I always feel there are still messages I have not read.
+   The hardest habit to change is looking at my phone before bed, because I always feel that I still have unread messages.
 
 </details>
 
@@ -625,11 +625,11 @@ Without notes, summarize today’s situation in three connected sentences. Use a
 
 2. 乙：以前我经常十二点以后才睡，所以早上起床很难。<br>
    *Yǐ: Yǐqián wǒ jīngcháng shí'èr diǎn yǐhòu cái shuì, suǒyǐ zǎoshang qǐchuáng hěn nán.*<br>
-   Before, I often only slept after twelve, so getting up in the morning was hard.
+   I used to stay up until after midnight, so getting up in the morning was hard.
 
 3. 乙：最难的是睡前看手机，因为我总觉得还有消息没看。<br>
    *Yǐ: Zuì nán de shì shuì qián kàn shǒujī, yīnwèi wǒ zǒng juéde hái yǒu xiāoxi méi kàn.*<br>
-   The hardest is looking at my phone before sleep, because I always feel there are still messages I have not read.
+   The hardest habit to change is looking at my phone before bed, because I always feel that I still have unread messages.
 
 </details>
 
@@ -708,7 +708,7 @@ Without reopening `vocab.md`:
 
 4. 甲：那你中午先休息，下午再继续处理工作。<br>
    *Jiǎ: Nà nǐ zhōngwǔ xiān xiūxi, xiàwǔ zài jìxù chǔlǐ gōngzuò.*<br>
-   Then rest at noon first, and continue handling work in the afternoon.
+   Then take a break at noon and continue working in the afternoon.
 
 5. 乙：如果下午还有很多工作，我怕自己休息不了。<br>
    *Yǐ: Rúguǒ xiàwǔ hái yǒu hěn duō gōngzuò, wǒ pà zìjǐ xiūxi bù liǎo.*<br>
@@ -716,7 +716,7 @@ Without reopening `vocab.md`:
 
 6. 甲：那就先安排最重要的任务，别把所有事情都放在今天。<br>
    *Jiǎ: Nà jiù xiān ānpái zuì zhòngyào de rènwu, bié bǎ suǒyǒu shìqing dōu fàng zài jīntiān.*<br>
-   Then arrange the most important tasks first, and do not put everything into today.
+   Then prioritize the most important tasks and do not try to do everything today.
 
 </details>
 
@@ -754,7 +754,7 @@ Translate before opening the support panel.
 1. There have been too many things these two weeks, and I feel a lot of pressure.
 2. Do you have to work continuously? Can you stop for a bit at noon and go out for a walk?
 3. I can. I've found that a quieter environment really can relieve pressure.
-4. Then rest at noon first, and continue handling work in the afternoon.
+4. Then take a break at noon and continue working in the afternoon.
 5. If there is still a lot of work in the afternoon, I am afraid I will not be able to rest.
 
 <details>
@@ -776,7 +776,7 @@ Translate before opening the support panel.
 
 4. 甲：那你中午先休息，下午再继续处理工作。<br>
    *Jiǎ: Nà nǐ zhōngwǔ xiān xiūxi, xiàwǔ zài jìxù chǔlǐ gōngzuò.*<br>
-   Then rest at noon first, and continue handling work in the afternoon.
+   Then take a break at noon and continue working in the afternoon.
 
 5. 乙：如果下午还有很多工作，我怕自己休息不了。<br>
    *Yǐ: Rúguǒ xiàwǔ hái yǒu hěn duō gōngzuò, wǒ pà zìjǐ xiūxi bù liǎo.*<br>
@@ -786,7 +786,7 @@ Translate before opening the support panel.
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 1. Ask for a short break and explain how it will help.
 2. Use ≥4 words: 停 / 必须 / 缓解 / 安静
@@ -804,7 +804,7 @@ Then:
 
 1. 甲：那你中午先休息，下午再继续处理工作。<br>
    *Jiǎ: Nà nǐ zhōngwǔ xiān xiūxi, xiàwǔ zài jìxù chǔlǐ gōngzuò.*<br>
-   Then rest at noon first, and continue handling work in the afternoon.
+   Then take a break at noon and continue working in the afternoon.
 
 2. 乙：如果下午还有很多工作，我怕自己休息不了。<br>
    *Yǐ: Rúguǒ xiàwǔ hái yǒu hěn duō gōngzuò, wǒ pà zìjǐ xiūxi bù liǎo.*<br>
@@ -812,7 +812,7 @@ Then:
 
 3. 甲：那就先安排最重要的任务，别把所有事情都放在今天。<br>
    *Jiǎ: Nà jiù xiān ānpái zuì zhòngyào de rènwu, bié bǎ suǒyǒu shìqing dōu fàng zài jīntiān.*<br>
-   Then arrange the most important tasks first, and do not put everything into today.
+   Then prioritize the most important tasks and do not try to do everything today.
 
 </details>
 
@@ -835,7 +835,7 @@ Without notes, summarize today’s situation in three connected sentences. Use a
 
 3. 甲：那就先安排最重要的任务，别把所有事情都放在今天。<br>
    *Jiǎ: Nà jiù xiān ānpái zuì zhòngyào de rènwu, bié bǎ suǒyǒu shìqing dōu fàng zài jīntiān.*<br>
-   Then arrange the most important tasks first, and do not put everything into today.
+   Then prioritize the most important tasks and do not try to do everything today.
 
 </details>
 
@@ -864,7 +864,7 @@ Without reopening `vocab.md`:
 
 1. 甲：你今天去看医生了吗？检查结果怎么样？<br>
    *Jiǎ: Nǐ jīntiān qù kàn yīshēng le ma? Jiǎnchá jiéguǒ zěnmeyàng?*<br>
-   Did you go see the doctor today? How were the exam results?
+   Did you go see the doctor today? What were the test results?
 
 2. 乙：医生说问题不大，但是我最近必须注意休息和饮食。<br>
    *Yǐ: Yīshēng shuō wèntí bú dà, dànshì wǒ zuìjìn bìxū zhùyì xiūxi hé yǐnshí.*<br>
@@ -902,7 +902,7 @@ Without reopening `vocab.md`:
 
 1. 甲：你今天去看医生了吗？检查结果怎么样？<br>
    *Jiǎ: Nǐ jīntiān qù kàn yīshēng le ma? Jiǎnchá jiéguǒ zěnmeyàng?*<br>
-   Did you go see the doctor today? How were the exam results?
+   Did you go see the doctor today? What were the test results?
 
 2. 乙：医生说问题不大，但是我最近必须注意休息和饮食。<br>
    *Yǐ: Yīshēng shuō wèntí bú dà, dànshì wǒ zuìjìn bìxū zhùyì xiūxi hé yǐnshí.*<br>
@@ -914,7 +914,7 @@ Without reopening `vocab.md`:
 
 4. 乙：药吃三天。如果还难受，就要再做一次检查。<br>
    *Yǐ: Yào chī sān tiān. Rúguǒ hái nánshòu, jiù yào zài zuò yí cì jiǎnchá.*<br>
-   I need to take medicine for three days. If I still feel bad, then I need to do another exam.
+   I need to take medicine for three days. If I still feel bad, then I’ll need another checkup.
 
 5. 甲：你准备告诉老板这件事吗？<br>
    *Jiǎ: Nǐ zhǔnbèi gàosu lǎobǎn zhè jiàn shì ma?*<br>
@@ -949,7 +949,7 @@ Answer in complete Mandarin sentences.
 
 3. 乙：药吃三天。如果还难受，就要再做一次检查。<br>
    *Yǐ: Yào chī sān tiān. Rúguǒ hái nánshòu, jiù yào zài zuò yí cì jiǎnchá.*<br>
-   I need to take medicine for three days. If I still feel bad, then I need to do another exam.
+   I need to take medicine for three days. If I still feel bad, then I’ll need another checkup.
 
 </details>
 
@@ -957,10 +957,10 @@ Answer in complete Mandarin sentences.
 
 Translate before opening the support panel.
 
-1. Did you go see the doctor today? How were the exam results?
+1. Did you go see the doctor today? What were the test results?
 2. The doctor said the problem isn't serious, but recently I must pay attention to rest and diet.
 3. Then how many days do you need to take medicine? Do you need to go to the hospital again?
-4. I need to take medicine for three days. If I still feel bad, then I need to do another exam.
+4. I need to take medicine for three days. If I still feel bad, then I’ll need another checkup.
 5. Are you going to tell your boss about this?
 
 <details>
@@ -970,7 +970,7 @@ Translate before opening the support panel.
 
 1. 甲：你今天去看医生了吗？检查结果怎么样？<br>
    *Jiǎ: Nǐ jīntiān qù kàn yīshēng le ma? Jiǎnchá jiéguǒ zěnmeyàng?*<br>
-   Did you go see the doctor today? How were the exam results?
+   Did you go see the doctor today? What were the test results?
 
 2. 乙：医生说问题不大，但是我最近必须注意休息和饮食。<br>
    *Yǐ: Yīshēng shuō wèntí bú dà, dànshì wǒ zuìjìn bìxū zhùyì xiūxi hé yǐnshí.*<br>
@@ -982,7 +982,7 @@ Translate before opening the support panel.
 
 4. 乙：药吃三天。如果还难受，就要再做一次检查。<br>
    *Yǐ: Yào chī sān tiān. Rúguǒ hái nánshòu, jiù yào zài zuò yí cì jiǎnchá.*<br>
-   I need to take medicine for three days. If I still feel bad, then I need to do another exam.
+   I need to take medicine for three days. If I still feel bad, then I’ll need another checkup.
 
 5. 甲：你准备告诉老板这件事吗？<br>
    *Jiǎ: Nǐ zhǔnbèi gàosu lǎobǎn zhè jiàn shì ma?*<br>
@@ -992,7 +992,7 @@ Translate before opening the support panel.
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 1. Roleplay: after seeing a doctor, explain the result and next steps to a coworker.
 2. Use ≥6 earlier words and one `如果…就…` sentence.
@@ -1010,7 +1010,7 @@ Then:
 
 1. 乙：药吃三天。如果还难受，就要再做一次检查。<br>
    *Yǐ: Yào chī sān tiān. Rúguǒ hái nánshòu, jiù yào zài zuò yí cì jiǎnchá.*<br>
-   I need to take medicine for three days. If I still feel bad, then I need to do another exam.
+   I need to take medicine for three days. If I still feel bad, then I’ll need another checkup.
 
 2. 甲：你准备告诉老板这件事吗？<br>
    *Jiǎ: Nǐ zhǔnbèi gàosu lǎobǎn zhè jiàn shì ma?*<br>
@@ -1033,7 +1033,7 @@ Without notes, summarize today’s situation in three connected sentences. Use a
 
 1. 甲：你今天去看医生了吗？检查结果怎么样？<br>
    *Jiǎ: Nǐ jīntiān qù kàn yīshēng le ma? Jiǎnchá jiéguǒ zěnmeyàng?*<br>
-   Did you go see the doctor today? How were the exam results?
+   Did you go see the doctor today? What were the test results?
 
 2. 乙：医生说问题不大，但是我最近必须注意休息和饮食。<br>
    *Yǐ: Yīshēng shuō wèntí bú dà, dànshì wǒ zuìjìn bìxū zhùyì xiūxi hé yǐnshí.*<br>
@@ -1120,7 +1120,7 @@ Without reopening `vocab.md`:
 
 4. 乙：对，所以我以后要准备简单健康的饭。这样身体会更好，压力也会小一点。<br>
    *Yǐ: Duì, suǒyǐ wǒ yǐhòu yào zhǔnbèi jiǎndān jiànkāng de fàn. Zhèyàng shēntǐ huì gèng hǎo, yālì yě huì xiǎo yìdiǎn.*<br>
-   Right, so in the future I need to prepare simple healthy meals. This way my health will be better, and pressure will also be a bit lower.
+   Right, so in the future I need to prepare simple, healthy meals. This way my health will be better, and pressure will also be a bit lower.
 
 5. 甲：这个计划听起来不错，你觉得能坚持多久？<br>
    *Jiǎ: Zhè ge jìhuà tīng qǐlái búcuò, nǐ juéde néng jiānchí duō jiǔ?*<br>
@@ -1128,7 +1128,7 @@ Without reopening `vocab.md`:
 
 6. 乙：我先坚持一个星期。如果效果好，再继续一个月。<br>
    *Yǐ: Wǒ xiān jiānchí yí ge xīngqī. Rúguǒ xiàoguǒ hǎo, zài jìxù yí ge yuè.*<br>
-   I will first keep it up for one week. If the effect is good, I will continue for one month.
+   I will first keep it up for one week. If the results are good, I will continue for a month.
 
 </details>
 
@@ -1155,7 +1155,7 @@ Answer in complete Mandarin sentences.
 
 3. 乙：对，所以我以后要准备简单健康的饭。这样身体会更好，压力也会小一点。<br>
    *Yǐ: Duì, suǒyǐ wǒ yǐhòu yào zhǔnbèi jiǎndān jiànkāng de fàn. Zhèyàng shēntǐ huì gèng hǎo, yālì yě huì xiǎo yìdiǎn.*<br>
-   Right, so in the future I need to prepare simple healthy meals. This way my health will be better, and pressure will also be a bit lower.
+   Right, so in the future I need to prepare simple, healthy meals. This way my health will be better, and pressure will also be a bit lower.
 
 </details>
 
@@ -1166,7 +1166,7 @@ Translate before opening the support panel.
 1. How do you want to arrange next week's health plan?
 2. First, I want to sleep earlier every day. Second, I want to walk for twenty minutes after work every day.
 3. What about diet? Didn't you often just eat casually before?
-4. Right, so in the future I need to prepare simple healthy meals. This way my health will be better, and pressure will also be a bit lower.
+4. Right, so in the future I need to prepare simple, healthy meals. This way my health will be better, and pressure will also be a bit lower.
 5. This plan sounds good. How long do you think you can keep it up?
 
 <details>
@@ -1188,7 +1188,7 @@ Translate before opening the support panel.
 
 4. 乙：对，所以我以后要准备简单健康的饭。这样身体会更好，压力也会小一点。<br>
    *Yǐ: Duì, suǒyǐ wǒ yǐhòu yào zhǔnbèi jiǎndān jiànkāng de fàn. Zhèyàng shēntǐ huì gèng hǎo, yālì yě huì xiǎo yìdiǎn.*<br>
-   Right, so in the future I need to prepare simple healthy meals. This way my health will be better, and pressure will also be a bit lower.
+   Right, so in the future I need to prepare simple, healthy meals. This way my health will be better, and pressure will also be a bit lower.
 
 5. 甲：这个计划听起来不错，你觉得能坚持多久？<br>
    *Jiǎ: Zhè ge jìhuà tīng qǐlái búcuò, nǐ juéde néng jiānchí duō jiǔ?*<br>
@@ -1198,7 +1198,7 @@ Translate before opening the support panel.
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 - You and GPT: tired at work → symptoms → pharmacy/doctor → habit change → weekly health plan.
   - Constraints: 3–4 sentences/turn; reuse ≥8 ⭐ Core words; include one concrete next step.
@@ -1216,7 +1216,7 @@ Then:
 
 1. 乙：对，所以我以后要准备简单健康的饭。这样身体会更好，压力也会小一点。<br>
    *Yǐ: Duì, suǒyǐ wǒ yǐhòu yào zhǔnbèi jiǎndān jiànkāng de fàn. Zhèyàng shēntǐ huì gèng hǎo, yālì yě huì xiǎo yìdiǎn.*<br>
-   Right, so in the future I need to prepare simple healthy meals. This way my health will be better, and pressure will also be a bit lower.
+   Right, so in the future I need to prepare simple, healthy meals. This way my health will be better, and pressure will also be a bit lower.
 
 2. 甲：这个计划听起来不错，你觉得能坚持多久？<br>
    *Jiǎ: Zhè ge jìhuà tīng qǐlái búcuò, nǐ juéde néng jiānchí duō jiǔ?*<br>
@@ -1224,7 +1224,7 @@ Then:
 
 3. 乙：我先坚持一个星期。如果效果好，再继续一个月。<br>
    *Yǐ: Wǒ xiān jiānchí yí ge xīngqī. Rúguǒ xiàoguǒ hǎo, zài jìxù yí ge yuè.*<br>
-   I will first keep it up for one week. If the effect is good, I will continue for one month.
+   I will first keep it up for one week. If the results are good, I will continue for a month.
 
 </details>
 
@@ -1247,7 +1247,7 @@ Without notes, summarize today’s situation in three connected sentences. Use a
 
 3. 乙：我先坚持一个星期。如果效果好，再继续一个月。<br>
    *Yǐ: Wǒ xiān jiānchí yí ge xīngqī. Rúguǒ xiàoguǒ hǎo, zài jìxù yí ge yuè.*<br>
-   I will first keep it up for one week. If the effect is good, I will continue for one month.
+   I will first keep it up for one week. If the results are good, I will continue for a month.
 
 </details>
 

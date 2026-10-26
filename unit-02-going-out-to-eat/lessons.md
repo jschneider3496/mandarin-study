@@ -1,6 +1,6 @@
 # Unit 02 — Going Out to Eat: Practice Lessons (Day 1–6)
 
-This unit preserves all 40 targets in `vocab.md` and reorganizes the original readings and schedule around retrieval and production.
+This unit preserves all 40 targets in `vocab.md` and organizes each day around retrieval and production.
 
 ## Daily method (25–35 minutes)
 
@@ -151,7 +151,7 @@ Translate before opening the support panel.
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 1. “We are two people,” plus where you want to sit.
 2. Ask for the menu politely and explain what you want to do first.
@@ -279,7 +279,7 @@ Without reopening `vocab.md`:
 
 4. 乙：那我们先来一份不辣的牛肉面，另外再点一份青菜和两杯热茶。<br>
    *Yǐ: Nà wǒmen xiān lái yí fèn bú là de niúròu miàn, lìngwài zài diǎn yí fèn qīngcài hé liǎng bēi rè chá.*<br>
-   Then we’ll first have one non-spicy beef noodles, and additionally order one vegetable dish and two cups of hot tea.
+   Then we’ll first have one order of non-spicy beef noodles, and additionally order one vegetable dish and two cups of hot tea.
 
 </details>
 
@@ -298,7 +298,7 @@ Answer in complete Mandarin sentences.
 
 1. 乙：那我们先来一份不辣的牛肉面，另外再点一份青菜和两杯热茶。<br>
    *Yǐ: Nà wǒmen xiān lái yí fèn bú là de niúròu miàn, lìngwài zài diǎn yí fèn qīngcài hé liǎng bēi rè chá.*<br>
-   Then we’ll first have one non-spicy beef noodles, and additionally order one vegetable dish and two cups of hot tea.
+   Then we’ll first have one order of non-spicy beef noodles, and additionally order one vegetable dish and two cups of hot tea.
 
 2. 服务员：可以做成微辣，或者完全不辣。分量也比较大，两个人可以一起吃。<br>
    *Fúwùyuán: Kěyǐ zuò chéng wēilà, huòzhě wánquán bú là. Fènliàng yě bǐjiào dà, liǎng ge rén kěyǐ yìqǐ chī.*<br>
@@ -317,7 +317,7 @@ Translate before opening the support panel.
 1. If this is your first time here, I recommend the signature beef noodles. Many customers order it.
 2. That sounds good, but our taste is relatively light. Will it be too spicy?
 3. It can be made mildly spicy or not spicy at all. The portion is also fairly large, and two people can share it.
-4. Then we’ll first have one non-spicy beef noodles, and additionally order one vegetable dish and two cups of hot tea.
+4. Then we’ll first have one order of non-spicy beef noodles, and additionally order one vegetable dish and two cups of hot tea.
 
 <details>
 <summary>Show pinyin, English, and model answers</summary>
@@ -338,13 +338,13 @@ Translate before opening the support panel.
 
 4. 乙：那我们先来一份不辣的牛肉面，另外再点一份青菜和两杯热茶。<br>
    *Yǐ: Nà wǒmen xiān lái yí fèn bú là de niúròu miàn, lìngwài zài diǎn yí fèn qīngcài hé liǎng bēi rè chá.*<br>
-   Then we’ll first have one non-spicy beef noodles, and additionally order one vegetable dish and two cups of hot tea.
+   Then we’ll first have one order of non-spicy beef noodles, and additionally order one vegetable dish and two cups of hot tea.
 
 </details>
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 1. Translate: “I want noodles. I also want rice.”
 2. Say what you don’t want (spicy/sweet) in 3 sentences, including one drink choice.
@@ -371,7 +371,7 @@ Then:
 
 3. 乙：那我们先来一份不辣的牛肉面，另外再点一份青菜和两杯热茶。<br>
    *Yǐ: Nà wǒmen xiān lái yí fèn bú là de niúròu miàn, lìngwài zài diǎn yí fèn qīngcài hé liǎng bēi rè chá.*<br>
-   Then we’ll first have one non-spicy beef noodles, and additionally order one vegetable dish and two cups of hot tea.
+   Then we’ll first have one order of non-spicy beef noodles, and additionally order one vegetable dish and two cups of hot tea.
 
 </details>
 
@@ -394,7 +394,7 @@ Without notes, summarize today’s situation in three connected sentences. Use a
 
 3. 乙：那我们先来一份不辣的牛肉面，另外再点一份青菜和两杯热茶。<br>
    *Yǐ: Nà wǒmen xiān lái yí fèn bú là de niúròu miàn, lìngwài zài diǎn yí fèn qīngcài hé liǎng bēi rè chá.*<br>
-   Then we’ll first have one non-spicy beef noodles, and additionally order one vegetable dish and two cups of hot tea.
+   Then we’ll first have one order of non-spicy beef noodles, and additionally order one vegetable dish and two cups of hot tea.
 
 </details>
 
@@ -403,8 +403,8 @@ Without notes, summarize today’s situation in three connected sentences. Use a
 - **Vocab focus:** #29–#40 (more/again, pay, recommend, allergy, hot/cold)
 - **Review:** summarize Day 1 in 2 sentences.
 - **Grammar targets:**
-  - `可以…吗？` permission/request
-  - `多少 + 钱` asking price
+  - allergy: `我对…过敏`
+  - replacement request: `我想换一道…`
 
 - **Required output:** complete the translation, original production, and roleplay tasks below.
 - **Finish when:** you can complete the exit ticket without notes and respond to one changed detail.
@@ -428,11 +428,11 @@ Without reopening `vocab.md`:
 
 2. 服务员：对，这道菜上面会放一点儿花生。请问你是对花生过敏吗？<br>
    *Fúwùyuán: Duì, zhè dào cài shàngmiàn huì fàng yìdiǎnr huāshēng. Qǐngwèn nǐ shì duì huāshēng guòmǐn ma?*<br>
-   Yes, this dish normally has a little peanut on top. May I ask whether you’re allergic to peanuts?
+   Yes, this dish normally has a few peanuts on top. May I ask whether you’re allergic to peanuts?
 
 3. 乙：对，所以我想换一道没有花生、也不要太咸的菜。<br>
    *Yǐ: Duì, suǒyǐ wǒ xiǎng huàn yí dào méiyǒu huāshēng, yě bú yào tài xián de cài.*<br>
-   Yes, so I’d like to switch to a dish without peanuts and also not too salty.
+   Yes, so I’d like to switch to a dish with no peanuts that also isn't too salty.
 
 </details>
 
@@ -464,11 +464,11 @@ Without reopening `vocab.md`:
 
 2. 服务员：对，这道菜上面会放一点儿花生。请问你是对花生过敏吗？<br>
    *Fúwùyuán: Duì, zhè dào cài shàngmiàn huì fàng yìdiǎnr huāshēng. Qǐngwèn nǐ shì duì huāshēng guòmǐn ma?*<br>
-   Yes, this dish normally has a little peanut on top. May I ask whether you’re allergic to peanuts?
+   Yes, this dish normally has a few peanuts on top. May I ask whether you’re allergic to peanuts?
 
 3. 乙：对，所以我想换一道没有花生、也不要太咸的菜。<br>
    *Yǐ: Duì, suǒyǐ wǒ xiǎng huàn yí dào méiyǒu huāshēng, yě bú yào tài xián de cài.*<br>
-   Yes, so I’d like to switch to a dish without peanuts and also not too salty.
+   Yes, so I’d like to switch to a dish with no peanuts that also isn't too salty.
 
 4. 服务员：明白了。那我推荐清炒青菜，比较清淡，也没有你担心的材料。<br>
    *Fúwùyuán: Míngbai le. Nà wǒ tuījiàn qīngchǎo qīngcài, bǐjiào qīngdàn, yě méiyǒu nǐ dānxīn de cáiliào.*<br>
@@ -491,11 +491,11 @@ Answer in complete Mandarin sentences.
 
 1. 乙：对，所以我想换一道没有花生、也不要太咸的菜。<br>
    *Yǐ: Duì, suǒyǐ wǒ xiǎng huàn yí dào méiyǒu huāshēng, yě bú yào tài xián de cài.*<br>
-   Yes, so I’d like to switch to a dish without peanuts and also not too salty.
+   Yes, so I’d like to switch to a dish with no peanuts that also isn't too salty.
 
 2. 乙：对，所以我想换一道没有花生、也不要太咸的菜。<br>
    *Yǐ: Duì, suǒyǐ wǒ xiǎng huàn yí dào méiyǒu huāshēng, yě bú yào tài xián de cài.*<br>
-   Yes, so I’d like to switch to a dish without peanuts and also not too salty.
+   Yes, so I’d like to switch to a dish with no peanuts that also isn't too salty.
 
 3. 服务员：明白了。那我推荐清炒青菜，比较清淡，也没有你担心的材料。<br>
    *Fúwùyuán: Míngbai le. Nà wǒ tuījiàn qīngchǎo qīngcài, bǐjiào qīngdàn, yě méiyǒu nǐ dānxīn de cáiliào.*<br>
@@ -508,8 +508,8 @@ Answer in complete Mandarin sentences.
 Translate before opening the support panel.
 
 1. Sorry, I looked at the menu again and noticed this cold dish may have peanuts in it.
-2. Yes, this dish normally has a little peanut on top. May I ask whether you’re allergic to peanuts?
-3. Yes, so I’d like to switch to a dish without peanuts and also not too salty.
+2. Yes, this dish normally has a few peanuts on top. May I ask whether you’re allergic to peanuts?
+3. Yes, so I’d like to switch to a dish with no peanuts that also isn't too salty.
 4. Understood. Then I recommend stir-fried greens. It’s lighter and doesn’t have the ingredient you’re worried about.
 
 <details>
@@ -523,11 +523,11 @@ Translate before opening the support panel.
 
 2. 服务员：对，这道菜上面会放一点儿花生。请问你是对花生过敏吗？<br>
    *Fúwùyuán: Duì, zhè dào cài shàngmiàn huì fàng yìdiǎnr huāshēng. Qǐngwèn nǐ shì duì huāshēng guòmǐn ma?*<br>
-   Yes, this dish normally has a little peanut on top. May I ask whether you’re allergic to peanuts?
+   Yes, this dish normally has a few peanuts on top. May I ask whether you’re allergic to peanuts?
 
 3. 乙：对，所以我想换一道没有花生、也不要太咸的菜。<br>
    *Yǐ: Duì, suǒyǐ wǒ xiǎng huàn yí dào méiyǒu huāshēng, yě bú yào tài xián de cài.*<br>
-   Yes, so I’d like to switch to a dish without peanuts and also not too salty.
+   Yes, so I’d like to switch to a dish with no peanuts that also isn't too salty.
 
 4. 服务员：明白了。那我推荐清炒青菜，比较清淡，也没有你担心的材料。<br>
    *Fúwùyuán: Míngbai le. Nà wǒ tuījiàn qīngchǎo qīngcài, bǐjiào qīngdàn, yě méiyǒu nǐ dānxīn de cáiliào.*<br>
@@ -537,11 +537,11 @@ Translate before opening the support panel.
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
-1. Ask for a recommendation and respond with a preference.
-2. Ask price + say whether it is cheap or a little expensive, and why.
-3. Use ≥4 words: 推荐 / 多少 / 钱 / 贵 / 便宜
+1. Say what you are allergic to and ask whether a dish contains that ingredient.
+2. Ask to replace the dish and give one additional taste preference.
+3. Use ≥4 words: 过敏 / 花生 / 换 / 没有
 
 Then:
 
@@ -556,11 +556,11 @@ Then:
 
 1. 服务员：对，这道菜上面会放一点儿花生。请问你是对花生过敏吗？<br>
    *Fúwùyuán: Duì, zhè dào cài shàngmiàn huì fàng yìdiǎnr huāshēng. Qǐngwèn nǐ shì duì huāshēng guòmǐn ma?*<br>
-   Yes, this dish normally has a little peanut on top. May I ask whether you’re allergic to peanuts?
+   Yes, this dish normally has a few peanuts on top. May I ask whether you’re allergic to peanuts?
 
 2. 乙：对，所以我想换一道没有花生、也不要太咸的菜。<br>
    *Yǐ: Duì, suǒyǐ wǒ xiǎng huàn yí dào méiyǒu huāshēng, yě bú yào tài xián de cài.*<br>
-   Yes, so I’d like to switch to a dish without peanuts and also not too salty.
+   Yes, so I’d like to switch to a dish with no peanuts that also isn't too salty.
 
 3. 服务员：明白了。那我推荐清炒青菜，比较清淡，也没有你担心的材料。<br>
    *Fúwùyuán: Míngbai le. Nà wǒ tuījiàn qīngchǎo qīngcài, bǐjiào qīngdàn, yě méiyǒu nǐ dānxīn de cáiliào.*<br>
@@ -583,7 +583,7 @@ Without notes, summarize today’s situation in three connected sentences. Use a
 
 2. 服务员：对，这道菜上面会放一点儿花生。请问你是对花生过敏吗？<br>
    *Fúwùyuán: Duì, zhè dào cài shàngmiàn huì fàng yìdiǎnr huāshēng. Qǐngwèn nǐ shì duì huāshēng guòmǐn ma?*<br>
-   Yes, this dish normally has a little peanut on top. May I ask whether you’re allergic to peanuts?
+   Yes, this dish normally has a few peanuts on top. May I ask whether you’re allergic to peanuts?
 
 3. 服务员：明白了。那我推荐清炒青菜，比较清淡，也没有你担心的材料。<br>
    *Fúwùyuán: Míngbai le. Nà wǒ tuījiàn qīngchǎo qīngcài, bǐjiào qīngdàn, yě méiyǒu nǐ dānxīn de cáiliào.*<br>
@@ -595,8 +595,8 @@ Without notes, summarize today’s situation in three connected sentences. Use a
 
 - **Focus:** pick 10 weak words across #1–#40.
 - **Grammar targets:**
-  - Allergy pattern: `我对…过敏`
-  - Existence: `有…吗？ / 没有`
+  - delayed item: `已经…了，可是…还没…`
+  - polite addition: `请再加…`
 
 - **Required output:** complete the translation, original production, and roleplay tasks below.
 - **Finish when:** you can complete the exit ticket without notes and respond to one changed detail.
@@ -729,11 +729,11 @@ Translate before opening the support panel.
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
-1. Say you’re allergic to something (real or roleplay).
-2. Ask the server if a dish has that ingredient and ask for another option.
-3. Use ≥4 words: 过敏 / 可以 / 菜 / 没有
+1. Politely ask about a dish that has not arrived yet.
+2. Respond to the delay and request one additional side dish.
+3. Use ≥4 words: 等 / 服务员 / 再 / 菜
 
 Then:
 
@@ -787,8 +787,8 @@ Without notes, summarize today’s situation in three connected sentences. Use a
 
 - **Review:** rapid-fire 8 prompts (EN → ZH): menu, order, price, hot/cold, more water, etc.
 - **Grammar targets:**
-  - Paying: `结账 / 买单`
-  - Payment method: `刷卡 / 现金`
+  - packing leftovers: `把…打包`
+  - making a suggestion: `要不要…？`
 
 - **Required output:** complete the translation, original production, and roleplay tasks below.
 - **Finish when:** you can complete the exit ticket without notes and respond to one changed detail.
@@ -921,10 +921,10 @@ Translate before opening the support panel.
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
-1. Roleplay: ask to pay, ask total, ask “can I pay by card?”, and confirm the bill.
-2. Use ≥6 earlier words (Day 1–3).
+1. Explain that you are full and ask to pack the remaining food.
+2. Ask for two items to be packed separately and explain why.
 
 Then:
 
@@ -974,12 +974,12 @@ Without notes, summarize today’s situation in three connected sentences. Use a
 
 </details>
 
-## Day 6 🔴 — 结账和开发票 (Paying and asking for a receipt)
+## Day 6 🔴 — 结账和开发票 (Paying and asking for an invoice)
 
 - **Review:** summarize what you ordered + what you paid in 5 sentences.
 - **Grammar targets:**
-  - More/again: `再来…`
-  - Contrast: `但是…`
+  - total price: `一共…块`
+  - payment method: `可以刷卡吗？`
 
 - **Required output:** complete the translation, original production, and roleplay tasks below.
 - **Finish when:** you can complete the exit ticket without notes and respond to one changed detail.
@@ -1007,7 +1007,7 @@ Without reopening `vocab.md`:
 
 3. 乙：可以刷卡吗？如果可以的话，我还想要一张发票。<br>
    *Yǐ: Kěyǐ shuākǎ ma? Rúguǒ kěyǐ dehuà, wǒ hái xiǎng yào yì zhāng fāpiào.*<br>
-   Can I pay by card? If so, I’d also like a receipt.
+   Can I pay by card? If so, I’d also like an invoice.
 
 </details>
 
@@ -1024,7 +1024,7 @@ Without reopening `vocab.md`:
 |---|---|---|
 | 两样 | liǎng yàng | two kinds |
 | 打包盒 | dǎbāohé | takeout box |
-| 一张发票 | yì zhāng fāpiào | a receipt |
+| 一张发票 | yì zhāng fāpiào | an invoice |
 | 稍等 | shāoděng | wait a moment |
 | 一起给 | yìqǐ gěi | give together |
 
@@ -1043,11 +1043,11 @@ Without reopening `vocab.md`:
 
 3. 乙：可以刷卡吗？如果可以的话，我还想要一张发票。<br>
    *Yǐ: Kěyǐ shuākǎ ma? Rúguǒ kěyǐ dehuà, wǒ hái xiǎng yào yì zhāng fāpiào.*<br>
-   Can I pay by card? If so, I’d also like a receipt.
+   Can I pay by card? If so, I’d also like an invoice.
 
 4. 服务员：当然可以。请稍等一下，发票和打包好的菜会一起给你们。<br>
    *Fúwùyuán: Dāngrán kěyǐ. Qǐng shāo děng yíxià, fāpiào hé dǎbāo hǎo de cài huì yìqǐ gěi nǐmen.*<br>
-   Of course. Please wait a moment. I’ll bring the receipt and the packed dishes together.
+   Of course. Please wait a moment. I’ll bring the invoice and the packed dishes together.
 
 </details>
 
@@ -1074,7 +1074,7 @@ Answer in complete Mandarin sentences.
 
 3. 服务员：当然可以。请稍等一下，发票和打包好的菜会一起给你们。<br>
    *Fúwùyuán: Dāngrán kěyǐ. Qǐng shāo děng yíxià, fāpiào hé dǎbāo hǎo de cài huì yìqǐ gěi nǐmen.*<br>
-   Of course. Please wait a moment. I’ll bring the receipt and the packed dishes together.
+   Of course. Please wait a moment. I’ll bring the invoice and the packed dishes together.
 
 </details>
 
@@ -1084,8 +1084,8 @@ Translate before opening the support panel.
 
 1. Server, could we get the bill? We’d also like to pack up the two remaining dishes.
 2. Sure. The total is 128 yuan. I’ll get the takeout boxes ready right away.
-3. Can I pay by card? If so, I’d also like a receipt.
-4. Of course. Please wait a moment. I’ll bring the receipt and the packed dishes together.
+3. Can I pay by card? If so, I’d also like an invoice.
+4. Of course. Please wait a moment. I’ll bring the invoice and the packed dishes together.
 
 <details>
 <summary>Show pinyin, English, and model answers</summary>
@@ -1102,17 +1102,17 @@ Translate before opening the support panel.
 
 3. 乙：可以刷卡吗？如果可以的话，我还想要一张发票。<br>
    *Yǐ: Kěyǐ shuākǎ ma? Rúguǒ kěyǐ dehuà, wǒ hái xiǎng yào yì zhāng fāpiào.*<br>
-   Can I pay by card? If so, I’d also like a receipt.
+   Can I pay by card? If so, I’d also like an invoice.
 
 4. 服务员：当然可以。请稍等一下，发票和打包好的菜会一起给你们。<br>
    *Fúwùyuán: Dāngrán kěyǐ. Qǐng shāo děng yíxià, fāpiào hé dǎbāo hǎo de cài huì yìqǐ gěi nǐmen.*<br>
-   Of course. Please wait a moment. I’ll bring the receipt and the packed dishes together.
+   Of course. Please wait a moment. I’ll bring the invoice and the packed dishes together.
 
 </details>
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 - You and GPT eat out: seat → order → preferences → allergy check → ask for more → pay.
   - Constraints: each turn 3–4 sentences; reuse ≥8 ⭐ Core words; include one problem and one polite solution.
@@ -1120,7 +1120,7 @@ Complete the original production tasks from the unit plan:
 Then:
 
 1. Retell the dialogue in three or four connected Mandarin sentences.
-2. Roleplay “结账和开发票 (Paying and asking for a receipt)”; change one detail so the first response no longer works.
+2. Roleplay “结账和开发票 (Paying and asking for an invoice)”; change one detail so the first response no longer works.
 3. Ask one natural question back.
 
 <details>
@@ -1134,11 +1134,11 @@ Then:
 
 2. 乙：可以刷卡吗？如果可以的话，我还想要一张发票。<br>
    *Yǐ: Kěyǐ shuākǎ ma? Rúguǒ kěyǐ dehuà, wǒ hái xiǎng yào yì zhāng fāpiào.*<br>
-   Can I pay by card? If so, I’d also like a receipt.
+   Can I pay by card? If so, I’d also like an invoice.
 
 3. 服务员：当然可以。请稍等一下，发票和打包好的菜会一起给你们。<br>
    *Fúwùyuán: Dāngrán kěyǐ. Qǐng shāo děng yíxià, fāpiào hé dǎbāo hǎo de cài huì yìqǐ gěi nǐmen.*<br>
-   Of course. Please wait a moment. I’ll bring the receipt and the packed dishes together.
+   Of course. Please wait a moment. I’ll bring the invoice and the packed dishes together.
 
 </details>
 
@@ -1161,7 +1161,7 @@ Without notes, summarize today’s situation in three connected sentences. Use a
 
 3. 服务员：当然可以。请稍等一下，发票和打包好的菜会一起给你们。<br>
    *Fúwùyuán: Dāngrán kěyǐ. Qǐng shāo děng yíxià, fāpiào hé dǎbāo hǎo de cài huì yìqǐ gěi nǐmen.*<br>
-   Of course. Please wait a moment. I’ll bring the receipt and the packed dishes together.
+   Of course. Please wait a moment. I’ll bring the invoice and the packed dishes together.
 
 </details>
 

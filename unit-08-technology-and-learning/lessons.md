@@ -1,6 +1,6 @@
 # Unit 08 — Technology and Learning: Practice Lessons (Day 1–6)
 
-This unit preserves all 40 targets in `vocab.md` and reorganizes the original readings and schedule around retrieval and production.
+This unit preserves all 40 targets in `vocab.md` and organizes each day around retrieval and production.
 
 ## Daily method (25–35 minutes)
 
@@ -42,7 +42,7 @@ Without reopening `vocab.md`:
 
 2. 乙：我在用一个新的学习应用。它可以帮我复习生词，也可以做听力练习。<br>
    *Yǐ: Wǒ zài yòng yí ge xīn de xuéxí yìngyòng. Tā kěyǐ bāng wǒ fùxí shēngcí, yě kěyǐ zuò tīnglì liànxí.*<br>
-   I'm using a new learning app. It can help me review new words and also do listening practice.
+   I'm using a new learning app. It can help me review new words and also let me do listening exercises.
 
 3. 甲：听起来很方便。你觉得有用吗？<br>
    *Jiǎ: Tīng qǐlái hěn fāngbiàn. Nǐ juéde yǒuyòng ma?*<br>
@@ -80,7 +80,7 @@ Without reopening `vocab.md`:
 
 2. 乙：我在用一个新的学习应用。它可以帮我复习生词，也可以做听力练习。<br>
    *Yǐ: Wǒ zài yòng yí ge xīn de xuéxí yìngyòng. Tā kěyǐ bāng wǒ fùxí shēngcí, yě kěyǐ zuò tīnglì liànxí.*<br>
-   I'm using a new learning app. It can help me review new words and also do listening practice.
+   I'm using a new learning app. It can help me review new words and also let me do listening exercises.
 
 3. 甲：听起来很方便。你觉得有用吗？<br>
    *Jiǎ: Tīng qǐlái hěn fāngbiàn. Nǐ juéde yǒuyòng ma?*<br>
@@ -96,7 +96,7 @@ Without reopening `vocab.md`:
 
 6. 乙：十到十五分钟。时间不长，但是坚持下来很有帮助。<br>
    *Yǐ: Shí dào shíwǔ fēnzhōng. Shíjiān bù cháng, dànshì jiānchí xiàlái hěn yǒu bāngzhù.*<br>
-   Ten to fifteen minutes. The time is not long, but keeping it up is very helpful.
+   Ten to fifteen minutes. It doesn't take long, but keeping it up is very helpful.
 
 </details>
 
@@ -119,7 +119,7 @@ Answer in complete Mandarin sentences.
 
 2. 乙：我在用一个新的学习应用。它可以帮我复习生词，也可以做听力练习。<br>
    *Yǐ: Wǒ zài yòng yí ge xīn de xuéxí yìngyòng. Tā kěyǐ bāng wǒ fùxí shēngcí, yě kěyǐ zuò tīnglì liànxí.*<br>
-   I'm using a new learning app. It can help me review new words and also do listening practice.
+   I'm using a new learning app. It can help me review new words and also let me do listening exercises.
 
 3. 乙：有用，但是我不想太依赖软件，所以也会自己造句。<br>
    *Yǐ: Yǒuyòng, dànshì wǒ bù xiǎng tài yīlài ruǎnjiàn, suǒyǐ yě huì zìjǐ zào jù.*<br>
@@ -132,7 +132,7 @@ Answer in complete Mandarin sentences.
 Translate before opening the support panel.
 
 1. What software have you been using recently to study Chinese?
-2. I'm using a new learning app. It can help me review new words and also do listening practice.
+2. I'm using a new learning app. It can help me review new words and also let me do listening exercises.
 3. That sounds convenient. Do you think it's useful?
 4. It's useful, but I don't want to rely too much on software, so I also make sentences myself.
 5. About how long do you use this app every day?
@@ -148,7 +148,7 @@ Translate before opening the support panel.
 
 2. 乙：我在用一个新的学习应用。它可以帮我复习生词，也可以做听力练习。<br>
    *Yǐ: Wǒ zài yòng yí ge xīn de xuéxí yìngyòng. Tā kěyǐ bāng wǒ fùxí shēngcí, yě kěyǐ zuò tīnglì liànxí.*<br>
-   I'm using a new learning app. It can help me review new words and also do listening practice.
+   I'm using a new learning app. It can help me review new words and also let me do listening exercises.
 
 3. 甲：听起来很方便。你觉得有用吗？<br>
    *Jiǎ: Tīng qǐlái hěn fāngbiàn. Nǐ juéde yǒuyòng ma?*<br>
@@ -166,7 +166,7 @@ Translate before opening the support panel.
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 1. Describe one app or website you use for Chinese.
 2. Use ≥4 words: 软件 / 应用 / 复习 / 有用
@@ -192,7 +192,7 @@ Then:
 
 3. 乙：十到十五分钟。时间不长，但是坚持下来很有帮助。<br>
    *Yǐ: Shí dào shíwǔ fēnzhōng. Shíjiān bù cháng, dànshì jiānchí xiàlái hěn yǒu bāngzhù.*<br>
-   Ten to fifteen minutes. The time is not long, but keeping it up is very helpful.
+   Ten to fifteen minutes. It doesn't take long, but keeping it up is very helpful.
 
 </details>
 
@@ -211,11 +211,11 @@ Without notes, summarize today’s situation in three connected sentences. Use a
 
 2. 乙：我在用一个新的学习应用。它可以帮我复习生词，也可以做听力练习。<br>
    *Yǐ: Wǒ zài yòng yí ge xīn de xuéxí yìngyòng. Tā kěyǐ bāng wǒ fùxí shēngcí, yě kěyǐ zuò tīnglì liànxí.*<br>
-   I'm using a new learning app. It can help me review new words and also do listening practice.
+   I'm using a new learning app. It can help me review new words and also let me do listening exercises.
 
 3. 乙：十到十五分钟。时间不长，但是坚持下来很有帮助。<br>
    *Yǐ: Shí dào shíwǔ fēnzhōng. Shíjiān bù cháng, dànshì jiānchí xiàlái hěn yǒu bāngzhù.*<br>
-   Ten to fifteen minutes. The time is not long, but keeping it up is very helpful.
+   Ten to fifteen minutes. It doesn't take long, but keeping it up is very helpful.
 
 </details>
 
@@ -250,9 +250,9 @@ Without reopening `vocab.md`:
    *Jiǎ: Nǐ shì bu shì wàngjì mìmǎ le? Kěyǐ chóngxīn shèzhì yíxià.*<br>
    Did you forget the password? You can reset it.
 
-3. 乙：我试过了，但是网站一直收不到通知。<br>
-   *Yǐ: Wǒ shì guò le, dànshì wǎngzhàn yìzhí shōu bú dào tōngzhī.*<br>
-   I tried, but the website still cannot receive the notification.
+3. 乙：我试过了，但是我一直收不到网站的通知。<br>
+   *Yǐ: Wǒ shì guò le, dànshì wǒ yìzhí shōu bú dào wǎngzhàn de tōngzhī.*<br>
+   I tried, but I still haven't received a notification from the website.
 
 </details>
 
@@ -260,7 +260,7 @@ Without reopening `vocab.md`:
 
 - 乙：我的账号登录不了，好像是密码错了。
 - 甲：你是不是忘记密码了？可以重新设置一下。
-- 乙：我试过了，但是网站一直收不到通知。
+- 乙：我试过了，但是我一直收不到网站的通知。
 - 甲：可能是网络出问题。你先换手机试试，再用电脑登录。
 - 乙：如果电脑也登录不了，我该怎么办？
 - 甲：那就给客服发消息，说明你的账号和问题。
@@ -288,13 +288,13 @@ Without reopening `vocab.md`:
    *Jiǎ: Nǐ shì bu shì wàngjì mìmǎ le? Kěyǐ chóngxīn shèzhì yíxià.*<br>
    Did you forget the password? You can reset it.
 
-3. 乙：我试过了，但是网站一直收不到通知。<br>
-   *Yǐ: Wǒ shì guò le, dànshì wǎngzhàn yìzhí shōu bú dào tōngzhī.*<br>
-   I tried, but the website still cannot receive the notification.
+3. 乙：我试过了，但是我一直收不到网站的通知。<br>
+   *Yǐ: Wǒ shì guò le, dànshì wǒ yìzhí shōu bú dào wǎngzhàn de tōngzhī.*<br>
+   I tried, but I still haven't received a notification from the website.
 
 4. 甲：可能是网络出问题。你先换手机试试，再用电脑登录。<br>
    *Jiǎ: Kěnéng shì wǎngluò chū wèntí. Nǐ xiān huàn shǒujī shìshi, zài yòng diànnǎo dēnglù.*<br>
-   Maybe the network has a problem. First try changing phones, then log in with a computer.
+   Maybe there is a network problem. Try another phone first, then try logging in on a computer.
 
 5. 乙：如果电脑也登录不了，我该怎么办？<br>
    *Yǐ: Rúguǒ diànnǎo yě dēnglù bù liǎo, wǒ gāi zěnme bàn?*<br>
@@ -302,7 +302,7 @@ Without reopening `vocab.md`:
 
 6. 甲：那就给客服发消息，说明你的账号和问题。<br>
    *Jiǎ: Nà jiù gěi kèfú fā xiāoxi, shuōmíng nǐ de zhànghào hé wèntí.*<br>
-   Then send customer service a message explaining your account and problem.
+   Then send customer service a message with your account information and a description of the problem.
 
 </details>
 
@@ -319,9 +319,9 @@ Answer in complete Mandarin sentences.
 
 #### Dialogue questions — Model evidence
 
-1. 乙：我试过了，但是网站一直收不到通知。<br>
-   *Yǐ: Wǒ shì guò le, dànshì wǎngzhàn yìzhí shōu bú dào tōngzhī.*<br>
-   I tried, but the website still cannot receive the notification.
+1. 乙：我试过了，但是我一直收不到网站的通知。<br>
+   *Yǐ: Wǒ shì guò le, dànshì wǒ yìzhí shōu bú dào wǎngzhàn de tōngzhī.*<br>
+   I tried, but I still haven't received a notification from the website.
 
 2. 乙：我的账号登录不了，好像是密码错了。<br>
    *Yǐ: Wǒ de zhànghào dēnglù bù liǎo, hǎoxiàng shì mìmǎ cuò le.*<br>
@@ -329,7 +329,7 @@ Answer in complete Mandarin sentences.
 
 3. 甲：可能是网络出问题。你先换手机试试，再用电脑登录。<br>
    *Jiǎ: Kěnéng shì wǎngluò chū wèntí. Nǐ xiān huàn shǒujī shìshi, zài yòng diànnǎo dēnglù.*<br>
-   Maybe the network has a problem. First try changing phones, then log in with a computer.
+   Maybe there is a network problem. Try another phone first, then try logging in on a computer.
 
 </details>
 
@@ -339,8 +339,8 @@ Translate before opening the support panel.
 
 1. I can't log into my account. It seems the password is wrong.
 2. Did you forget the password? You can reset it.
-3. I tried, but the website still cannot receive the notification.
-4. Maybe the network has a problem. First try changing phones, then log in with a computer.
+3. I tried, but I still haven't received a notification from the website.
+4. Maybe there is a network problem. Try another phone first, then try logging in on a computer.
 5. If I cannot log in on the computer either, what should I do?
 
 <details>
@@ -356,13 +356,13 @@ Translate before opening the support panel.
    *Jiǎ: Nǐ shì bu shì wàngjì mìmǎ le? Kěyǐ chóngxīn shèzhì yíxià.*<br>
    Did you forget the password? You can reset it.
 
-3. 乙：我试过了，但是网站一直收不到通知。<br>
-   *Yǐ: Wǒ shì guò le, dànshì wǎngzhàn yìzhí shōu bú dào tōngzhī.*<br>
-   I tried, but the website still cannot receive the notification.
+3. 乙：我试过了，但是我一直收不到网站的通知。<br>
+   *Yǐ: Wǒ shì guò le, dànshì wǒ yìzhí shōu bú dào wǎngzhàn de tōngzhī.*<br>
+   I tried, but I still haven't received a notification from the website.
 
 4. 甲：可能是网络出问题。你先换手机试试，再用电脑登录。<br>
    *Jiǎ: Kěnéng shì wǎngluò chū wèntí. Nǐ xiān huàn shǒujī shìshi, zài yòng diànnǎo dēnglù.*<br>
-   Maybe the network has a problem. First try changing phones, then log in with a computer.
+   Maybe there is a network problem. Try another phone first, then try logging in on a computer.
 
 5. 乙：如果电脑也登录不了，我该怎么办？<br>
    *Yǐ: Rúguǒ diànnǎo yě dēnglù bù liǎo, wǒ gāi zěnme bàn?*<br>
@@ -372,7 +372,7 @@ Translate before opening the support panel.
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 1. Roleplay: ask for help with a login or password problem.
 2. Use ≥4 words: 账号 / 密码 / 网络 / 重新
@@ -390,7 +390,7 @@ Then:
 
 1. 甲：可能是网络出问题。你先换手机试试，再用电脑登录。<br>
    *Jiǎ: Kěnéng shì wǎngluò chū wèntí. Nǐ xiān huàn shǒujī shìshi, zài yòng diànnǎo dēnglù.*<br>
-   Maybe the network has a problem. First try changing phones, then log in with a computer.
+   Maybe there is a network problem. Try another phone first, then try logging in on a computer.
 
 2. 乙：如果电脑也登录不了，我该怎么办？<br>
    *Yǐ: Rúguǒ diànnǎo yě dēnglù bù liǎo, wǒ gāi zěnme bàn?*<br>
@@ -398,7 +398,7 @@ Then:
 
 3. 甲：那就给客服发消息，说明你的账号和问题。<br>
    *Jiǎ: Nà jiù gěi kèfú fā xiāoxi, shuōmíng nǐ de zhànghào hé wèntí.*<br>
-   Then send customer service a message explaining your account and problem.
+   Then send customer service a message with your account information and a description of the problem.
 
 </details>
 
@@ -421,7 +421,7 @@ Without notes, summarize today’s situation in three connected sentences. Use a
 
 3. 甲：那就给客服发消息，说明你的账号和问题。<br>
    *Jiǎ: Nà jiù gěi kèfú fā xiāoxi, shuōmíng nǐ de zhànghào hé wèntí.*<br>
-   Then send customer service a message explaining your account and problem.
+   Then send customer service a message with your account information and a description of the problem.
 
 </details>
 
@@ -501,11 +501,11 @@ Without reopening `vocab.md`:
 
 4. 乙：下载好了，但是有一个文件打不开。我需要先解决这个问题。<br>
    *Yǐ: Xiàzǎi hǎo le, dànshì yǒu yí ge wénjiàn dǎ bù kāi. Wǒ xūyào xiān jiějué zhè ge wèntí.*<br>
-   They are downloaded, but one file won't open. I need to solve this problem first.
+   I've downloaded them, but one file won't open. I need to solve this problem first.
 
 5. 甲：如果文件一直打不开，你还有别的办法吗？<br>
    *Jiǎ: Rúguǒ wénjiàn yìzhí dǎ bù kāi, nǐ hái yǒu bié de bànfǎ ma?*<br>
-   If the file still will not open, do you have another way?
+   If the file still will not open, do you have another option?
 
 6. 乙：我可以先看网站上的资料，再给老师发消息说明情况。<br>
    *Yǐ: Wǒ kěyǐ xiān kàn wǎngzhàn shàng de zīliào, zài gěi lǎoshī fā xiāoxi shuōmíng qíngkuàng.*<br>
@@ -536,7 +536,7 @@ Answer in complete Mandarin sentences.
 
 3. 乙：下载好了，但是有一个文件打不开。我需要先解决这个问题。<br>
    *Yǐ: Xiàzǎi hǎo le, dànshì yǒu yí ge wénjiàn dǎ bù kāi. Wǒ xūyào xiān jiějué zhè ge wèntí.*<br>
-   They are downloaded, but one file won't open. I need to solve this problem first.
+   I've downloaded them, but one file won't open. I need to solve this problem first.
 
 </details>
 
@@ -547,8 +547,8 @@ Translate before opening the support panel.
 1. Did the teacher send a notice? When is today's homework due?
 2. The notice says homework must be uploaded before 8 p.m.
 3. Have all the materials been downloaded?
-4. They are downloaded, but one file won't open. I need to solve this problem first.
-5. If the file still will not open, do you have another way?
+4. I've downloaded them, but one file won't open. I need to solve this problem first.
+5. If the file still will not open, do you have another option?
 
 <details>
 <summary>Show pinyin, English, and model answers</summary>
@@ -569,17 +569,17 @@ Translate before opening the support panel.
 
 4. 乙：下载好了，但是有一个文件打不开。我需要先解决这个问题。<br>
    *Yǐ: Xiàzǎi hǎo le, dànshì yǒu yí ge wénjiàn dǎ bù kāi. Wǒ xūyào xiān jiějué zhè ge wèntí.*<br>
-   They are downloaded, but one file won't open. I need to solve this problem first.
+   I've downloaded them, but one file won't open. I need to solve this problem first.
 
 5. 甲：如果文件一直打不开，你还有别的办法吗？<br>
    *Jiǎ: Rúguǒ wénjiàn yìzhí dǎ bù kāi, nǐ hái yǒu bié de bànfǎ ma?*<br>
-   If the file still will not open, do you have another way?
+   If the file still will not open, do you have another option?
 
 </details>
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 1. Explain a homework upload problem and next step.
 2. Use ≥5 words: 通知 / 上传 / 文件 / 解决 / 作业
@@ -597,11 +597,11 @@ Then:
 
 1. 乙：下载好了，但是有一个文件打不开。我需要先解决这个问题。<br>
    *Yǐ: Xiàzǎi hǎo le, dànshì yǒu yí ge wénjiàn dǎ bù kāi. Wǒ xūyào xiān jiějué zhè ge wèntí.*<br>
-   They are downloaded, but one file won't open. I need to solve this problem first.
+   I've downloaded them, but one file won't open. I need to solve this problem first.
 
 2. 甲：如果文件一直打不开，你还有别的办法吗？<br>
    *Jiǎ: Rúguǒ wénjiàn yìzhí dǎ bù kāi, nǐ hái yǒu bié de bànfǎ ma?*<br>
-   If the file still will not open, do you have another way?
+   If the file still will not open, do you have another option?
 
 3. 乙：我可以先看网站上的资料，再给老师发消息说明情况。<br>
    *Yǐ: Wǒ kěyǐ xiān kàn wǎngzhàn shàng de zīliào, zài gěi lǎoshī fā xiāoxi shuōmíng qíngkuàng.*<br>
@@ -661,7 +661,7 @@ Without reopening `vocab.md`:
 
 2. 乙：以前经常用。它很方便，但是我发现自己太依赖它了。<br>
    *Yǐ: Yǐqián jīngcháng yòng. Tā hěn fāngbiàn, dànshì wǒ fāxiàn zìjǐ tài yīlài tā le.*<br>
-   I used to use it often. It is convenient, but I found I rely on it too much.
+   I used to use it often. It is convenient, but I realized that I rely on it too much.
 
 3. 甲：那你现在怎么练习？<br>
    *Jiǎ: Nà nǐ xiànzài zěnme liànxí?*<br>
@@ -699,7 +699,7 @@ Without reopening `vocab.md`:
 
 2. 乙：以前经常用。它很方便，但是我发现自己太依赖它了。<br>
    *Yǐ: Yǐqián jīngcháng yòng. Tā hěn fāngbiàn, dànshì wǒ fāxiàn zìjǐ tài yīlài tā le.*<br>
-   I used to use it often. It is convenient, but I found I rely on it too much.
+   I used to use it often. It is convenient, but I realized that I rely on it too much.
 
 3. 甲：那你现在怎么练习？<br>
    *Jiǎ: Nà nǐ xiànzài zěnme liànxí?*<br>
@@ -707,15 +707,15 @@ Without reopening `vocab.md`:
 
 4. 乙：我先自己写，再查不熟悉的词。这样比较慢，但是对提高水平有帮助。<br>
    *Yǐ: Wǒ xiān zìjǐ xiě, zài chá bù shúxī de cí. Zhèyàng bǐjiào màn, dànshì duì tígāo shuǐpíng yǒu bāngzhù.*<br>
-   I first write by myself, then look up unfamiliar words. This is relatively slow, but it helps improve my level.
+   I write on my own first, then look up unfamiliar words. This is slower, but it helps improve my level.
 
 5. 甲：不用翻译的时候，你会不会觉得很慢？<br>
    *Jiǎ: Bú yòng fānyì de shíhou, nǐ huì bu huì juéde hěn màn?*<br>
-   When you do not use translation, do you feel it is very slow?
+   When you do not use translation software, does writing feel very slow?
 
 6. 乙：会，但是我能更清楚地知道哪些词还不熟悉。<br>
    *Yǐ: Huì, dànshì wǒ néng gèng qīngchu de zhīdào nǎxiē cí hái bù shúxī.*<br>
-   Yes, but I can know more clearly which words I am still not familiar with.
+   Yes, but I can see more clearly which words I still do not know well.
 
 </details>
 
@@ -734,15 +734,15 @@ Answer in complete Mandarin sentences.
 
 1. 乙：以前经常用。它很方便，但是我发现自己太依赖它了。<br>
    *Yǐ: Yǐqián jīngcháng yòng. Tā hěn fāngbiàn, dànshì wǒ fāxiàn zìjǐ tài yīlài tā le.*<br>
-   I used to use it often. It is convenient, but I found I rely on it too much.
+   I used to use it often. It is convenient, but I realized that I rely on it too much.
 
 2. 乙：以前经常用。它很方便，但是我发现自己太依赖它了。<br>
    *Yǐ: Yǐqián jīngcháng yòng. Tā hěn fāngbiàn, dànshì wǒ fāxiàn zìjǐ tài yīlài tā le.*<br>
-   I used to use it often. It is convenient, but I found I rely on it too much.
+   I used to use it often. It is convenient, but I realized that I rely on it too much.
 
 3. 乙：我先自己写，再查不熟悉的词。这样比较慢，但是对提高水平有帮助。<br>
    *Yǐ: Wǒ xiān zìjǐ xiě, zài chá bù shúxī de cí. Zhèyàng bǐjiào màn, dànshì duì tígāo shuǐpíng yǒu bāngzhù.*<br>
-   I first write by myself, then look up unfamiliar words. This is relatively slow, but it helps improve my level.
+   I write on my own first, then look up unfamiliar words. This is slower, but it helps improve my level.
 
 </details>
 
@@ -751,10 +751,10 @@ Answer in complete Mandarin sentences.
 Translate before opening the support panel.
 
 1. When you write Chinese, do you often use translation software?
-2. I used to use it often. It is convenient, but I found I rely on it too much.
+2. I used to use it often. It is convenient, but I realized that I rely on it too much.
 3. Then how do you practice now?
-4. I first write by myself, then look up unfamiliar words. This is relatively slow, but it helps improve my level.
-5. When you do not use translation, do you feel it is very slow?
+4. I write on my own first, then look up unfamiliar words. This is slower, but it helps improve my level.
+5. When you do not use translation software, does writing feel very slow?
 
 <details>
 <summary>Show pinyin, English, and model answers</summary>
@@ -767,7 +767,7 @@ Translate before opening the support panel.
 
 2. 乙：以前经常用。它很方便，但是我发现自己太依赖它了。<br>
    *Yǐ: Yǐqián jīngcháng yòng. Tā hěn fāngbiàn, dànshì wǒ fāxiàn zìjǐ tài yīlài tā le.*<br>
-   I used to use it often. It is convenient, but I found I rely on it too much.
+   I used to use it often. It is convenient, but I realized that I rely on it too much.
 
 3. 甲：那你现在怎么练习？<br>
    *Jiǎ: Nà nǐ xiànzài zěnme liànxí?*<br>
@@ -775,17 +775,17 @@ Translate before opening the support panel.
 
 4. 乙：我先自己写，再查不熟悉的词。这样比较慢，但是对提高水平有帮助。<br>
    *Yǐ: Wǒ xiān zìjǐ xiě, zài chá bù shúxī de cí. Zhèyàng bǐjiào màn, dànshì duì tígāo shuǐpíng yǒu bāngzhù.*<br>
-   I first write by myself, then look up unfamiliar words. This is relatively slow, but it helps improve my level.
+   I write on my own first, then look up unfamiliar words. This is slower, but it helps improve my level.
 
 5. 甲：不用翻译的时候，你会不会觉得很慢？<br>
    *Jiǎ: Bú yòng fānyì de shíhou, nǐ huì bu huì juéde hěn màn?*<br>
-   When you do not use translation, do you feel it is very slow?
+   When you do not use translation software, does writing feel very slow?
 
 </details>
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 1. Compare an old study habit and a new study habit.
 2. Use ≥4 words: 依赖 / 熟悉 / 提高 / 水平
@@ -803,15 +803,15 @@ Then:
 
 1. 乙：我先自己写，再查不熟悉的词。这样比较慢，但是对提高水平有帮助。<br>
    *Yǐ: Wǒ xiān zìjǐ xiě, zài chá bù shúxī de cí. Zhèyàng bǐjiào màn, dànshì duì tígāo shuǐpíng yǒu bāngzhù.*<br>
-   I first write by myself, then look up unfamiliar words. This is relatively slow, but it helps improve my level.
+   I write on my own first, then look up unfamiliar words. This is slower, but it helps improve my level.
 
 2. 甲：不用翻译的时候，你会不会觉得很慢？<br>
    *Jiǎ: Bú yòng fānyì de shíhou, nǐ huì bu huì juéde hěn màn?*<br>
-   When you do not use translation, do you feel it is very slow?
+   When you do not use translation software, does writing feel very slow?
 
 3. 乙：会，但是我能更清楚地知道哪些词还不熟悉。<br>
    *Yǐ: Huì, dànshì wǒ néng gèng qīngchu de zhīdào nǎxiē cí hái bù shúxī.*<br>
-   Yes, but I can know more clearly which words I am still not familiar with.
+   Yes, but I can see more clearly which words I still do not know well.
 
 </details>
 
@@ -830,11 +830,11 @@ Without notes, summarize today’s situation in three connected sentences. Use a
 
 2. 乙：以前经常用。它很方便，但是我发现自己太依赖它了。<br>
    *Yǐ: Yǐqián jīngcháng yòng. Tā hěn fāngbiàn, dànshì wǒ fāxiàn zìjǐ tài yīlài tā le.*<br>
-   I used to use it often. It is convenient, but I found I rely on it too much.
+   I used to use it often. It is convenient, but I realized that I rely on it too much.
 
 3. 乙：会，但是我能更清楚地知道哪些词还不熟悉。<br>
    *Yǐ: Huì, dànshì wǒ néng gèng qīngchu de zhīdào nǎxiē cí hái bù shúxī.*<br>
-   Yes, but I can know more clearly which words I am still not familiar with.
+   Yes, but I can see more clearly which words I still do not know well.
 
 </details>
 
@@ -880,7 +880,7 @@ Without reopening `vocab.md`:
 - 甲：你觉得最近中文水平有进步吗？
 - 乙：有一点，尤其是阅读。但是口语还需要很多练习。
 - 甲：你打算怎么提高口语？
-- 乙：我想每天坚持说五分钟。虽然时间有限制，但是每天做一点比较现实。
+- 乙：我想每天坚持说五分钟。虽然时间有限，但是每天做一点比较现实。
 - 甲：五分钟听起来很短，真的有用吗？
 - 乙：我觉得有用。重点是每天开口，不要等到有很多时间才练习。
 
@@ -911,9 +911,9 @@ Without reopening `vocab.md`:
    *Jiǎ: Nǐ dǎsuàn zěnme tígāo kǒuyǔ?*<br>
    How do you plan to improve speaking?
 
-4. 乙：我想每天坚持说五分钟。虽然时间有限制，但是每天做一点比较现实。<br>
-   *Yǐ: Wǒ xiǎng měi tiān jiānchí shuō wǔ fēnzhōng. Suīrán shíjiān yǒu xiànzhì, dànshì měi tiān zuò yìdiǎn bǐjiào xiànshí.*<br>
-   I want to persist in speaking five minutes every day. Although time is limited, doing a little every day is more realistic.
+4. 乙：我想每天坚持说五分钟。虽然时间有限，但是每天做一点比较现实。<br>
+   *Yǐ: Wǒ xiǎng měi tiān jiānchí shuō wǔ fēnzhōng. Suīrán shíjiān yǒuxiàn, dànshì měi tiān zuò yìdiǎn bǐjiào xiànshí.*<br>
+   I want to practice speaking for five minutes every day. Although time is limited, doing a little every day is more realistic.
 
 5. 甲：五分钟听起来很短，真的有用吗？<br>
    *Jiǎ: Wǔ fēnzhōng tīng qǐlái hěn duǎn, zhēn de yǒuyòng ma?*<br>
@@ -921,7 +921,7 @@ Without reopening `vocab.md`:
 
 6. 乙：我觉得有用。重点是每天开口，不要等到有很多时间才练习。<br>
    *Yǐ: Wǒ juéde yǒuyòng. Zhòngdiǎn shì měi tiān kāikǒu, bú yào děng dào yǒu hěn duō shíjiān cái liànxí.*<br>
-   I think it is useful. The key is to speak every day, not wait until I have a lot of time to practice.
+   I think it is useful. The key is to speak every day rather than wait until I have a lot of time to practice.
 
 </details>
 
@@ -944,11 +944,11 @@ Answer in complete Mandarin sentences.
 
 2. 乙：我觉得有用。重点是每天开口，不要等到有很多时间才练习。<br>
    *Yǐ: Wǒ juéde yǒuyòng. Zhòngdiǎn shì měi tiān kāikǒu, bú yào děng dào yǒu hěn duō shíjiān cái liànxí.*<br>
-   I think it is useful. The key is to speak every day, not wait until I have a lot of time to practice.
+   I think it is useful. The key is to speak every day rather than wait until I have a lot of time to practice.
 
-3. 乙：我想每天坚持说五分钟。虽然时间有限制，但是每天做一点比较现实。<br>
-   *Yǐ: Wǒ xiǎng měi tiān jiānchí shuō wǔ fēnzhōng. Suīrán shíjiān yǒu xiànzhì, dànshì měi tiān zuò yìdiǎn bǐjiào xiànshí.*<br>
-   I want to persist in speaking five minutes every day. Although time is limited, doing a little every day is more realistic.
+3. 乙：我想每天坚持说五分钟。虽然时间有限，但是每天做一点比较现实。<br>
+   *Yǐ: Wǒ xiǎng měi tiān jiānchí shuō wǔ fēnzhōng. Suīrán shíjiān yǒuxiàn, dànshì měi tiān zuò yìdiǎn bǐjiào xiànshí.*<br>
+   I want to practice speaking for five minutes every day. Although time is limited, doing a little every day is more realistic.
 
 </details>
 
@@ -959,7 +959,7 @@ Translate before opening the support panel.
 1. Do you feel your Chinese level has improved recently?
 2. A bit, especially reading. But speaking still needs a lot of practice.
 3. How do you plan to improve speaking?
-4. I want to persist in speaking five minutes every day. Although time is limited, doing a little every day is more realistic.
+4. I want to practice speaking for five minutes every day. Although time is limited, doing a little every day is more realistic.
 5. Five minutes sounds short. Is it really useful?
 
 <details>
@@ -979,9 +979,9 @@ Translate before opening the support panel.
    *Jiǎ: Nǐ dǎsuàn zěnme tígāo kǒuyǔ?*<br>
    How do you plan to improve speaking?
 
-4. 乙：我想每天坚持说五分钟。虽然时间有限制，但是每天做一点比较现实。<br>
-   *Yǐ: Wǒ xiǎng měi tiān jiānchí shuō wǔ fēnzhōng. Suīrán shíjiān yǒu xiànzhì, dànshì měi tiān zuò yìdiǎn bǐjiào xiànshí.*<br>
-   I want to persist in speaking five minutes every day. Although time is limited, doing a little every day is more realistic.
+4. 乙：我想每天坚持说五分钟。虽然时间有限，但是每天做一点比较现实。<br>
+   *Yǐ: Wǒ xiǎng měi tiān jiānchí shuō wǔ fēnzhōng. Suīrán shíjiān yǒuxiàn, dànshì měi tiān zuò yìdiǎn bǐjiào xiànshí.*<br>
+   I want to practice speaking for five minutes every day. Although time is limited, doing a little every day is more realistic.
 
 5. 甲：五分钟听起来很短，真的有用吗？<br>
    *Jiǎ: Wǔ fēnzhōng tīng qǐlái hěn duǎn, zhēn de yǒuyòng ma?*<br>
@@ -991,7 +991,7 @@ Translate before opening the support panel.
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 1. Give a realistic weekly study plan with one limitation.
 2. Use ≥6 earlier words.
@@ -1007,9 +1007,9 @@ Then:
 
 #### Create and speak — Reusable model lines
 
-1. 乙：我想每天坚持说五分钟。虽然时间有限制，但是每天做一点比较现实。<br>
-   *Yǐ: Wǒ xiǎng měi tiān jiānchí shuō wǔ fēnzhōng. Suīrán shíjiān yǒu xiànzhì, dànshì měi tiān zuò yìdiǎn bǐjiào xiànshí.*<br>
-   I want to persist in speaking five minutes every day. Although time is limited, doing a little every day is more realistic.
+1. 乙：我想每天坚持说五分钟。虽然时间有限，但是每天做一点比较现实。<br>
+   *Yǐ: Wǒ xiǎng měi tiān jiānchí shuō wǔ fēnzhōng. Suīrán shíjiān yǒuxiàn, dànshì měi tiān zuò yìdiǎn bǐjiào xiànshí.*<br>
+   I want to practice speaking for five minutes every day. Although time is limited, doing a little every day is more realistic.
 
 2. 甲：五分钟听起来很短，真的有用吗？<br>
    *Jiǎ: Wǔ fēnzhōng tīng qǐlái hěn duǎn, zhēn de yǒuyòng ma?*<br>
@@ -1017,7 +1017,7 @@ Then:
 
 3. 乙：我觉得有用。重点是每天开口，不要等到有很多时间才练习。<br>
    *Yǐ: Wǒ juéde yǒuyòng. Zhòngdiǎn shì měi tiān kāikǒu, bú yào děng dào yǒu hěn duō shíjiān cái liànxí.*<br>
-   I think it is useful. The key is to speak every day, not wait until I have a lot of time to practice.
+   I think it is useful. The key is to speak every day rather than wait until I have a lot of time to practice.
 
 </details>
 
@@ -1040,7 +1040,7 @@ Without notes, summarize today’s situation in three connected sentences. Use a
 
 3. 乙：我觉得有用。重点是每天开口，不要等到有很多时间才练习。<br>
    *Yǐ: Wǒ juéde yǒuyòng. Zhòngdiǎn shì měi tiān kāikǒu, bú yào děng dào yǒu hěn duō shíjiān cái liànxí.*<br>
-   I think it is useful. The key is to speak every day, not wait until I have a lot of time to practice.
+   I think it is useful. The key is to speak every day rather than wait until I have a lot of time to practice.
 
 </details>
 
@@ -1073,11 +1073,11 @@ Without reopening `vocab.md`:
 
 2. 甲：你先别着急。网络正常吗？账号能登录吗？<br>
    *Jiǎ: Nǐ xiān bié zháojí. Wǎngluò zhèngcháng ma? Zhànghào néng dēnglù ma?*<br>
-   Don't worry first. Is the internet normal? Can the account log in?
+   Don't panic. First, is the internet connection working? Can you log in to the account?
 
 3. 乙：网络没问题，账号也能登录。可能是这个网站今天不稳定。<br>
    *Yǐ: Wǎngluò méi wèntí, zhànghào yě néng dēnglù. Kěnéng shì zhè ge wǎngzhàn jīntiān bù wěndìng.*<br>
-   The internet is fine, and the account can log in. Maybe this website is unstable today.
+   The internet is fine, and I can log in to the account. Maybe the website is unstable today.
 
 </details>
 
@@ -1111,11 +1111,11 @@ Without reopening `vocab.md`:
 
 2. 甲：你先别着急。网络正常吗？账号能登录吗？<br>
    *Jiǎ: Nǐ xiān bié zháojí. Wǎngluò zhèngcháng ma? Zhànghào néng dēnglù ma?*<br>
-   Don't worry first. Is the internet normal? Can the account log in?
+   Don't panic. First, is the internet connection working? Can you log in to the account?
 
 3. 乙：网络没问题，账号也能登录。可能是这个网站今天不稳定。<br>
    *Yǐ: Wǎngluò méi wèntí, zhànghào yě néng dēnglù. Kěnéng shì zhè ge wǎngzhàn jīntiān bù wěndìng.*<br>
-   The internet is fine, and the account can log in. Maybe this website is unstable today.
+   The internet is fine, and I can log in to the account. Maybe the website is unstable today.
 
 4. 甲：那你先下载资料，晚一点再上传作业。如果还不行，就给老师发消息说明情况。<br>
    *Jiǎ: Nà nǐ xiān xiàzǎi zīliào, wǎn yìdiǎn zài shàngchuán zuòyè. Rúguǒ hái bù xíng, jiù gěi lǎoshī fā xiāoxi shuōmíng qíngkuàng.*<br>
@@ -1123,11 +1123,11 @@ Without reopening `vocab.md`:
 
 5. 乙：我怕晚一点上传会超过时间限制。<br>
    *Yǐ: Wǒ pà wǎn yìdiǎn shàngchuán huì chāoguò shíjiān xiànzhì.*<br>
-   I am afraid uploading later will exceed the time limit.
+   I'm worried that uploading it later will miss the deadline.
 
 6. 甲：那你现在先给老师发消息，说明网站不稳定。<br>
    *Jiǎ: Nà nǐ xiànzài xiān gěi lǎoshī fā xiāoxi, shuōmíng wǎngzhàn bù wěndìng.*<br>
-   Then send the teacher a message now first, explaining that the website is unstable.
+   Then send the teacher a message now explaining that the website is unstable.
 
 </details>
 
@@ -1150,7 +1150,7 @@ Answer in complete Mandarin sentences.
 
 2. 甲：你先别着急。网络正常吗？账号能登录吗？<br>
    *Jiǎ: Nǐ xiān bié zháojí. Wǎngluò zhèngcháng ma? Zhànghào néng dēnglù ma?*<br>
-   Don't worry first. Is the internet normal? Can the account log in?
+   Don't panic. First, is the internet connection working? Can you log in to the account?
 
 3. 甲：那你先下载资料，晚一点再上传作业。如果还不行，就给老师发消息说明情况。<br>
    *Jiǎ: Nà nǐ xiān xiàzǎi zīliào, wǎn yìdiǎn zài shàngchuán zuòyè. Rúguǒ hái bù xíng, jiù gěi lǎoshī fā xiāoxi shuōmíng qíngkuàng.*<br>
@@ -1163,10 +1163,10 @@ Answer in complete Mandarin sentences.
 Translate before opening the support panel.
 
 1. My computer has a problem again. The course website won't open.
-2. Don't worry first. Is the internet normal? Can the account log in?
-3. The internet is fine, and the account can log in. Maybe this website is unstable today.
+2. Don't panic. First, is the internet connection working? Can you log in to the account?
+3. The internet is fine, and I can log in to the account. Maybe the website is unstable today.
 4. Then download the materials first and upload the homework later. If it still does not work, send the teacher a message explaining the situation.
-5. I am afraid uploading later will exceed the time limit.
+5. I'm worried that uploading it later will miss the deadline.
 
 <details>
 <summary>Show pinyin, English, and model answers</summary>
@@ -1179,11 +1179,11 @@ Translate before opening the support panel.
 
 2. 甲：你先别着急。网络正常吗？账号能登录吗？<br>
    *Jiǎ: Nǐ xiān bié zháojí. Wǎngluò zhèngcháng ma? Zhànghào néng dēnglù ma?*<br>
-   Don't worry first. Is the internet normal? Can the account log in?
+   Don't panic. First, is the internet connection working? Can you log in to the account?
 
 3. 乙：网络没问题，账号也能登录。可能是这个网站今天不稳定。<br>
    *Yǐ: Wǎngluò méi wèntí, zhànghào yě néng dēnglù. Kěnéng shì zhè ge wǎngzhàn jīntiān bù wěndìng.*<br>
-   The internet is fine, and the account can log in. Maybe this website is unstable today.
+   The internet is fine, and I can log in to the account. Maybe the website is unstable today.
 
 4. 甲：那你先下载资料，晚一点再上传作业。如果还不行，就给老师发消息说明情况。<br>
    *Jiǎ: Nà nǐ xiān xiàzǎi zīliào, wǎn yìdiǎn zài shàngchuán zuòyè. Rúguǒ hái bù xíng, jiù gěi lǎoshī fā xiāoxi shuōmíng qíngkuàng.*<br>
@@ -1191,13 +1191,13 @@ Translate before opening the support panel.
 
 5. 乙：我怕晚一点上传会超过时间限制。<br>
    *Yǐ: Wǒ pà wǎn yìdiǎn shàngchuán huì chāoguò shíjiān xiànzhì.*<br>
-   I am afraid uploading later will exceed the time limit.
+   I'm worried that uploading it later will miss the deadline.
 
 </details>
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 - You and GPT: learning app → login problem → homework upload → translation habit → study progress.
   - Constraints: 3–4 sentences/turn; reuse ≥8 ⭐ Core words; include one troubleshooting sequence.
@@ -1219,11 +1219,11 @@ Then:
 
 2. 乙：我怕晚一点上传会超过时间限制。<br>
    *Yǐ: Wǒ pà wǎn yìdiǎn shàngchuán huì chāoguò shíjiān xiànzhì.*<br>
-   I am afraid uploading later will exceed the time limit.
+   I'm worried that uploading it later will miss the deadline.
 
 3. 甲：那你现在先给老师发消息，说明网站不稳定。<br>
    *Jiǎ: Nà nǐ xiànzài xiān gěi lǎoshī fā xiāoxi, shuōmíng wǎngzhàn bù wěndìng.*<br>
-   Then send the teacher a message now first, explaining that the website is unstable.
+   Then send the teacher a message now explaining that the website is unstable.
 
 </details>
 
@@ -1242,11 +1242,11 @@ Without notes, summarize today’s situation in three connected sentences. Use a
 
 2. 甲：你先别着急。网络正常吗？账号能登录吗？<br>
    *Jiǎ: Nǐ xiān bié zháojí. Wǎngluò zhèngcháng ma? Zhànghào néng dēnglù ma?*<br>
-   Don't worry first. Is the internet normal? Can the account log in?
+   Don't panic. First, is the internet connection working? Can you log in to the account?
 
 3. 甲：那你现在先给老师发消息，说明网站不稳定。<br>
    *Jiǎ: Nà nǐ xiànzài xiān gěi lǎoshī fā xiāoxi, shuōmíng wǎngzhàn bù wěndìng.*<br>
-   Then send the teacher a message now first, explaining that the website is unstable.
+   Then send the teacher a message now explaining that the website is unstable.
 
 </details>
 
