@@ -1,6 +1,6 @@
 # Unit 06 — Errands and Shopping: Practice Lessons (Day 1–6)
 
-This unit preserves all 40 targets in `vocab.md` and reorganizes the original readings and schedule around retrieval and production.
+This unit preserves all 40 targets in `vocab.md` and organizes each day around retrieval and production.
 
 ## Daily method (25–35 minutes)
 
@@ -46,7 +46,7 @@ Without reopening `vocab.md`:
 
 3. 甲：银行办完以后呢？<br>
    *Jiǎ: Yínháng bàn wán yǐhòu ne?*<br>
-   After finishing at the bank?
+   What about after you're done at the bank?
 
 </details>
 
@@ -57,7 +57,7 @@ Without reopening `vocab.md`:
 - 甲：银行办完以后呢？
 - 乙：然后我要去邮局寄邮件，最后去超市买东西。
 - 甲：那你大概几点能办完？
-- 乙：如果排队不久，五点以前应该能结束。
+- 乙：如果不用排太久，五点以前应该能结束。
 
 **Mini glossary (non-target support)**
 
@@ -84,7 +84,7 @@ Without reopening `vocab.md`:
 
 3. 甲：银行办完以后呢？<br>
    *Jiǎ: Yínháng bàn wán yǐhòu ne?*<br>
-   After finishing at the bank?
+   What about after you're done at the bank?
 
 4. 乙：然后我要去邮局寄邮件，最后去超市买东西。<br>
    *Yǐ: Ránhòu wǒ yào qù yóujú jì yóujiàn, zuìhòu qù chāoshì mǎi dōngxi.*<br>
@@ -92,11 +92,11 @@ Without reopening `vocab.md`:
 
 5. 甲：那你大概几点能办完？<br>
    *Jiǎ: Nà nǐ dàgài jǐ diǎn néng bàn wán?*<br>
-   Then about what time can you finish handling everything?
+   About what time can you finish everything?
 
-6. 乙：如果排队不久，五点以前应该能结束。<br>
-   *Yǐ: Rúguǒ páiduì bù jiǔ, wǔ diǎn yǐqián yīnggāi néng jiéshù.*<br>
-   If the lines are not long, I should be able to finish before five.
+6. 乙：如果不用排太久，五点以前应该能结束。<br>
+   *Yǐ: Rúguǒ bú yòng pái tài jiǔ, wǔ diǎn yǐqián yīnggāi néng jiéshù.*<br>
+   If I do not have to wait in line too long, I should be able to finish before five.
 
 </details>
 
@@ -133,9 +133,9 @@ Translate before opening the support panel.
 
 1. Are you free this afternoon? Let's have coffee together.
 2. Probably not. I have several errands to handle today. First I need to go to the bank.
-3. After finishing at the bank?
+3. What about after you're done at the bank?
 4. Then I need to go to the post office to send mail, and finally go to the supermarket to buy things.
-5. Then about what time can you finish handling everything?
+5. About what time can you finish everything?
 
 <details>
 <summary>Show pinyin, English, and model answers</summary>
@@ -152,7 +152,7 @@ Translate before opening the support panel.
 
 3. 甲：银行办完以后呢？<br>
    *Jiǎ: Yínháng bàn wán yǐhòu ne?*<br>
-   After finishing at the bank?
+   What about after you're done at the bank?
 
 4. 乙：然后我要去邮局寄邮件，最后去超市买东西。<br>
    *Yǐ: Ránhòu wǒ yào qù yóujú jì yóujiàn, zuìhòu qù chāoshì mǎi dōngxi.*<br>
@@ -160,13 +160,13 @@ Translate before opening the support panel.
 
 5. 甲：那你大概几点能办完？<br>
    *Jiǎ: Nà nǐ dàgài jǐ diǎn néng bàn wán?*<br>
-   Then about what time can you finish handling everything?
+   About what time can you finish everything?
 
 </details>
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 1. Describe three errands in order.
 2. Use ≥4 words: 办 / 银行 / 邮局 / 费用
@@ -188,11 +188,11 @@ Then:
 
 2. 甲：那你大概几点能办完？<br>
    *Jiǎ: Nà nǐ dàgài jǐ diǎn néng bàn wán?*<br>
-   Then about what time can you finish handling everything?
+   About what time can you finish everything?
 
-3. 乙：如果排队不久，五点以前应该能结束。<br>
-   *Yǐ: Rúguǒ páiduì bù jiǔ, wǔ diǎn yǐqián yīnggāi néng jiéshù.*<br>
-   If the lines are not long, I should be able to finish before five.
+3. 乙：如果不用排太久，五点以前应该能结束。<br>
+   *Yǐ: Rúguǒ bú yòng pái tài jiǔ, wǔ diǎn yǐqián yīnggāi néng jiéshù.*<br>
+   If I do not have to wait in line too long, I should be able to finish before five.
 
 </details>
 
@@ -213,9 +213,9 @@ Without notes, summarize today’s situation in three connected sentences. Use a
    *Yǐ: Kěnéng bù xíng. Wǒ jīntiān yǒu jǐ jiàn shìqing yào bàn, shǒuxiān yào qù yínháng.*<br>
    Probably not. I have several errands to handle today. First I need to go to the bank.
 
-3. 乙：如果排队不久，五点以前应该能结束。<br>
-   *Yǐ: Rúguǒ páiduì bù jiǔ, wǔ diǎn yǐqián yīnggāi néng jiéshù.*<br>
-   If the lines are not long, I should be able to finish before five.
+3. 乙：如果不用排太久，五点以前应该能结束。<br>
+   *Yǐ: Rúguǒ bú yòng pái tài jiǔ, wǔ diǎn yǐqián yīnggāi néng jiéshù.*<br>
+   If I do not have to wait in line too long, I should be able to finish before five.
 
 </details>
 
@@ -263,7 +263,7 @@ Without reopening `vocab.md`:
 - 乙：好的。这个费用可以刷卡吗？我今天没有带很多现金。
 - 工作人员：可以刷卡，也可以付现金。办完以后会给你收据。
 - 乙：如果等太久，我可以先去邮局吗？
-- 工作人员：可以，但是你的号码过了以后，需要重新拿。
+- 工作人员：可以，但是如果过号了，就需要重新拿号。
 
 **Mini glossary (non-target support)**
 
@@ -300,9 +300,9 @@ Without reopening `vocab.md`:
    *Yǐ: Rúguǒ děng tài jiǔ, wǒ kěyǐ xiān qù yóujú ma?*<br>
    If I wait too long, can I go to the post office first?
 
-6. 工作人员：可以，但是你的号码过了以后，需要重新拿。<br>
-   *Gōngzuò rényuán: Kěyǐ, dànshì nǐ de hàomǎ guò le yǐhòu, xūyào chóngxīn ná.*<br>
-   Yes, but after your number passes, you need to take a new one.
+6. 工作人员：可以，但是如果过号了，就需要重新拿号。<br>
+   *Gōngzuò rényuán: Kěyǐ, dànshì rúguǒ guò hào le, jiù xūyào chóngxīn ná hào.*<br>
+   Yes, but if your number is called while you are away, you will need to take a new one.
 
 </details>
 
@@ -372,7 +372,7 @@ Translate before opening the support panel.
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 1. Roleplay: ask a staff member what to do first and how to pay.
 2. Use ≥4 words: 号码 / 排队 / 刷卡 / 现金
@@ -396,9 +396,9 @@ Then:
    *Yǐ: Rúguǒ děng tài jiǔ, wǒ kěyǐ xiān qù yóujú ma?*<br>
    If I wait too long, can I go to the post office first?
 
-3. 工作人员：可以，但是你的号码过了以后，需要重新拿。<br>
-   *Gōngzuò rényuán: Kěyǐ, dànshì nǐ de hàomǎ guò le yǐhòu, xūyào chóngxīn ná.*<br>
-   Yes, but after your number passes, you need to take a new one.
+3. 工作人员：可以，但是如果过号了，就需要重新拿号。<br>
+   *Gōngzuò rényuán: Kěyǐ, dànshì rúguǒ guò hào le, jiù xūyào chóngxīn ná hào.*<br>
+   Yes, but if your number is called while you are away, you will need to take a new one.
 
 </details>
 
@@ -419,9 +419,9 @@ Without notes, summarize today’s situation in three connected sentences. Use a
    *Gōngzuò rényuán: Duì, xiān ná hàomǎ, ránhòu zài zhèbiān děng. Dàgài yào shíwǔ fēnzhōng.*<br>
    Yes, get a number first, then wait here. It will take about fifteen minutes.
 
-3. 工作人员：可以，但是你的号码过了以后，需要重新拿。<br>
-   *Gōngzuò rényuán: Kěyǐ, dànshì nǐ de hàomǎ guò le yǐhòu, xūyào chóngxīn ná.*<br>
-   Yes, but after your number passes, you need to take a new one.
+3. 工作人员：可以，但是如果过号了，就需要重新拿号。<br>
+   *Gōngzuò rényuán: Kěyǐ, dànshì rúguǒ guò hào le, jiù xūyào chóngxīn ná hào.*<br>
+   Yes, but if your number is called while you are away, you will need to take a new one.
 
 </details>
 
@@ -449,13 +449,13 @@ Without reopening `vocab.md`:
 
 #### Retrieval warm-up — Useful model lines
 
-1. 乙：不好意思，我刚才发现地址写错了。这个邮件还能改吗？<br>
-   *Yǐ: Bù hǎoyìsi, wǒ gāngcái fāxiàn dìzhǐ xiě cuò le. Zhè ge yóujiàn hái néng gǎi ma?*<br>
-   Sorry, I just discovered the address was written wrong. Can this mail still be changed?
+1. 乙：不好意思，我刚才发现地址写错了。这个邮件还能改地址吗？<br>
+   *Yǐ: Bù hǎoyìsi, wǒ gāngcái fāxiàn dìzhǐ xiě cuò le. Zhè ge yóujiàn hái néng gǎi dìzhǐ ma?*<br>
+   Sorry, I just noticed that the address is wrong. Can I still change the address on this mail?
 
-2. 工作人员：可以，不过你需要换一张新的表，再写一次地址。<br>
-   *Gōngzuò rényuán: Kěyǐ, búguò nǐ xūyào huàn yì zhāng xīn de biǎo, zài xiě yí cì dìzhǐ.*<br>
-   Yes, but you need to change to a new form and write the address again.
+2. 工作人员：可以，不过你需要换一张新表格，再写一次地址。<br>
+   *Gōngzuò rényuán: Kěyǐ, búguò nǐ xūyào huàn yì zhāng xīn biǎogé, zài xiě yí cì dìzhǐ.*<br>
+   Yes, but you need to get a new form and write the address again.
 
 3. 乙：好的，麻烦你给我一张新的表。费用会变吗？<br>
    *Yǐ: Hǎo de, máfan nǐ gěi wǒ yì zhāng xīn de biǎo. Fèiyong huì biàn ma?*<br>
@@ -465,8 +465,8 @@ Without reopening `vocab.md`:
 
 ### 2. Read first: characters only
 
-- 乙：不好意思，我刚才发现地址写错了。这个邮件还能改吗？
-- 工作人员：可以，不过你需要换一张新的表，再写一次地址。
+- 乙：不好意思，我刚才发现地址写错了。这个邮件还能改地址吗？
+- 工作人员：可以，不过你需要换一张新表格，再写一次地址。
 - 乙：好的，麻烦你给我一张新的表。费用会变吗？
 - 工作人员：不会。只要地址正确，今天就可以寄出去。
 - 乙：那我这次一定认真检查地址。
@@ -487,13 +487,13 @@ Without reopening `vocab.md`:
 
 #### Dialogue support
 
-1. 乙：不好意思，我刚才发现地址写错了。这个邮件还能改吗？<br>
-   *Yǐ: Bù hǎoyìsi, wǒ gāngcái fāxiàn dìzhǐ xiě cuò le. Zhè ge yóujiàn hái néng gǎi ma?*<br>
-   Sorry, I just discovered the address was written wrong. Can this mail still be changed?
+1. 乙：不好意思，我刚才发现地址写错了。这个邮件还能改地址吗？<br>
+   *Yǐ: Bù hǎoyìsi, wǒ gāngcái fāxiàn dìzhǐ xiě cuò le. Zhè ge yóujiàn hái néng gǎi dìzhǐ ma?*<br>
+   Sorry, I just noticed that the address is wrong. Can I still change the address on this mail?
 
-2. 工作人员：可以，不过你需要换一张新的表，再写一次地址。<br>
-   *Gōngzuò rényuán: Kěyǐ, búguò nǐ xūyào huàn yì zhāng xīn de biǎo, zài xiě yí cì dìzhǐ.*<br>
-   Yes, but you need to change to a new form and write the address again.
+2. 工作人员：可以，不过你需要换一张新表格，再写一次地址。<br>
+   *Gōngzuò rényuán: Kěyǐ, búguò nǐ xūyào huàn yì zhāng xīn biǎogé, zài xiě yí cì dìzhǐ.*<br>
+   Yes, but you need to get a new form and write the address again.
 
 3. 乙：好的，麻烦你给我一张新的表。费用会变吗？<br>
    *Yǐ: Hǎo de, máfan nǐ gěi wǒ yì zhāng xīn de biǎo. Fèiyong huì biàn ma?*<br>
@@ -526,13 +526,13 @@ Answer in complete Mandarin sentences.
 
 #### Dialogue questions — Model evidence
 
-1. 乙：不好意思，我刚才发现地址写错了。这个邮件还能改吗？<br>
-   *Yǐ: Bù hǎoyìsi, wǒ gāngcái fāxiàn dìzhǐ xiě cuò le. Zhè ge yóujiàn hái néng gǎi ma?*<br>
-   Sorry, I just discovered the address was written wrong. Can this mail still be changed?
+1. 乙：不好意思，我刚才发现地址写错了。这个邮件还能改地址吗？<br>
+   *Yǐ: Bù hǎoyìsi, wǒ gāngcái fāxiàn dìzhǐ xiě cuò le. Zhè ge yóujiàn hái néng gǎi dìzhǐ ma?*<br>
+   Sorry, I just noticed that the address is wrong. Can I still change the address on this mail?
 
-2. 工作人员：可以，不过你需要换一张新的表，再写一次地址。<br>
-   *Gōngzuò rényuán: Kěyǐ, búguò nǐ xūyào huàn yì zhāng xīn de biǎo, zài xiě yí cì dìzhǐ.*<br>
-   Yes, but you need to change to a new form and write the address again.
+2. 工作人员：可以，不过你需要换一张新表格，再写一次地址。<br>
+   *Gōngzuò rényuán: Kěyǐ, búguò nǐ xūyào huàn yì zhāng xīn biǎogé, zài xiě yí cì dìzhǐ.*<br>
+   Yes, but you need to get a new form and write the address again.
 
 3. 乙：好的，麻烦你给我一张新的表。费用会变吗？<br>
    *Yǐ: Hǎo de, máfan nǐ gěi wǒ yì zhāng xīn de biǎo. Fèiyong huì biàn ma?*<br>
@@ -544,8 +544,8 @@ Answer in complete Mandarin sentences.
 
 Translate before opening the support panel.
 
-1. Sorry, I just discovered the address was written wrong. Can this mail still be changed?
-2. Yes, but you need to change to a new form and write the address again.
+1. Sorry, I just noticed that the address is wrong. Can I still change the address on this mail?
+2. Yes, but you need to get a new form and write the address again.
 3. Okay, please give me a new form. Will the fee change?
 4. No. As long as the address is correct, it can be sent out today.
 5. Then this time I will definitely check the address carefully.
@@ -555,13 +555,13 @@ Translate before opening the support panel.
 
 #### English → Mandarin — Model answers
 
-1. 乙：不好意思，我刚才发现地址写错了。这个邮件还能改吗？<br>
-   *Yǐ: Bù hǎoyìsi, wǒ gāngcái fāxiàn dìzhǐ xiě cuò le. Zhè ge yóujiàn hái néng gǎi ma?*<br>
-   Sorry, I just discovered the address was written wrong. Can this mail still be changed?
+1. 乙：不好意思，我刚才发现地址写错了。这个邮件还能改地址吗？<br>
+   *Yǐ: Bù hǎoyìsi, wǒ gāngcái fāxiàn dìzhǐ xiě cuò le. Zhè ge yóujiàn hái néng gǎi dìzhǐ ma?*<br>
+   Sorry, I just noticed that the address is wrong. Can I still change the address on this mail?
 
-2. 工作人员：可以，不过你需要换一张新的表，再写一次地址。<br>
-   *Gōngzuò rényuán: Kěyǐ, búguò nǐ xūyào huàn yì zhāng xīn de biǎo, zài xiě yí cì dìzhǐ.*<br>
-   Yes, but you need to change to a new form and write the address again.
+2. 工作人员：可以，不过你需要换一张新表格，再写一次地址。<br>
+   *Gōngzuò rényuán: Kěyǐ, búguò nǐ xūyào huàn yì zhāng xīn biǎogé, zài xiě yí cì dìzhǐ.*<br>
+   Yes, but you need to get a new form and write the address again.
 
 3. 乙：好的，麻烦你给我一张新的表。费用会变吗？<br>
    *Yǐ: Hǎo de, máfan nǐ gěi wǒ yì zhāng xīn de biǎo. Fèiyong huì biàn ma?*<br>
@@ -579,7 +579,7 @@ Translate before opening the support panel.
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 1. Explain a small errand mistake and ask how to fix it.
 2. Use ≥5 words: 地址 / 邮件 / 换 / 麻烦 / 可以
@@ -618,13 +618,13 @@ Without notes, summarize today’s situation in three connected sentences. Use a
 
 #### Exit ticket — Possible lines to adapt
 
-1. 乙：不好意思，我刚才发现地址写错了。这个邮件还能改吗？<br>
-   *Yǐ: Bù hǎoyìsi, wǒ gāngcái fāxiàn dìzhǐ xiě cuò le. Zhè ge yóujiàn hái néng gǎi ma?*<br>
-   Sorry, I just discovered the address was written wrong. Can this mail still be changed?
+1. 乙：不好意思，我刚才发现地址写错了。这个邮件还能改地址吗？<br>
+   *Yǐ: Bù hǎoyìsi, wǒ gāngcái fāxiàn dìzhǐ xiě cuò le. Zhè ge yóujiàn hái néng gǎi dìzhǐ ma?*<br>
+   Sorry, I just noticed that the address is wrong. Can I still change the address on this mail?
 
-2. 工作人员：可以，不过你需要换一张新的表，再写一次地址。<br>
-   *Gōngzuò rényuán: Kěyǐ, búguò nǐ xūyào huàn yì zhāng xīn de biǎo, zài xiě yí cì dìzhǐ.*<br>
-   Yes, but you need to change to a new form and write the address again.
+2. 工作人员：可以，不过你需要换一张新表格，再写一次地址。<br>
+   *Gōngzuò rényuán: Kěyǐ, búguò nǐ xūyào huàn yì zhāng xīn biǎogé, zài xiě yí cì dìzhǐ.*<br>
+   Yes, but you need to get a new form and write the address again.
 
 3. 工作人员：对，尤其是城市和电话号码，最好再看一遍。<br>
    *Gōngzuò rényuán: Duì, yóuqí shì chéngshì hé diànhuà hàomǎ, zuì hǎo zài kàn yí biàn.*<br>
@@ -661,11 +661,11 @@ Without reopening `vocab.md`:
 
 2. 乙：左边的比较便宜，但是右边的质量好一点。<br>
    *Yǐ: Zuǒbiān de bǐjiào piányi, dànshì yòubiān de zhìliàng hǎo yìdiǎn.*<br>
-   The one on the left is cheaper, but the one on the right has better quality.
+   The one on the left is cheaper, but the one on the right is of better quality.
 
 3. 甲：如果每天都要用，我建议你买质量好的。<br>
    *Jiǎ: Rúguǒ měi tiān dōu yào yòng, wǒ jiànyì nǐ mǎi zhìliàng hǎo de.*<br>
-   If you need to use it every day, I suggest you buy the one with better quality.
+   If you need to use it every day, I suggest buying the better-quality one.
 
 </details>
 
@@ -699,11 +699,11 @@ Without reopening `vocab.md`:
 
 2. 乙：左边的比较便宜，但是右边的质量好一点。<br>
    *Yǐ: Zuǒbiān de bǐjiào piányi, dànshì yòubiān de zhìliàng hǎo yìdiǎn.*<br>
-   The one on the left is cheaper, but the one on the right has better quality.
+   The one on the left is cheaper, but the one on the right is of better quality.
 
 3. 甲：如果每天都要用，我建议你买质量好的。<br>
    *Jiǎ: Rúguǒ měi tiān dōu yào yòng, wǒ jiànyì nǐ mǎi zhìliàng hǎo de.*<br>
-   If you need to use it every day, I suggest you buy the one with better quality.
+   If you need to use it every day, I suggest buying the better-quality one.
 
 4. 乙：有道理。虽然价格贵一点，但是尺寸和颜色都更合适。<br>
    *Yǐ: Yǒu dàolǐ. Suīrán jiàgé guì yìdiǎn, dànshì chǐcùn hé yánsè dōu gèng héshì.*<br>
@@ -734,15 +734,15 @@ Answer in complete Mandarin sentences.
 
 1. 乙：左边的比较便宜，但是右边的质量好一点。<br>
    *Yǐ: Zuǒbiān de bǐjiào piányi, dànshì yòubiān de zhìliàng hǎo yìdiǎn.*<br>
-   The one on the left is cheaper, but the one on the right has better quality.
+   The one on the left is cheaper, but the one on the right is of better quality.
 
 2. 甲：如果每天都要用，我建议你买质量好的。<br>
    *Jiǎ: Rúguǒ měi tiān dōu yào yòng, wǒ jiànyì nǐ mǎi zhìliàng hǎo de.*<br>
-   If you need to use it every day, I suggest you buy the one with better quality.
+   If you need to use it every day, I suggest buying the better-quality one.
 
 3. 乙：左边的比较便宜，但是右边的质量好一点。<br>
    *Yǐ: Zuǒbiān de bǐjiào piányi, dànshì yòubiān de zhìliàng hǎo yìdiǎn.*<br>
-   The one on the left is cheaper, but the one on the right has better quality.
+   The one on the left is cheaper, but the one on the right is of better quality.
 
 </details>
 
@@ -751,8 +751,8 @@ Answer in complete Mandarin sentences.
 Translate before opening the support panel.
 
 1. Which of these two bags do you like more?
-2. The one on the left is cheaper, but the one on the right has better quality.
-3. If you need to use it every day, I suggest you buy the one with better quality.
+2. The one on the left is cheaper, but the one on the right is of better quality.
+3. If you need to use it every day, I suggest buying the better-quality one.
 4. That makes sense. Although the price is a bit higher, the size and color are both more suitable.
 5. What is your budget?
 
@@ -767,11 +767,11 @@ Translate before opening the support panel.
 
 2. 乙：左边的比较便宜，但是右边的质量好一点。<br>
    *Yǐ: Zuǒbiān de bǐjiào piányi, dànshì yòubiān de zhìliàng hǎo yìdiǎn.*<br>
-   The one on the left is cheaper, but the one on the right has better quality.
+   The one on the left is cheaper, but the one on the right is of better quality.
 
 3. 甲：如果每天都要用，我建议你买质量好的。<br>
    *Jiǎ: Rúguǒ měi tiān dōu yào yòng, wǒ jiànyì nǐ mǎi zhìliàng hǎo de.*<br>
-   If you need to use it every day, I suggest you buy the one with better quality.
+   If you need to use it every day, I suggest buying the better-quality one.
 
 4. 乙：有道理。虽然价格贵一点，但是尺寸和颜色都更合适。<br>
    *Yǐ: Yǒu dàolǐ. Suīrán jiàgé guì yìdiǎn, dànshì chǐcùn hé yánsè dōu gèng héshì.*<br>
@@ -785,7 +785,7 @@ Translate before opening the support panel.
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 1. Compare two products and choose one.
 2. Use ≥4 words: 价格 / 质量 / 合适 / 选择
@@ -830,7 +830,7 @@ Without notes, summarize today’s situation in three connected sentences. Use a
 
 2. 乙：左边的比较便宜，但是右边的质量好一点。<br>
    *Yǐ: Zuǒbiān de bǐjiào piányi, dànshì yòubiān de zhìliàng hǎo yìdiǎn.*<br>
-   The one on the left is cheaper, but the one on the right has better quality.
+   The one on the left is cheaper, but the one on the right is of better quality.
 
 3. 乙：最好不要超过五百块，但是如果质量很好，可以贵一点。<br>
    *Yǐ: Zuì hǎo bú yào chāoguò wǔbǎi kuài, dànshì rúguǒ zhìliàng hěn hǎo, kěyǐ guì yìdiǎn.*<br>
@@ -913,11 +913,11 @@ Without reopening `vocab.md`:
 
 4. 服务员：有。你可以先换颜色，如果还是不合适，我们再给你退。<br>
    *Fúwùyuán: Yǒu. Nǐ kěyǐ xiān huàn yánsè, rúguǒ háishi bù héshì, wǒmen zài gěi nǐ tuì.*<br>
-   There are. You can first change the color, and if it still isn't suitable, we'll return it for you.
+   Yes. You can exchange it for another color first; if it still doesn't fit, we can process the return.
 
 5. 服务员：如果你换颜色，价格不变。<br>
    *Fúwùyuán: Rúguǒ nǐ huàn yánsè, jiàgé bú biàn.*<br>
-   If you change the color, the price will not change.
+   If you exchange it for another color, the price will stay the same.
 
 6. 乙：好的，那我先试试蓝色的。如果还不合适，再退货。<br>
    *Yǐ: Hǎo de, nà wǒ xiān shìshi lán sè de. Rúguǒ hái bù héshì, zài tuìhuò.*<br>
@@ -948,7 +948,7 @@ Answer in complete Mandarin sentences.
 
 3. 服务员：有。你可以先换颜色，如果还是不合适，我们再给你退。<br>
    *Fúwùyuán: Yǒu. Nǐ kěyǐ xiān huàn yánsè, rúguǒ háishi bù héshì, wǒmen zài gěi nǐ tuì.*<br>
-   There are. You can first change the color, and if it still isn't suitable, we'll return it for you.
+   Yes. You can exchange it for another color first; if it still doesn't fit, we can process the return.
 
 </details>
 
@@ -959,8 +959,8 @@ Translate before opening the support panel.
 1. Hello, the clothes I bought here yesterday don't fit very well. Can I return them?
 2. Yes. Did you bring the receipt?
 3. I brought it. Also, I want to see whether there are other colors.
-4. There are. You can first change the color, and if it still isn't suitable, we'll return it for you.
-5. If you change the color, the price will not change.
+4. Yes. You can exchange it for another color first; if it still doesn't fit, we can process the return.
+5. If you exchange it for another color, the price will stay the same.
 
 <details>
 <summary>Show pinyin, English, and model answers</summary>
@@ -981,17 +981,17 @@ Translate before opening the support panel.
 
 4. 服务员：有。你可以先换颜色，如果还是不合适，我们再给你退。<br>
    *Fúwùyuán: Yǒu. Nǐ kěyǐ xiān huàn yánsè, rúguǒ háishi bù héshì, wǒmen zài gěi nǐ tuì.*<br>
-   There are. You can first change the color, and if it still isn't suitable, we'll return it for you.
+   Yes. You can exchange it for another color first; if it still doesn't fit, we can process the return.
 
 5. 服务员：如果你换颜色，价格不变。<br>
    *Fúwùyuán: Rúguǒ nǐ huàn yánsè, jiàgé bú biàn.*<br>
-   If you change the color, the price will not change.
+   If you exchange it for another color, the price will stay the same.
 
 </details>
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 1. Roleplay: return or exchange a product politely.
 2. Use ≥6 earlier words.
@@ -1009,11 +1009,11 @@ Then:
 
 1. 服务员：有。你可以先换颜色，如果还是不合适，我们再给你退。<br>
    *Fúwùyuán: Yǒu. Nǐ kěyǐ xiān huàn yánsè, rúguǒ háishi bù héshì, wǒmen zài gěi nǐ tuì.*<br>
-   There are. You can first change the color, and if it still isn't suitable, we'll return it for you.
+   Yes. You can exchange it for another color first; if it still doesn't fit, we can process the return.
 
 2. 服务员：如果你换颜色，价格不变。<br>
    *Fúwùyuán: Rúguǒ nǐ huàn yánsè, jiàgé bú biàn.*<br>
-   If you change the color, the price will not change.
+   If you exchange it for another color, the price will stay the same.
 
 3. 乙：好的，那我先试试蓝色的。如果还不合适，再退货。<br>
    *Yǐ: Hǎo de, nà wǒ xiān shìshi lán sè de. Rúguǒ hái bù héshì, zài tuìhuò.*<br>
@@ -1069,7 +1069,7 @@ Without reopening `vocab.md`:
 
 1. 甲：你买办公用品了吗？公司报销需要发票。<br>
    *Jiǎ: Nǐ mǎi bàngōng yòngpǐn le ma? Gōngsī bàoxiāo xūyào fāpiào.*<br>
-   Did you buy office supplies? Company reimbursement needs an invoice.
+   Did you buy office supplies? You need an invoice for company reimbursement.
 
 2. 乙：买了。我比较了三家商店，最后选择了价格合适、质量也不错的一家。<br>
    *Yǐ: Mǎi le. Wǒ bǐjiào le sān jiā shāngdiàn, zuìhòu xuǎnzé le jiàgé héshì, zhìliàng yě búcuò de yì jiā.*<br>
@@ -1107,7 +1107,7 @@ Without reopening `vocab.md`:
 
 1. 甲：你买办公用品了吗？公司报销需要发票。<br>
    *Jiǎ: Nǐ mǎi bàngōng yòngpǐn le ma? Gōngsī bàoxiāo xūyào fāpiào.*<br>
-   Did you buy office supplies? Company reimbursement needs an invoice.
+   Did you buy office supplies? You need an invoice for company reimbursement.
 
 2. 乙：买了。我比较了三家商店，最后选择了价格合适、质量也不错的一家。<br>
    *Yǐ: Mǎi le. Wǒ bǐjiào le sān jiā shāngdiàn, zuìhòu xuǎnzé le jiàgé héshì, zhìliàng yě búcuò de yì jiā.*<br>
@@ -1146,7 +1146,7 @@ Answer in complete Mandarin sentences.
 
 1. 甲：你买办公用品了吗？公司报销需要发票。<br>
    *Jiǎ: Nǐ mǎi bàngōng yòngpǐn le ma? Gōngsī bàoxiāo xūyào fāpiào.*<br>
-   Did you buy office supplies? Company reimbursement needs an invoice.
+   Did you buy office supplies? You need an invoice for company reimbursement.
 
 2. 乙：买了。我比较了三家商店，最后选择了价格合适、质量也不错的一家。<br>
    *Yǐ: Mǎi le. Wǒ bǐjiào le sān jiā shāngdiàn, zuìhòu xuǎnzé le jiàgé héshì, zhìliàng yě búcuò de yì jiā.*<br>
@@ -1162,7 +1162,7 @@ Answer in complete Mandarin sentences.
 
 Translate before opening the support panel.
 
-1. Did you buy office supplies? Company reimbursement needs an invoice.
+1. Did you buy office supplies? You need an invoice for company reimbursement.
 2. I did. I compared three stores and finally chose one with a suitable price and decent quality.
 3. Good. Did you get the invoice and receipt?
 4. I got them, but issuing the invoice was a bit troublesome, and I waited a long time.
@@ -1175,7 +1175,7 @@ Translate before opening the support panel.
 
 1. 甲：你买办公用品了吗？公司报销需要发票。<br>
    *Jiǎ: Nǐ mǎi bàngōng yòngpǐn le ma? Gōngsī bàoxiāo xūyào fāpiào.*<br>
-   Did you buy office supplies? Company reimbursement needs an invoice.
+   Did you buy office supplies? You need an invoice for company reimbursement.
 
 2. 乙：买了。我比较了三家商店，最后选择了价格合适、质量也不错的一家。<br>
    *Yǐ: Mǎi le. Wǒ bǐjiào le sān jiā shāngdiàn, zuìhòu xuǎnzé le jiàgé héshì, zhìliàng yě búcuò de yì jiā.*<br>
@@ -1197,7 +1197,7 @@ Translate before opening the support panel.
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 - You and GPT: bank errand → post office problem → shopping comparison → return/exchange → company invoice.
   - Constraints: 3–4 sentences/turn; reuse ≥8 ⭐ Core words; include one polite request.
@@ -1238,7 +1238,7 @@ Without notes, summarize today’s situation in three connected sentences. Use a
 
 1. 甲：你买办公用品了吗？公司报销需要发票。<br>
    *Jiǎ: Nǐ mǎi bàngōng yòngpǐn le ma? Gōngsī bàoxiāo xūyào fāpiào.*<br>
-   Did you buy office supplies? Company reimbursement needs an invoice.
+   Did you buy office supplies? You need an invoice for company reimbursement.
 
 2. 乙：买了。我比较了三家商店，最后选择了价格合适、质量也不错的一家。<br>
    *Yǐ: Mǎi le. Wǒ bǐjiào le sān jiā shāngdiàn, zuìhòu xuǎnzé le jiàgé héshì, zhìliàng yě búcuò de yì jiā.*<br>

@@ -1,4 +1,4 @@
-# Unit 01 — Practice Lessons (Day 1–6)
+# Unit 01 — Introducing Yourself: Practice Lessons (Day 1–6)
 
 This unit uses the same 40 targets in `vocab.md`, but every day is organized around retrieval and production.
 
@@ -210,7 +210,7 @@ Translate before checking the key.
 2. What is your surname?
 3. Let me introduce myself.
 4. I am from Chicago, but I live in Shanghai now.
-5. This is my friend. I’ll introduce you two.
+5. This is my friend. I will introduce you two.
 
 
 <details>
@@ -702,7 +702,7 @@ Transform or combine.
 
 1. I usually study at night.
 2. Do you often work on weekends?
-3. Because I am busy today, I plan to call my friend tomorrow.
+3. Because I am busy today, I plan to contact my friend tomorrow.
 4. I like going out, but this weekend I still want to rest at home.
 5. Do you think we should drink coffee or eat together?
 
@@ -948,7 +948,7 @@ Combine the ideas.
 2. I plan to contact a friend this weekend.
 3. If you are free, we can study together.
 4. I already have plans on Saturday. Is Sunday convenient?
-5. Let’s exchange contact information and keep in touch later.
+5. Let us exchange contact information and keep in touch later.
 
 
 <details>
@@ -1235,7 +1235,7 @@ Translate aloud without writing:
 2. I currently work/study…
 3. I am interested in…, but I prefer…
 4. I usually…, so this weekend I plan to…
-5. If you are free, we can…together.
+5. If you are free, we can … together.
 
 
 <details>
@@ -1367,7 +1367,7 @@ Translate aloud without writing:
    I like movies, but recently I prefer cooking with friends.
 5. 我周日已经有计划了。如果周六方便，就联系我吧。<br>
    *Wǒ Zhōurì yǐjīng yǒu jìhuà le. Rúguǒ Zhōuliù fāngbiàn, jiù liánxì wǒ ba.*<br>
-   I already have plans Sunday. If Saturday is convenient, contact me.
+   I already have plans on Sunday. If Saturday is convenient, contact me.
 
 </details>
 
@@ -1442,7 +1442,7 @@ I can introduce myself without looking at the book and can ask another person si
 
 </details>
 
-### After the unit
+## After the unit
 
 Record:
 

@@ -1,6 +1,6 @@
 # Unit 04 — Talking About Work: Practice Lessons (Day 1–6)
 
-This unit preserves all 40 targets in `vocab.md` and reorganizes the original readings and schedule around retrieval and production.
+This unit preserves all 40 targets in `vocab.md` and organizes each day around retrieval and production.
 
 ## Daily method (25–35 minutes)
 
@@ -13,7 +13,7 @@ This unit preserves all 40 targets in `vocab.md` and reorganizes the original re
 
 Each numbered section has a collapsed support panel. Do not open it until you have attempted the exercise.
 
-## Day 1 🟢 — 负责什么工作？(Responsibilities at work)
+## Day 1 🟢 — 负责什么工作？ (Responsibilities at work)
 
 - **Vocab focus:** #1–#10 (work basics)
 - **Grammar targets:**
@@ -38,11 +38,11 @@ Without reopening `vocab.md`:
 
 1. 甲：你最近在做什么项目？平时主要负责哪一部分？<br>
    *Jiǎ: Nǐ zuìjìn zài zuò shénme xiàngmù? Píngshí zhǔyào fùzé nǎ yí bùfen?*<br>
-   What project are you working on recently? Which part are you mainly responsible for?
+   What project have you been working on lately? Which part are you mainly responsible for?
 
 2. 乙：我在做一个新的客户项目，主要负责时间安排、会议记录和跟团队沟通。<br>
    *Yǐ: Wǒ zài zuò yí ge xīn de kèhù xiàngmù, zhǔyào fùzé shíjiān ānpái, huìyì jìlù hé gēn tuánduì gōutōng.*<br>
-   I’m working on a new client project, mainly responsible for scheduling, meeting notes, and communicating with the team.
+   I’m working on a new client project. I’m mainly responsible for scheduling, taking meeting notes, and communicating with the team.
 
 3. 甲：听起来事情不少。你一个人处理得过来吗？<br>
    *Jiǎ: Tīng qǐlái shìqing bù shǎo. Nǐ yí ge rén chǔlǐ de guòlái ma?*<br>
@@ -74,11 +74,11 @@ Without reopening `vocab.md`:
 
 1. 甲：你最近在做什么项目？平时主要负责哪一部分？<br>
    *Jiǎ: Nǐ zuìjìn zài zuò shénme xiàngmù? Píngshí zhǔyào fùzé nǎ yí bùfen?*<br>
-   What project are you working on recently? Which part are you mainly responsible for?
+   What project have you been working on lately? Which part are you mainly responsible for?
 
 2. 乙：我在做一个新的客户项目，主要负责时间安排、会议记录和跟团队沟通。<br>
    *Yǐ: Wǒ zài zuò yí ge xīn de kèhù xiàngmù, zhǔyào fùzé shíjiān ānpái, huìyì jìlù hé gēn tuánduì gōutōng.*<br>
-   I’m working on a new client project, mainly responsible for scheduling, meeting notes, and communicating with the team.
+   I’m working on a new client project. I’m mainly responsible for scheduling, taking meeting notes, and communicating with the team.
 
 3. 甲：听起来事情不少。你一个人处理得过来吗？<br>
    *Jiǎ: Tīng qǐlái shìqing bù shǎo. Nǐ yí ge rén chǔlǐ de guòlái ma?*<br>
@@ -86,7 +86,7 @@ Without reopening `vocab.md`:
 
 4. 乙：大部分可以，不过如果进度太赶，我还是会请同事帮忙。<br>
    *Yǐ: Dà bùfen kěyǐ, búguò rúguǒ jìndù tài gǎn, wǒ háishi huì qǐng tóngshì bāngmáng.*<br>
-   For the most part, yes, but if the schedule gets too tight, I’ll still ask colleagues for help.
+   For the most part, yes, but if the timeline gets too tight, I’ll still ask colleagues for help.
 
 </details>
 
@@ -105,15 +105,15 @@ Answer in complete Mandarin sentences.
 
 1. 乙：我在做一个新的客户项目，主要负责时间安排、会议记录和跟团队沟通。<br>
    *Yǐ: Wǒ zài zuò yí ge xīn de kèhù xiàngmù, zhǔyào fùzé shíjiān ānpái, huìyì jìlù hé gēn tuánduì gōutōng.*<br>
-   I’m working on a new client project, mainly responsible for scheduling, meeting notes, and communicating with the team.
+   I’m working on a new client project. I’m mainly responsible for scheduling, taking meeting notes, and communicating with the team.
 
 2. 乙：大部分可以，不过如果进度太赶，我还是会请同事帮忙。<br>
    *Yǐ: Dà bùfen kěyǐ, búguò rúguǒ jìndù tài gǎn, wǒ háishi huì qǐng tóngshì bāngmáng.*<br>
-   For the most part, yes, but if the schedule gets too tight, I’ll still ask colleagues for help.
+   For the most part, yes, but if the timeline gets too tight, I’ll still ask colleagues for help.
 
 3. 乙：大部分可以，不过如果进度太赶，我还是会请同事帮忙。<br>
    *Yǐ: Dà bùfen kěyǐ, búguò rúguǒ jìndù tài gǎn, wǒ háishi huì qǐng tóngshì bāngmáng.*<br>
-   For the most part, yes, but if the schedule gets too tight, I’ll still ask colleagues for help.
+   For the most part, yes, but if the timeline gets too tight, I’ll still ask colleagues for help.
 
 </details>
 
@@ -121,10 +121,10 @@ Answer in complete Mandarin sentences.
 
 Translate before opening the support panel.
 
-1. What project are you working on recently? Which part are you mainly responsible for?
-2. I’m working on a new client project, mainly responsible for scheduling, meeting notes, and communicating with the team.
+1. What project have you been working on lately? Which part are you mainly responsible for?
+2. I’m working on a new client project. I’m mainly responsible for scheduling, taking meeting notes, and communicating with the team.
 3. That sounds like quite a lot. Can you handle it all by yourself?
-4. For the most part, yes, but if the schedule gets too tight, I’ll still ask colleagues for help.
+4. For the most part, yes, but if the timeline gets too tight, I’ll still ask colleagues for help.
 
 <details>
 <summary>Show pinyin, English, and model answers</summary>
@@ -133,11 +133,11 @@ Translate before opening the support panel.
 
 1. 甲：你最近在做什么项目？平时主要负责哪一部分？<br>
    *Jiǎ: Nǐ zuìjìn zài zuò shénme xiàngmù? Píngshí zhǔyào fùzé nǎ yí bùfen?*<br>
-   What project are you working on recently? Which part are you mainly responsible for?
+   What project have you been working on lately? Which part are you mainly responsible for?
 
 2. 乙：我在做一个新的客户项目，主要负责时间安排、会议记录和跟团队沟通。<br>
    *Yǐ: Wǒ zài zuò yí ge xīn de kèhù xiàngmù, zhǔyào fùzé shíjiān ānpái, huìyì jìlù hé gēn tuánduì gōutōng.*<br>
-   I’m working on a new client project, mainly responsible for scheduling, meeting notes, and communicating with the team.
+   I’m working on a new client project. I’m mainly responsible for scheduling, taking meeting notes, and communicating with the team.
 
 3. 甲：听起来事情不少。你一个人处理得过来吗？<br>
    *Jiǎ: Tīng qǐlái shìqing bù shǎo. Nǐ yí ge rén chǔlǐ de guòlái ma?*<br>
@@ -145,13 +145,13 @@ Translate before opening the support panel.
 
 4. 乙：大部分可以，不过如果进度太赶，我还是会请同事帮忙。<br>
    *Yǐ: Dà bùfen kěyǐ, búguò rúguǒ jìndù tài gǎn, wǒ háishi huì qǐng tóngshì bāngmáng.*<br>
-   For the most part, yes, but if the schedule gets too tight, I’ll still ask colleagues for help.
+   For the most part, yes, but if the timeline gets too tight, I’ll still ask colleagues for help.
 
 </details>
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 1. Introduce your job in 3–4 sentences.
 2. Use ≥4 words: 公司 / 工作 / 负责 / 项目
@@ -160,7 +160,7 @@ Complete the original production tasks from the unit plan:
 Then:
 
 1. Retell the dialogue in three or four connected Mandarin sentences.
-2. Roleplay “负责什么工作？(Responsibilities at work)”; change one detail so the first response no longer works.
+2. Roleplay “负责什么工作？ (Responsibilities at work)”; change one detail so the first response no longer works.
 3. Ask one natural question back.
 
 <details>
@@ -170,7 +170,7 @@ Then:
 
 1. 乙：我在做一个新的客户项目，主要负责时间安排、会议记录和跟团队沟通。<br>
    *Yǐ: Wǒ zài zuò yí ge xīn de kèhù xiàngmù, zhǔyào fùzé shíjiān ānpái, huìyì jìlù hé gēn tuánduì gōutōng.*<br>
-   I’m working on a new client project, mainly responsible for scheduling, meeting notes, and communicating with the team.
+   I’m working on a new client project. I’m mainly responsible for scheduling, taking meeting notes, and communicating with the team.
 
 2. 甲：听起来事情不少。你一个人处理得过来吗？<br>
    *Jiǎ: Tīng qǐlái shìqing bù shǎo. Nǐ yí ge rén chǔlǐ de guòlái ma?*<br>
@@ -178,7 +178,7 @@ Then:
 
 3. 乙：大部分可以，不过如果进度太赶，我还是会请同事帮忙。<br>
    *Yǐ: Dà bùfen kěyǐ, búguò rúguǒ jìndù tài gǎn, wǒ háishi huì qǐng tóngshì bāngmáng.*<br>
-   For the most part, yes, but if the schedule gets too tight, I’ll still ask colleagues for help.
+   For the most part, yes, but if the timeline gets too tight, I’ll still ask colleagues for help.
 
 </details>
 
@@ -193,15 +193,15 @@ Without notes, summarize today’s situation in three connected sentences. Use a
 
 1. 甲：你最近在做什么项目？平时主要负责哪一部分？<br>
    *Jiǎ: Nǐ zuìjìn zài zuò shénme xiàngmù? Píngshí zhǔyào fùzé nǎ yí bùfen?*<br>
-   What project are you working on recently? Which part are you mainly responsible for?
+   What project have you been working on lately? Which part are you mainly responsible for?
 
 2. 乙：我在做一个新的客户项目，主要负责时间安排、会议记录和跟团队沟通。<br>
    *Yǐ: Wǒ zài zuò yí ge xīn de kèhù xiàngmù, zhǔyào fùzé shíjiān ānpái, huìyì jìlù hé gēn tuánduì gōutōng.*<br>
-   I’m working on a new client project, mainly responsible for scheduling, meeting notes, and communicating with the team.
+   I’m working on a new client project. I’m mainly responsible for scheduling, taking meeting notes, and communicating with the team.
 
 3. 乙：大部分可以，不过如果进度太赶，我还是会请同事帮忙。<br>
    *Yǐ: Dà bùfen kěyǐ, búguò rúguǒ jìndù tài gǎn, wǒ háishi huì qǐng tóngshì bāngmáng.*<br>
-   For the most part, yes, but if the schedule gets too tight, I’ll still ask colleagues for help.
+   For the most part, yes, but if the timeline gets too tight, I’ll still ask colleagues for help.
 
 </details>
 
@@ -238,7 +238,7 @@ Without reopening `vocab.md`:
 
 3. 甲：如果你需要，我可以先帮你看结构，再一起讨论重点。<br>
    *Jiǎ: Rúguǒ nǐ xūyào, wǒ kěyǐ xiān bāng nǐ kàn jiégòu, zài yìqǐ tǎolùn zhòngdiǎn.*<br>
-   If you need, I can first help you review the structure and then discuss the key points together.
+   If you need help, I can first review the structure with you and then discuss the key points together.
 
 </details>
 
@@ -274,7 +274,7 @@ Without reopening `vocab.md`:
 
 3. 甲：如果你需要，我可以先帮你看结构，再一起讨论重点。<br>
    *Jiǎ: Rúguǒ nǐ xūyào, wǒ kěyǐ xiān bāng nǐ kàn jiégòu, zài yìqǐ tǎolùn zhòngdiǎn.*<br>
-   If you need, I can first help you review the structure and then discuss the key points together.
+   If you need help, I can first review the structure with you and then discuss the key points together.
 
 4. 乙：太好了。这样我就能提前把最后一版准备好，不会开会前才着急。<br>
    *Yǐ: Tài hǎo le. Zhèyàng wǒ jiù néng tíqián bǎ zuìhòu yì bǎn zhǔnbèi hǎo, bú huì kāihuì qián cái zháojí.*<br>
@@ -301,7 +301,7 @@ Answer in complete Mandarin sentences.
 
 2. 甲：如果你需要，我可以先帮你看结构，再一起讨论重点。<br>
    *Jiǎ: Rúguǒ nǐ xūyào, wǒ kěyǐ xiān bāng nǐ kàn jiégòu, zài yìqǐ tǎolùn zhòngdiǎn.*<br>
-   If you need, I can first help you review the structure and then discuss the key points together.
+   If you need help, I can first review the structure with you and then discuss the key points together.
 
 3. 乙：太好了。这样我就能提前把最后一版准备好，不会开会前才着急。<br>
    *Yǐ: Tài hǎo le. Zhèyàng wǒ jiù néng tíqián bǎ zuìhòu yì bǎn zhǔnbèi hǎo, bú huì kāihuì qián cái zháojí.*<br>
@@ -315,7 +315,7 @@ Translate before opening the support panel.
 
 1. This afternoon’s meeting is important. How is your preparation going?
 2. The report is almost finished, but there are two pages of data I still want to confirm.
-3. If you need, I can first help you review the structure and then discuss the key points together.
+3. If you need help, I can first review the structure with you and then discuss the key points together.
 4. That would be great. Then I can get the final version ready in advance and won’t be rushing right before the meeting.
 
 <details>
@@ -333,7 +333,7 @@ Translate before opening the support panel.
 
 3. 甲：如果你需要，我可以先帮你看结构，再一起讨论重点。<br>
    *Jiǎ: Rúguǒ nǐ xūyào, wǒ kěyǐ xiān bāng nǐ kàn jiégòu, zài yìqǐ tǎolùn zhòngdiǎn.*<br>
-   If you need, I can first help you review the structure and then discuss the key points together.
+   If you need help, I can first review the structure with you and then discuss the key points together.
 
 4. 乙：太好了。这样我就能提前把最后一版准备好，不会开会前才着急。<br>
    *Yǐ: Tài hǎo le. Zhèyàng wǒ jiù néng tíqián bǎ zuìhòu yì bǎn zhǔnbèi hǎo, bú huì kāihuì qián cái zháojí.*<br>
@@ -343,7 +343,7 @@ Translate before opening the support panel.
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 1. Ask and answer when the meeting is (include 今天/明天/现在), and add one preparation step.
 2. Use ≥4 words: 什么时候 / 开会 / 重要 / 老板
@@ -365,7 +365,7 @@ Then:
 
 2. 甲：如果你需要，我可以先帮你看结构，再一起讨论重点。<br>
    *Jiǎ: Rúguǒ nǐ xūyào, wǒ kěyǐ xiān bāng nǐ kàn jiégòu, zài yìqǐ tǎolùn zhòngdiǎn.*<br>
-   If you need, I can first help you review the structure and then discuss the key points together.
+   If you need help, I can first review the structure with you and then discuss the key points together.
 
 3. 乙：太好了。这样我就能提前把最后一版准备好，不会开会前才着急。<br>
    *Yǐ: Tài hǎo le. Zhèyàng wǒ jiù néng tíqián bǎ zuìhòu yì bǎn zhǔnbèi hǎo, bú huì kāihuì qián cái zháojí.*<br>
@@ -430,7 +430,7 @@ Without reopening `vocab.md`:
 
 3. 甲：你觉得今天能结束吗？如果不行，我们要早点调整安排。<br>
    *Jiǎ: Nǐ juéde jīntiān néng jiéshù ma? Rúguǒ bù xíng, wǒmen yào zǎodiǎn tiáozhěng ānpái.*<br>
-   Do you think you can finish today? If not, we need to adjust the schedule earlier.
+   Do you think you can finish today? If not, we need to adjust the plan as soon as possible.
 
 </details>
 
@@ -466,7 +466,7 @@ Without reopening `vocab.md`:
 
 3. 甲：你觉得今天能结束吗？如果不行，我们要早点调整安排。<br>
    *Jiǎ: Nǐ juéde jīntiān néng jiéshù ma? Rúguǒ bù xíng, wǒmen yào zǎodiǎn tiáozhěng ānpái.*<br>
-   Do you think you can finish today? If not, we need to adjust the schedule earlier.
+   Do you think you can finish today? If not, we need to adjust the plan as soon as possible.
 
 4. 乙：我应该能完成。虽然时间有点赶，但是我今晚继续做，明早再检查一次。<br>
    *Yǐ: Wǒ yīnggāi néng wánchéng. Suīrán shíjiān yǒudiǎnr gǎn, dànshì wǒ jīnwǎn jìxù zuò, míngzǎo zài jiǎnchá yí cì.*<br>
@@ -497,7 +497,7 @@ Answer in complete Mandarin sentences.
 
 3. 甲：你觉得今天能结束吗？如果不行，我们要早点调整安排。<br>
    *Jiǎ: Nǐ juéde jīntiān néng jiéshù ma? Rúguǒ bù xíng, wǒmen yào zǎodiǎn tiáozhěng ānpái.*<br>
-   Do you think you can finish today? If not, we need to adjust the schedule earlier.
+   Do you think you can finish today? If not, we need to adjust the plan as soon as possible.
 
 </details>
 
@@ -507,7 +507,7 @@ Translate before opening the support panel.
 
 1. The deadline for this task is tomorrow afternoon. How far along are you now?
 2. The main body is already finished, but one part of the explanation isn’t done yet and still needs a bit more revision.
-3. Do you think you can finish today? If not, we need to adjust the schedule earlier.
+3. Do you think you can finish today? If not, we need to adjust the plan as soon as possible.
 4. I should be able to finish. Although time is a bit tight, I’ll continue tonight and check it once more tomorrow morning.
 
 <details>
@@ -525,7 +525,7 @@ Translate before opening the support panel.
 
 3. 甲：你觉得今天能结束吗？如果不行，我们要早点调整安排。<br>
    *Jiǎ: Nǐ juéde jīntiān néng jiéshù ma? Rúguǒ bù xíng, wǒmen yào zǎodiǎn tiáozhěng ānpái.*<br>
-   Do you think you can finish today? If not, we need to adjust the schedule earlier.
+   Do you think you can finish today? If not, we need to adjust the plan as soon as possible.
 
 4. 乙：我应该能完成。虽然时间有点赶，但是我今晚继续做，明早再检查一次。<br>
    *Yǐ: Wǒ yīnggāi néng wánchéng. Suīrán shíjiān yǒudiǎnr gǎn, dànshì wǒ jīnwǎn jìxù zuò, míngzǎo zài jiǎnchá yí cì.*<br>
@@ -535,7 +535,7 @@ Translate before opening the support panel.
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 1. Tell GPT your progress: what you finished, what you haven’t finished, and what you will do next.
 2. Use ≥5 words: 完成 / 需要 / 时间 / 应该 / 可以
@@ -557,7 +557,7 @@ Then:
 
 2. 甲：你觉得今天能结束吗？如果不行，我们要早点调整安排。<br>
    *Jiǎ: Nǐ juéde jīntiān néng jiéshù ma? Rúguǒ bù xíng, wǒmen yào zǎodiǎn tiáozhěng ānpái.*<br>
-   Do you think you can finish today? If not, we need to adjust the schedule earlier.
+   Do you think you can finish today? If not, we need to adjust the plan as soon as possible.
 
 3. 乙：我应该能完成。虽然时间有点赶，但是我今晚继续做，明早再检查一次。<br>
    *Yǐ: Wǒ yīnggāi néng wánchéng. Suīrán shíjiān yǒudiǎnr gǎn, dànshì wǒ jīnwǎn jìxù zuò, míngzǎo zài jiǎnchá yí cì.*<br>
@@ -617,11 +617,11 @@ Without reopening `vocab.md`:
 
 2. 甲：改动大吗？如果只是小地方，我们今天应该还能处理完。<br>
    *Jiǎ: Gǎidòng dà ma? Rúguǒ zhǐshì xiǎo dìfang, wǒmen jīntiān yīnggāi hái néng chǔlǐ wán.*<br>
-   Is the change big? If it’s only small parts, we should still be able to finish today.
+   Is the change big? If they’re only small changes, we should still be able to finish today.
 
 3. 乙：一个不大，另一个需要再讨论一下方案，所以我想先跟团队开个短会。<br>
    *Yǐ: Yí ge bú dà, lìng yí ge xūyào zài tǎolùn yíxià fāng'àn, suǒyǐ wǒ xiǎng xiān gēn tuánduì kāi ge duǎn huì.*<br>
-   One isn’t big, but the other needs a bit more discussion about the plan, so I want to have a short meeting with the team first.
+   One is minor, but we need to discuss the approach for the other, so I want to have a short meeting with the team first.
 
 </details>
 
@@ -653,11 +653,11 @@ Without reopening `vocab.md`:
 
 2. 甲：改动大吗？如果只是小地方，我们今天应该还能处理完。<br>
    *Jiǎ: Gǎidòng dà ma? Rúguǒ zhǐshì xiǎo dìfang, wǒmen jīntiān yīnggāi hái néng chǔlǐ wán.*<br>
-   Is the change big? If it’s only small parts, we should still be able to finish today.
+   Is the change big? If they’re only small changes, we should still be able to finish today.
 
 3. 乙：一个不大，另一个需要再讨论一下方案，所以我想先跟团队开个短会。<br>
    *Yǐ: Yí ge bú dà, lìng yí ge xūyào zài tǎolùn yíxià fāng'àn, suǒyǐ wǒ xiǎng xiān gēn tuánduì kāi ge duǎn huì.*<br>
-   One isn’t big, but the other needs a bit more discussion about the plan, so I want to have a short meeting with the team first.
+   One is minor, but we need to discuss the approach for the other, so I want to have a short meeting with the team first.
 
 4. 甲：好，你先整理重点，我去联系同事。十五分钟后我们一起讨论。<br>
    *Jiǎ: Hǎo, nǐ xiān zhěnglǐ zhòngdiǎn, wǒ qù liánxì tóngshì. Shíwǔ fēnzhōng hòu wǒmen yìqǐ tǎolùn.*<br>
@@ -684,11 +684,11 @@ Answer in complete Mandarin sentences.
 
 2. 乙：一个不大，另一个需要再讨论一下方案，所以我想先跟团队开个短会。<br>
    *Yǐ: Yí ge bú dà, lìng yí ge xūyào zài tǎolùn yíxià fāng'àn, suǒyǐ wǒ xiǎng xiān gēn tuánduì kāi ge duǎn huì.*<br>
-   One isn’t big, but the other needs a bit more discussion about the plan, so I want to have a short meeting with the team first.
+   One is minor, but we need to discuss the approach for the other, so I want to have a short meeting with the team first.
 
 3. 乙：一个不大，另一个需要再讨论一下方案，所以我想先跟团队开个短会。<br>
    *Yǐ: Yí ge bú dà, lìng yí ge xūyào zài tǎolùn yíxià fāng'àn, suǒyǐ wǒ xiǎng xiān gēn tuánduì kāi ge duǎn huì.*<br>
-   One isn’t big, but the other needs a bit more discussion about the plan, so I want to have a short meeting with the team first.
+   One is minor, but we need to discuss the approach for the other, so I want to have a short meeting with the team first.
 
 </details>
 
@@ -697,8 +697,8 @@ Answer in complete Mandarin sentences.
 Translate before opening the support panel.
 
 1. A temporary problem came up on my side. The client just sent an email saying they want to change two requirements.
-2. Is the change big? If it’s only small parts, we should still be able to finish today.
-3. One isn’t big, but the other needs a bit more discussion about the plan, so I want to have a short meeting with the team first.
+2. Is the change big? If they’re only small changes, we should still be able to finish today.
+3. One is minor, but we need to discuss the approach for the other, so I want to have a short meeting with the team first.
 4. Okay. You organize the key points first, and I’ll contact the colleagues. We’ll discuss it together in fifteen minutes.
 
 <details>
@@ -712,11 +712,11 @@ Translate before opening the support panel.
 
 2. 甲：改动大吗？如果只是小地方，我们今天应该还能处理完。<br>
    *Jiǎ: Gǎidòng dà ma? Rúguǒ zhǐshì xiǎo dìfang, wǒmen jīntiān yīnggāi hái néng chǔlǐ wán.*<br>
-   Is the change big? If it’s only small parts, we should still be able to finish today.
+   Is the change big? If they’re only small changes, we should still be able to finish today.
 
 3. 乙：一个不大，另一个需要再讨论一下方案，所以我想先跟团队开个短会。<br>
    *Yǐ: Yí ge bú dà, lìng yí ge xūyào zài tǎolùn yíxià fāng'àn, suǒyǐ wǒ xiǎng xiān gēn tuánduì kāi ge duǎn huì.*<br>
-   One isn’t big, but the other needs a bit more discussion about the plan, so I want to have a short meeting with the team first.
+   One is minor, but we need to discuss the approach for the other, so I want to have a short meeting with the team first.
 
 4. 甲：好，你先整理重点，我去联系同事。十五分钟后我们一起讨论。<br>
    *Jiǎ: Hǎo, nǐ xiān zhěnglǐ zhòngdiǎn, wǒ qù liánxì tóngshì. Shíwǔ fēnzhōng hòu wǒmen yìqǐ tǎolùn.*<br>
@@ -726,7 +726,7 @@ Translate before opening the support panel.
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 1. Ask for help with a “problem,” specify what you need, and say why it matters.
 2. Use ≥4 words: 问题 / 帮忙 / 需要 / 解释
@@ -744,11 +744,11 @@ Then:
 
 1. 甲：改动大吗？如果只是小地方，我们今天应该还能处理完。<br>
    *Jiǎ: Gǎidòng dà ma? Rúguǒ zhǐshì xiǎo dìfang, wǒmen jīntiān yīnggāi hái néng chǔlǐ wán.*<br>
-   Is the change big? If it’s only small parts, we should still be able to finish today.
+   Is the change big? If they’re only small changes, we should still be able to finish today.
 
 2. 乙：一个不大，另一个需要再讨论一下方案，所以我想先跟团队开个短会。<br>
    *Yǐ: Yí ge bú dà, lìng yí ge xūyào zài tǎolùn yíxià fāng'àn, suǒyǐ wǒ xiǎng xiān gēn tuánduì kāi ge duǎn huì.*<br>
-   One isn’t big, but the other needs a bit more discussion about the plan, so I want to have a short meeting with the team first.
+   One is minor, but we need to discuss the approach for the other, so I want to have a short meeting with the team first.
 
 3. 甲：好，你先整理重点，我去联系同事。十五分钟后我们一起讨论。<br>
    *Jiǎ: Hǎo, nǐ xiān zhěnglǐ zhòngdiǎn, wǒ qù liánxì tóngshì. Shíwǔ fēnzhōng hòu wǒmen yìqǐ tǎolùn.*<br>
@@ -771,7 +771,7 @@ Without notes, summarize today’s situation in three connected sentences. Use a
 
 2. 甲：改动大吗？如果只是小地方，我们今天应该还能处理完。<br>
    *Jiǎ: Gǎidòng dà ma? Rúguǒ zhǐshì xiǎo dìfang, wǒmen jīntiān yīnggāi hái néng chǔlǐ wán.*<br>
-   Is the change big? If it’s only small parts, we should still be able to finish today.
+   Is the change big? If they’re only small changes, we should still be able to finish today.
 
 3. 甲：好，你先整理重点，我去联系同事。十五分钟后我们一起讨论。<br>
    *Jiǎ: Hǎo, nǐ xiān zhěnglǐ zhòngdiǎn, wǒ qù liánxì tóngshì. Shíwǔ fēnzhōng hòu wǒmen yìqǐ tǎolùn.*<br>
@@ -806,9 +806,9 @@ Without reopening `vocab.md`:
    *Yǐ: Lǎobǎn, wǒ xiǎng tíqián gēn nín shuō yì shēng, wǒ xià zhōu yī kěnéng xūyào qǐngjià bàn tiān.*<br>
    Boss, I wanted to tell you in advance that I may need to take half a day off next Monday.
 
-2. 老板：可以，不过你负责的那个项目最近很关键。你已经安排好了吗？<br>
-   *Lǎobǎn: Kěyǐ, búguò nǐ fùzé de nà ge xiàngmù zuìjìn hěn guānjiàn. Nǐ yǐjīng ānpái hǎo le ma?*<br>
-   That’s okay, but the project you’re responsible for is in an important stage recently. Have you arranged everything already?
+2. 老板：可以，不过你负责的那个项目最近正处在关键阶段。你已经安排好了吗？<br>
+   *Lǎobǎn: Kěyǐ, búguò nǐ fùzé de nà ge xiàngmù zuìjìn zhèng chǔ zài guānjiàn jiēduàn. Nǐ yǐjīng ānpái hǎo le ma?*<br>
+   That’s okay, but the project you’re responsible for is at a critical stage right now. Have you arranged everything already?
 
 3. 乙：我已经把主要任务列出来了，也跟团队说过。如果有临时问题，我会先回复邮件。<br>
    *Yǐ: Wǒ yǐjīng bǎ zhǔyào rènwu liè chūlái le, yě gēn tuánduì shuō guò. Rúguǒ yǒu línshí wèntí, wǒ huì xiān huífù yóujiàn.*<br>
@@ -819,7 +819,7 @@ Without reopening `vocab.md`:
 ### 2. Read first: characters only
 
 - 乙：老板，我想提前跟您说一声，我下周一可能需要请假半天。
-- 老板：可以，不过你负责的那个项目最近很关键。你已经安排好了吗？
+- 老板：可以，不过你负责的那个项目最近正处在关键阶段。你已经安排好了吗？
 - 乙：我已经把主要任务列出来了，也跟团队说过。如果有临时问题，我会先回复邮件。
 - 老板：那就好。只要进度不要受太大影响，半天假没有问题。
 
@@ -842,9 +842,9 @@ Without reopening `vocab.md`:
    *Yǐ: Lǎobǎn, wǒ xiǎng tíqián gēn nín shuō yì shēng, wǒ xià zhōu yī kěnéng xūyào qǐngjià bàn tiān.*<br>
    Boss, I wanted to tell you in advance that I may need to take half a day off next Monday.
 
-2. 老板：可以，不过你负责的那个项目最近很关键。你已经安排好了吗？<br>
-   *Lǎobǎn: Kěyǐ, búguò nǐ fùzé de nà ge xiàngmù zuìjìn hěn guānjiàn. Nǐ yǐjīng ānpái hǎo le ma?*<br>
-   That’s okay, but the project you’re responsible for is in an important stage recently. Have you arranged everything already?
+2. 老板：可以，不过你负责的那个项目最近正处在关键阶段。你已经安排好了吗？<br>
+   *Lǎobǎn: Kěyǐ, búguò nǐ fùzé de nà ge xiàngmù zuìjìn zhèng chǔ zài guānjiàn jiēduàn. Nǐ yǐjīng ānpái hǎo le ma?*<br>
+   That’s okay, but the project you’re responsible for is at a critical stage right now. Have you arranged everything already?
 
 3. 乙：我已经把主要任务列出来了，也跟团队说过。如果有临时问题，我会先回复邮件。<br>
    *Yǐ: Wǒ yǐjīng bǎ zhǔyào rènwu liè chūlái le, yě gēn tuánduì shuō guò. Rúguǒ yǒu línshí wèntí, wǒ huì xiān huífù yóujiàn.*<br>
@@ -869,9 +869,9 @@ Answer in complete Mandarin sentences.
 
 #### Dialogue questions — Model evidence
 
-1. 老板：可以，不过你负责的那个项目最近很关键。你已经安排好了吗？<br>
-   *Lǎobǎn: Kěyǐ, búguò nǐ fùzé de nà ge xiàngmù zuìjìn hěn guānjiàn. Nǐ yǐjīng ānpái hǎo le ma?*<br>
-   That’s okay, but the project you’re responsible for is in an important stage recently. Have you arranged everything already?
+1. 老板：可以，不过你负责的那个项目最近正处在关键阶段。你已经安排好了吗？<br>
+   *Lǎobǎn: Kěyǐ, búguò nǐ fùzé de nà ge xiàngmù zuìjìn zhèng chǔ zài guānjiàn jiēduàn. Nǐ yǐjīng ānpái hǎo le ma?*<br>
+   That’s okay, but the project you’re responsible for is at a critical stage right now. Have you arranged everything already?
 
 2. 乙：老板，我想提前跟您说一声，我下周一可能需要请假半天。<br>
    *Yǐ: Lǎobǎn, wǒ xiǎng tíqián gēn nín shuō yì shēng, wǒ xià zhōu yī kěnéng xūyào qǐngjià bàn tiān.*<br>
@@ -888,7 +888,7 @@ Answer in complete Mandarin sentences.
 Translate before opening the support panel.
 
 1. Boss, I wanted to tell you in advance that I may need to take half a day off next Monday.
-2. That’s okay, but the project you’re responsible for is in an important stage recently. Have you arranged everything already?
+2. That’s okay, but the project you’re responsible for is at a critical stage right now. Have you arranged everything already?
 3. I’ve already listed the main tasks and also told the team. If there’s a temporary problem, I’ll reply to emails first.
 4. That’s good. As long as the progress isn’t affected too much, taking half a day off is fine.
 
@@ -901,9 +901,9 @@ Translate before opening the support panel.
    *Yǐ: Lǎobǎn, wǒ xiǎng tíqián gēn nín shuō yì shēng, wǒ xià zhōu yī kěnéng xūyào qǐngjià bàn tiān.*<br>
    Boss, I wanted to tell you in advance that I may need to take half a day off next Monday.
 
-2. 老板：可以，不过你负责的那个项目最近很关键。你已经安排好了吗？<br>
-   *Lǎobǎn: Kěyǐ, búguò nǐ fùzé de nà ge xiàngmù zuìjìn hěn guānjiàn. Nǐ yǐjīng ānpái hǎo le ma?*<br>
-   That’s okay, but the project you’re responsible for is in an important stage recently. Have you arranged everything already?
+2. 老板：可以，不过你负责的那个项目最近正处在关键阶段。你已经安排好了吗？<br>
+   *Lǎobǎn: Kěyǐ, búguò nǐ fùzé de nà ge xiàngmù zuìjìn zhèng chǔ zài guānjiàn jiēduàn. Nǐ yǐjīng ānpái hǎo le ma?*<br>
+   That’s okay, but the project you’re responsible for is at a critical stage right now. Have you arranged everything already?
 
 3. 乙：我已经把主要任务列出来了，也跟团队说过。如果有临时问题，我会先回复邮件。<br>
    *Yǐ: Wǒ yǐjīng bǎ zhǔyào rènwu liè chūlái le, yě gēn tuánduì shuō guò. Rúguǒ yǒu línshí wèntí, wǒ huì xiān huífù yóujiàn.*<br>
@@ -917,7 +917,7 @@ Translate before opening the support panel.
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 1. Roleplay: ask the boss for leave, promise a plan to finish tasks, and handle one follow-up question.
 2. Use ≥6 earlier words (Day 1–3).
@@ -933,9 +933,9 @@ Then:
 
 #### Create and speak — Reusable model lines
 
-1. 老板：可以，不过你负责的那个项目最近很关键。你已经安排好了吗？<br>
-   *Lǎobǎn: Kěyǐ, búguò nǐ fùzé de nà ge xiàngmù zuìjìn hěn guānjiàn. Nǐ yǐjīng ānpái hǎo le ma?*<br>
-   That’s okay, but the project you’re responsible for is in an important stage recently. Have you arranged everything already?
+1. 老板：可以，不过你负责的那个项目最近正处在关键阶段。你已经安排好了吗？<br>
+   *Lǎobǎn: Kěyǐ, búguò nǐ fùzé de nà ge xiàngmù zuìjìn zhèng chǔ zài guānjiàn jiēduàn. Nǐ yǐjīng ānpái hǎo le ma?*<br>
+   That’s okay, but the project you’re responsible for is at a critical stage right now. Have you arranged everything already?
 
 2. 乙：我已经把主要任务列出来了，也跟团队说过。如果有临时问题，我会先回复邮件。<br>
    *Yǐ: Wǒ yǐjīng bǎ zhǔyào rènwu liè chūlái le, yě gēn tuánduì shuō guò. Rúguǒ yǒu línshí wèntí, wǒ huì xiān huífù yóujiàn.*<br>
@@ -960,9 +960,9 @@ Without notes, summarize today’s situation in three connected sentences. Use a
    *Yǐ: Lǎobǎn, wǒ xiǎng tíqián gēn nín shuō yì shēng, wǒ xià zhōu yī kěnéng xūyào qǐngjià bàn tiān.*<br>
    Boss, I wanted to tell you in advance that I may need to take half a day off next Monday.
 
-2. 老板：可以，不过你负责的那个项目最近很关键。你已经安排好了吗？<br>
-   *Lǎobǎn: Kěyǐ, búguò nǐ fùzé de nà ge xiàngmù zuìjìn hěn guānjiàn. Nǐ yǐjīng ānpái hǎo le ma?*<br>
-   That’s okay, but the project you’re responsible for is in an important stage recently. Have you arranged everything already?
+2. 老板：可以，不过你负责的那个项目最近正处在关键阶段。你已经安排好了吗？<br>
+   *Lǎobǎn: Kěyǐ, búguò nǐ fùzé de nà ge xiàngmù zuìjìn zhèng chǔ zài guānjiàn jiēduàn. Nǐ yǐjīng ānpái hǎo le ma?*<br>
+   That’s okay, but the project you’re responsible for is at a critical stage right now. Have you arranged everything already?
 
 3. 老板：那就好。只要进度不要受太大影响，半天假没有问题。<br>
    *Lǎobǎn: Nà jiù hǎo. Zhǐyào jìndù bú yào shòu tài dà yǐngxiǎng, bàn tiān jià méiyǒu wèntí.*<br>
@@ -1003,7 +1003,7 @@ Without reopening `vocab.md`:
 
 3. 甲：很好。如果客户晚上之前回复，我们明天一早就能继续处理。<br>
    *Jiǎ: Hěn hǎo. Rúguǒ kèhù wǎnshang zhīqián huífù, wǒmen míngtiān yìzǎo jiù néng jìxù chǔlǐ.*<br>
-   Very good. If the client replies before tonight, we’ll be able to continue handling it early tomorrow.
+   Very good. If the client replies by this evening, we’ll be able to continue working on it early tomorrow.
 
 </details>
 
@@ -1039,7 +1039,7 @@ Without reopening `vocab.md`:
 
 3. 甲：很好。如果客户晚上之前回复，我们明天一早就能继续处理。<br>
    *Jiǎ: Hěn hǎo. Rúguǒ kèhù wǎnshang zhīqián huífù, wǒmen míngtiān yìzǎo jiù néng jìxù chǔlǐ.*<br>
-   Very good. If the client replies before tonight, we’ll be able to continue handling it early tomorrow.
+   Very good. If the client replies by this evening, we’ll be able to continue working on it early tomorrow.
 
 4. 乙：明白。我发完邮件以后也会再检查一次进度，免得漏掉重要的事。<br>
    *Yǐ: Míngbai. Wǒ fā wán yóujiàn yǐhòu yě huì zài jiǎnchá yí cì jìndù, miǎnde lòudiào zhòngyào de shì.*<br>
@@ -1066,7 +1066,7 @@ Answer in complete Mandarin sentences.
 
 2. 甲：很好。如果客户晚上之前回复，我们明天一早就能继续处理。<br>
    *Jiǎ: Hěn hǎo. Rúguǒ kèhù wǎnshang zhīqián huífù, wǒmen míngtiān yìzǎo jiù néng jìxù chǔlǐ.*<br>
-   Very good. If the client replies before tonight, we’ll be able to continue handling it early tomorrow.
+   Very good. If the client replies by this evening, we’ll be able to continue working on it early tomorrow.
 
 3. 乙：明白。我发完邮件以后也会再检查一次进度，免得漏掉重要的事。<br>
    *Yǐ: Míngbai. Wǒ fā wán yóujiàn yǐhòu yě huì zài jiǎnchá yí cì jìndù, miǎnde lòudiào zhòngyào de shì.*<br>
@@ -1080,7 +1080,7 @@ Translate before opening the support panel.
 
 1. After today’s meeting ends, can you send a summary email to the team?
 2. Sure. I’ll first clearly write out today’s discussion results, then explain each person’s next task.
-3. Very good. If the client replies before tonight, we’ll be able to continue handling it early tomorrow.
+3. Very good. If the client replies by this evening, we’ll be able to continue working on it early tomorrow.
 4. Understood. After sending the email, I’ll also check the progress once more so I don’t miss anything important.
 
 <details>
@@ -1098,7 +1098,7 @@ Translate before opening the support panel.
 
 3. 甲：很好。如果客户晚上之前回复，我们明天一早就能继续处理。<br>
    *Jiǎ: Hěn hǎo. Rúguǒ kèhù wǎnshang zhīqián huífù, wǒmen míngtiān yìzǎo jiù néng jìxù chǔlǐ.*<br>
-   Very good. If the client replies before tonight, we’ll be able to continue handling it early tomorrow.
+   Very good. If the client replies by this evening, we’ll be able to continue working on it early tomorrow.
 
 4. 乙：明白。我发完邮件以后也会再检查一次进度，免得漏掉重要的事。<br>
    *Yǐ: Míngbai. Wǒ fā wán yóujiàn yǐhòu yě huì zài jiǎnchá yí cì jìndù, miǎnde lòudiào zhòngyào de shì.*<br>
@@ -1108,7 +1108,7 @@ Translate before opening the support panel.
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 - You and GPT: meeting planning → task status → help request → email follow-up.
   - Constraints: 3–4 sentences/turn; reuse ≥8 ⭐ Core words; include at least 2 “如果…” sentences and one concrete next step.
@@ -1130,7 +1130,7 @@ Then:
 
 2. 甲：很好。如果客户晚上之前回复，我们明天一早就能继续处理。<br>
    *Jiǎ: Hěn hǎo. Rúguǒ kèhù wǎnshang zhīqián huífù, wǒmen míngtiān yìzǎo jiù néng jìxù chǔlǐ.*<br>
-   Very good. If the client replies before tonight, we’ll be able to continue handling it early tomorrow.
+   Very good. If the client replies by this evening, we’ll be able to continue working on it early tomorrow.
 
 3. 乙：明白。我发完邮件以后也会再检查一次进度，免得漏掉重要的事。<br>
    *Yǐ: Míngbai. Wǒ fā wán yóujiàn yǐhòu yě huì zài jiǎnchá yí cì jìndù, miǎnde lòudiào zhòngyào de shì.*<br>

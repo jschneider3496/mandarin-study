@@ -1,6 +1,6 @@
 # Unit 07 — Discussing Opinions: Practice Lessons (Day 1–6)
 
-This unit preserves all 40 targets in `vocab.md` and reorganizes the original readings and schedule around retrieval and production.
+This unit preserves all 40 targets in `vocab.md` and organizes each day around retrieval and production.
 
 ## Daily method (25–35 minutes)
 
@@ -13,7 +13,7 @@ This unit preserves all 40 targets in `vocab.md` and reorganizes the original re
 
 Each numbered section has a collapsed support panel. Do not open it until you have attempted the exercise.
 
-## Day 1 🟢 — 你的看法是什么？(What is your view?)
+## Day 1 🟢 — 你的看法是什么？ (What is your view?)
 
 - **Vocab focus:** #1–#10 (opinions, suggestions, agreement)
 - **Grammar targets:**
@@ -46,7 +46,7 @@ Without reopening `vocab.md`:
 
 3. 甲：你有什么建议？可以简单说一下吗？<br>
    *Jiǎ: Nǐ yǒu shénme jiànyì? Kěyǐ jiǎndān shuō yíxià ma?*<br>
-   Do you have any suggestions? Can you briefly say them?
+   Do you have any suggestions? Can you explain briefly?
 
 </details>
 
@@ -84,7 +84,7 @@ Without reopening `vocab.md`:
 
 3. 甲：你有什么建议？可以简单说一下吗？<br>
    *Jiǎ: Nǐ yǒu shénme jiànyì? Kěyǐ jiǎndān shuō yíxià ma?*<br>
-   Do you have any suggestions? Can you briefly say them?
+   Do you have any suggestions? Can you explain briefly?
 
 4. 乙：我建议先做最重要的部分，其他部分下周再讨论。<br>
    *Yǐ: Wǒ jiànyì xiān zuò zuì zhòngyào de bùfen, qítā bùfen xià zhōu zài tǎolùn.*<br>
@@ -133,7 +133,7 @@ Translate before opening the support panel.
 
 1. What is your view about this plan?
 2. I think the direction is right, but the timing is a bit tight.
-3. Do you have any suggestions? Can you briefly say them?
+3. Do you have any suggestions? Can you explain briefly?
 4. I suggest doing the most important part first and discussing the other parts next week.
 5. If we discuss it next week, will it affect progress?
 
@@ -152,7 +152,7 @@ Translate before opening the support panel.
 
 3. 甲：你有什么建议？可以简单说一下吗？<br>
    *Jiǎ: Nǐ yǒu shénme jiànyì? Kěyǐ jiǎndān shuō yíxià ma?*<br>
-   Do you have any suggestions? Can you briefly say them?
+   Do you have any suggestions? Can you explain briefly?
 
 4. 乙：我建议先做最重要的部分，其他部分下周再讨论。<br>
    *Yǐ: Wǒ jiànyì xiān zuò zuì zhòngyào de bùfen, qítā bùfen xià zhōu zài tǎolùn.*<br>
@@ -166,7 +166,7 @@ Translate before opening the support panel.
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 1. Give an opinion about a plan and suggest one change.
 2. Use ≥4 words: 看法 / 建议 / 讨论 / 问题
@@ -174,7 +174,7 @@ Complete the original production tasks from the unit plan:
 Then:
 
 1. Retell the dialogue in three or four connected Mandarin sentences.
-2. Roleplay “你的看法是什么？(What is your view?)”; change one detail so the first response no longer works.
+2. Roleplay “你的看法是什么？ (What is your view?)”; change one detail so the first response no longer works.
 3. Ask one natural question back.
 
 <details>
@@ -219,7 +219,7 @@ Without notes, summarize today’s situation in three connected sentences. Use a
 
 </details>
 
-## Day 2 🟢 — 我不是反对你 (I am not opposing you)
+## Day 2 🟢 — 我不是反对你 (I am not against you)
 
 - **Vocab focus:** #11–#20 (clear explanation, reasons, decisions)
 - **Grammar targets:**
@@ -248,7 +248,7 @@ Without reopening `vocab.md`:
 
 2. 甲：其实我不是反对你。我只是觉得原因还没有说清楚。<br>
    *Jiǎ: Qíshí wǒ bú shì fǎnduì nǐ. Wǒ zhǐshì juéde yuányīn hái méiyǒu shuō qīngchu.*<br>
-   Actually, I am not opposing you. I just feel the reason has not been explained clearly yet.
+   Actually, I am not against you. I just feel the reason has not been explained clearly yet.
 
 3. 乙：那我再详细说明一下。这个选择费用低，而且结果比较稳定。<br>
    *Yǐ: Nà wǒ zài xiángxì shuōmíng yíxià. Zhè ge xuǎnzé fèiyong dī, érqiě jiéguǒ bǐjiào wěndìng.*<br>
@@ -286,7 +286,7 @@ Without reopening `vocab.md`:
 
 2. 甲：其实我不是反对你。我只是觉得原因还没有说清楚。<br>
    *Jiǎ: Qíshí wǒ bú shì fǎnduì nǐ. Wǒ zhǐshì juéde yuányīn hái méiyǒu shuō qīngchu.*<br>
-   Actually, I am not opposing you. I just feel the reason has not been explained clearly yet.
+   Actually, I am not against you. I just feel the reason has not been explained clearly yet.
 
 3. 乙：那我再详细说明一下。这个选择费用低，而且结果比较稳定。<br>
    *Yǐ: Nà wǒ zài xiángxì shuōmíng yíxià. Zhè ge xuǎnzé fèiyong dī, érqiě jiéguǒ bǐjiào wěndìng.*<br>
@@ -298,7 +298,7 @@ Without reopening `vocab.md`:
 
 5. 乙：谢谢你直接说出来，不然我可能会继续误解。<br>
    *Yǐ: Xièxie nǐ zhíjiē shuō chūlái, bùrán wǒ kěnéng huì jìxù wùjiě.*<br>
-   Thanks for saying it directly, otherwise I might continue misunderstanding.
+   Thanks for saying that directly. Otherwise, I might have continued to misunderstand you.
 
 6. 甲：没关系。讨论的时候说清楚，比表面同意更重要。<br>
    *Jiǎ: Méi guānxi. Tǎolùn de shíhou shuō qīngchu, bǐ biǎomiàn tóngyì gèng zhòngyào.*<br>
@@ -325,7 +325,7 @@ Answer in complete Mandarin sentences.
 
 2. 甲：其实我不是反对你。我只是觉得原因还没有说清楚。<br>
    *Jiǎ: Qíshí wǒ bú shì fǎnduì nǐ. Wǒ zhǐshì juéde yuányīn hái méiyǒu shuō qīngchu.*<br>
-   Actually, I am not opposing you. I just feel the reason has not been explained clearly yet.
+   Actually, I am not against you. I just feel the reason has not been explained clearly yet.
 
 3. 乙：那我再详细说明一下。这个选择费用低，而且结果比较稳定。<br>
    *Yǐ: Nà wǒ zài xiángxì shuōmíng yíxià. Zhè ge xuǎnzé fèiyong dī, érqiě jiéguǒ bǐjiào wěndìng.*<br>
@@ -338,10 +338,10 @@ Answer in complete Mandarin sentences.
 Translate before opening the support panel.
 
 1. It seemed like you disagreed with my decision just now.
-2. Actually, I am not opposing you. I just feel the reason has not been explained clearly yet.
+2. Actually, I am not against you. I just feel the reason has not been explained clearly yet.
 3. Then I'll explain in more detail. This choice has a low cost, and the result is relatively stable.
 4. Now that you put it that way, I understand. Your opinion does make sense.
-5. Thanks for saying it directly, otherwise I might continue misunderstanding.
+5. Thanks for saying that directly. Otherwise, I might have continued to misunderstand you.
 
 <details>
 <summary>Show pinyin, English, and model answers</summary>
@@ -354,7 +354,7 @@ Translate before opening the support panel.
 
 2. 甲：其实我不是反对你。我只是觉得原因还没有说清楚。<br>
    *Jiǎ: Qíshí wǒ bú shì fǎnduì nǐ. Wǒ zhǐshì juéde yuányīn hái méiyǒu shuō qīngchu.*<br>
-   Actually, I am not opposing you. I just feel the reason has not been explained clearly yet.
+   Actually, I am not against you. I just feel the reason has not been explained clearly yet.
 
 3. 乙：那我再详细说明一下。这个选择费用低，而且结果比较稳定。<br>
    *Yǐ: Nà wǒ zài xiángxì shuōmíng yíxià. Zhè ge xuǎnzé fèiyong dī, érqiě jiéguǒ bǐjiào wěndìng.*<br>
@@ -366,13 +366,13 @@ Translate before opening the support panel.
 
 5. 乙：谢谢你直接说出来，不然我可能会继续误解。<br>
    *Yǐ: Xièxie nǐ zhíjiē shuō chūlái, bùrán wǒ kěnéng huì jìxù wùjiě.*<br>
-   Thanks for saying it directly, otherwise I might continue misunderstanding.
+   Thanks for saying that directly. Otherwise, I might have continued to misunderstand you.
 
 </details>
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 1. Politely disagree or clarify without sounding harsh.
 2. Use ≥4 words: 同意 / 反对 / 原因 / 确实
@@ -380,7 +380,7 @@ Complete the original production tasks from the unit plan:
 Then:
 
 1. Retell the dialogue in three or four connected Mandarin sentences.
-2. Roleplay “我不是反对你 (I am not opposing you)”; change one detail so the first response no longer works.
+2. Roleplay “我不是反对你 (I am not against you)”; change one detail so the first response no longer works.
 3. Ask one natural question back.
 
 <details>
@@ -394,7 +394,7 @@ Then:
 
 2. 乙：谢谢你直接说出来，不然我可能会继续误解。<br>
    *Yǐ: Xièxie nǐ zhíjiē shuō chūlái, bùrán wǒ kěnéng huì jìxù wùjiě.*<br>
-   Thanks for saying it directly, otherwise I might continue misunderstanding.
+   Thanks for saying that directly. Otherwise, I might have continued to misunderstand you.
 
 3. 甲：没关系。讨论的时候说清楚，比表面同意更重要。<br>
    *Jiǎ: Méi guānxi. Tǎolùn de shíhou shuō qīngchu, bǐ biǎomiàn tóngyì gèng zhòngyào.*<br>
@@ -417,7 +417,7 @@ Without notes, summarize today’s situation in three connected sentences. Use a
 
 2. 甲：其实我不是反对你。我只是觉得原因还没有说清楚。<br>
    *Jiǎ: Qíshí wǒ bú shì fǎnduì nǐ. Wǒ zhǐshì juéde yuányīn hái méiyǒu shuō qīngchu.*<br>
-   Actually, I am not opposing you. I just feel the reason has not been explained clearly yet.
+   Actually, I am not against you. I just feel the reason has not been explained clearly yet.
 
 3. 甲：没关系。讨论的时候说清楚，比表面同意更重要。<br>
    *Jiǎ: Méi guānxi. Tǎolùn de shíhou shuō qīngchu, bǐ biǎomiàn tóngyì gèng zhòngyào.*<br>
@@ -425,7 +425,7 @@ Without notes, summarize today’s situation in three connected sentences. Use a
 
 </details>
 
-## Day 3 🟡 — 产生了误解 (A misunderstanding happened)
+## Day 3 🟡 — 产生了误解 (A misunderstanding)
 
 - **Vocab focus:** #21–#30 (pros, cons, correctness)
 - **Review:** summarize Day 1 in 2 sentences.
@@ -455,7 +455,7 @@ Without reopening `vocab.md`:
 
 2. 乙：是吗？我以为重点是今天必须完成所有工作。<br>
    *Yǐ: Shì ma? Wǒ yǐwéi zhòngdiǎn shì jīntiān bìxū wánchéng suǒyǒu gōngzuò.*<br>
-   Really? I thought the key point was that all work had to be completed today.
+   Really? I thought the key point was that all the work had to be completed today.
 
 3. 甲：不是。我的意思是今天先完成第一部分，其他部分可以推迟。<br>
    *Jiǎ: Bú shì. Wǒ de yìsi shì jīntiān xiān wánchéng dì yī bùfen, qítā bùfen kěyǐ tuīchí.*<br>
@@ -493,7 +493,7 @@ Without reopening `vocab.md`:
 
 2. 乙：是吗？我以为重点是今天必须完成所有工作。<br>
    *Yǐ: Shì ma? Wǒ yǐwéi zhòngdiǎn shì jīntiān bìxū wánchéng suǒyǒu gōngzuò.*<br>
-   Really? I thought the key point was that all work had to be completed today.
+   Really? I thought the key point was that all the work had to be completed today.
 
 3. 甲：不是。我的意思是今天先完成第一部分，其他部分可以推迟。<br>
    *Jiǎ: Bú shì. Wǒ de yìsi shì jīntiān xiān wánchéng dì yī bùfen, qítā bùfen kěyǐ tuīchí.*<br>
@@ -532,7 +532,7 @@ Answer in complete Mandarin sentences.
 
 2. 乙：是吗？我以为重点是今天必须完成所有工作。<br>
    *Yǐ: Shì ma? Wǒ yǐwéi zhòngdiǎn shì jīntiān bìxū wánchéng suǒyǒu gōngzuò.*<br>
-   Really? I thought the key point was that all work had to be completed today.
+   Really? I thought the key point was that all the work had to be completed today.
 
 3. 甲：不是。我的意思是今天先完成第一部分，其他部分可以推迟。<br>
    *Jiǎ: Bú shì. Wǒ de yìsi shì jīntiān xiān wánchéng dì yī bùfen, qítā bùfen kěyǐ tuīchí.*<br>
@@ -545,7 +545,7 @@ Answer in complete Mandarin sentences.
 Translate before opening the support panel.
 
 1. Yesterday's message may have caused everyone to misunderstand.
-2. Really? I thought the key point was that all work had to be completed today.
+2. Really? I thought the key point was that all the work had to be completed today.
 3. No. What I meant was to finish the first part today; the other parts can be postponed.
 4. Got it. Next time we can write the key point a bit more clearly.
 5. Then should I also send the team a new message?
@@ -561,7 +561,7 @@ Translate before opening the support panel.
 
 2. 乙：是吗？我以为重点是今天必须完成所有工作。<br>
    *Yǐ: Shì ma? Wǒ yǐwéi zhòngdiǎn shì jīntiān bìxū wánchéng suǒyǒu gōngzuò.*<br>
-   Really? I thought the key point was that all work had to be completed today.
+   Really? I thought the key point was that all the work had to be completed today.
 
 3. 甲：不是。我的意思是今天先完成第一部分，其他部分可以推迟。<br>
    *Jiǎ: Bú shì. Wǒ de yìsi shì jīntiān xiān wánchéng dì yī bùfen, qítā bùfen kěyǐ tuīchí.*<br>
@@ -579,7 +579,7 @@ Translate before opening the support panel.
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 1. Explain a misunderstanding and restate your real meaning.
 2. Use ≥5 words: 误解 / 重点 / 清楚 / 正确 / 错
@@ -587,7 +587,7 @@ Complete the original production tasks from the unit plan:
 Then:
 
 1. Retell the dialogue in three or four connected Mandarin sentences.
-2. Roleplay “产生了误解 (A misunderstanding happened)”; change one detail so the first response no longer works.
+2. Roleplay “产生了误解 (A misunderstanding)”; change one detail so the first response no longer works.
 3. Ask one natural question back.
 
 <details>
@@ -624,7 +624,7 @@ Without notes, summarize today’s situation in three connected sentences. Use a
 
 2. 乙：是吗？我以为重点是今天必须完成所有工作。<br>
    *Yǐ: Shì ma? Wǒ yǐwéi zhòngdiǎn shì jīntiān bìxū wánchéng suǒyǒu gōngzuò.*<br>
-   Really? I thought the key point was that all work had to be completed today.
+   Really? I thought the key point was that all the work had to be completed today.
 
 3. 甲：要。最好用三句话说明重点、时间和下一步。<br>
    *Jiǎ: Yào. Zuì hǎo yòng sān jù huà shuōmíng zhòngdiǎn, shíjiān hé xià yí bù.*<br>
@@ -707,7 +707,7 @@ Without reopening `vocab.md`:
 
 4. 乙：虽然不完美，但是可以先用，再慢慢修改。<br>
    *Yǐ: Suīrán bù wánměi, dànshì kěyǐ xiān yòng, zài mànmàn xiūgǎi.*<br>
-   Although it is not perfect, we can use it first and slowly revise it.
+   Although it is not perfect, we can use it first and refine it gradually.
 
 5. 甲：如果先用这个方案，谁来负责修改细节？<br>
    *Jiǎ: Rúguǒ xiān yòng zhè ge fāng'àn, shéi lái fùzé xiūgǎi xìjié?*<br>
@@ -715,7 +715,7 @@ Without reopening `vocab.md`:
 
 6. 乙：我可以负责第一版，然后请你给我一些建议。<br>
    *Yǐ: Wǒ kěyǐ fùzé dì yī bǎn, ránhòu qǐng nǐ gěi wǒ yìxiē jiànyì.*<br>
-   I can be responsible for the first version, then ask you to give me some suggestions.
+   I can take responsibility for the first draft and then ask you for suggestions.
 
 </details>
 
@@ -742,7 +742,7 @@ Answer in complete Mandarin sentences.
 
 3. 乙：我可以负责第一版，然后请你给我一些建议。<br>
    *Yǐ: Wǒ kěyǐ fùzé dì yī bǎn, ránhòu qǐng nǐ gěi wǒ yìxiē jiànyì.*<br>
-   I can be responsible for the first version, then ask you to give me some suggestions.
+   I can take responsibility for the first draft and then ask you for suggestions.
 
 </details>
 
@@ -753,7 +753,7 @@ Translate before opening the support panel.
 1. This proposal has obvious advantages and also some disadvantages.
 2. What do you think the biggest advantage is?
 3. It is simple, and everyone can easily understand it. The disadvantage is that the details are not refined enough yet.
-4. Although it is not perfect, we can use it first and slowly revise it.
+4. Although it is not perfect, we can use it first and refine it gradually.
 5. If we use this proposal first, who will be responsible for revising the details?
 
 <details>
@@ -775,7 +775,7 @@ Translate before opening the support panel.
 
 4. 乙：虽然不完美，但是可以先用，再慢慢修改。<br>
    *Yǐ: Suīrán bù wánměi, dànshì kěyǐ xiān yòng, zài mànmàn xiūgǎi.*<br>
-   Although it is not perfect, we can use it first and slowly revise it.
+   Although it is not perfect, we can use it first and refine it gradually.
 
 5. 甲：如果先用这个方案，谁来负责修改细节？<br>
    *Jiǎ: Rúguǒ xiān yòng zhè ge fāng'àn, shéi lái fùzé xiūgǎi xìjié?*<br>
@@ -785,7 +785,7 @@ Translate before opening the support panel.
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 1. Compare one option's advantages and disadvantages.
 2. Use ≥4 words: 优点 / 缺点 / 简单 / 复杂
@@ -803,7 +803,7 @@ Then:
 
 1. 乙：虽然不完美，但是可以先用，再慢慢修改。<br>
    *Yǐ: Suīrán bù wánměi, dànshì kěyǐ xiān yòng, zài mànmàn xiūgǎi.*<br>
-   Although it is not perfect, we can use it first and slowly revise it.
+   Although it is not perfect, we can use it first and refine it gradually.
 
 2. 甲：如果先用这个方案，谁来负责修改细节？<br>
    *Jiǎ: Rúguǒ xiān yòng zhè ge fāng'àn, shéi lái fùzé xiūgǎi xìjié?*<br>
@@ -811,7 +811,7 @@ Then:
 
 3. 乙：我可以负责第一版，然后请你给我一些建议。<br>
    *Yǐ: Wǒ kěyǐ fùzé dì yī bǎn, ránhòu qǐng nǐ gěi wǒ yìxiē jiànyì.*<br>
-   I can be responsible for the first version, then ask you to give me some suggestions.
+   I can take responsibility for the first draft and then ask you for suggestions.
 
 </details>
 
@@ -834,7 +834,7 @@ Without notes, summarize today’s situation in three connected sentences. Use a
 
 3. 乙：我可以负责第一版，然后请你给我一些建议。<br>
    *Yǐ: Wǒ kěyǐ fùzé dì yī bǎn, ránhòu qǐng nǐ gěi wǒ yìxiē jiànyì.*<br>
-   I can be responsible for the first version, then ask you to give me some suggestions.
+   I can take responsibility for the first draft and then ask you for suggestions.
 
 </details>
 
@@ -991,7 +991,7 @@ Translate before opening the support panel.
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 1. Roleplay: persuade someone to try a method, then respond to their concern.
 2. Use ≥6 earlier words.
@@ -1071,9 +1071,9 @@ Without reopening `vocab.md`:
    *Jiǎ: Wǒmen yǐjīng tǎolùn le liǎng ge xiǎoshí, xiànzài yīnggāi zuò juédìng le.*<br>
    We have already discussed for two hours. Now we should make a decision.
 
-2. 乙：我同意。方案A比较安全，方案B可能进步更快。<br>
-   *Yǐ: Wǒ tóngyì. Fāng'àn A bǐjiào ānquán, fāng'àn B kěnéng jìnbù gèng kuài.*<br>
-   I agree. Proposal A is safer; Proposal B may improve faster.
+2. 乙：我同意。方案A比较安全，方案B可能让我们进步得更快。<br>
+   *Yǐ: Wǒ tóngyì. Fāng'àn A bǐjiào ānquán, fāng'àn B kěnéng ràng wǒmen jìnbù de gèng kuài.*<br>
+   I agree. Proposal A is safer; Proposal B may help us make progress faster.
 
 3. 甲：我的意见是先选择A。毕竟我们现在最需要稳定。<br>
    *Jiǎ: Wǒ de yìjiàn shì xiān xuǎnzé A. Bìjìng wǒmen xiànzài zuì xūyào wěndìng.*<br>
@@ -1084,11 +1084,11 @@ Without reopening `vocab.md`:
 ### 2. Read first: characters only
 
 - 甲：我们已经讨论了两个小时，现在应该做决定了。
-- 乙：我同意。方案A比较安全，方案B可能进步更快。
+- 乙：我同意。方案A比较安全，方案B可能让我们进步得更快。
 - 甲：我的意见是先选择A。毕竟我们现在最需要稳定。
 - 乙：可以。另外，我们下个月再看结果，如果效果不好，再讨论B。
-- 甲：那我们需要把决定写成邮件吗？
-- 乙：需要。这样每个人都能清楚知道原因和安排。
+- 甲：那我们需要把决定写在邮件里吗？
+- 乙：需要。这样每个人都能清楚地知道原因和安排。
 
 **Mini glossary (non-target support)**
 
@@ -1109,9 +1109,9 @@ Without reopening `vocab.md`:
    *Jiǎ: Wǒmen yǐjīng tǎolùn le liǎng ge xiǎoshí, xiànzài yīnggāi zuò juédìng le.*<br>
    We have already discussed for two hours. Now we should make a decision.
 
-2. 乙：我同意。方案A比较安全，方案B可能进步更快。<br>
-   *Yǐ: Wǒ tóngyì. Fāng'àn A bǐjiào ānquán, fāng'àn B kěnéng jìnbù gèng kuài.*<br>
-   I agree. Proposal A is safer; Proposal B may improve faster.
+2. 乙：我同意。方案A比较安全，方案B可能让我们进步得更快。<br>
+   *Yǐ: Wǒ tóngyì. Fāng'àn A bǐjiào ānquán, fāng'àn B kěnéng ràng wǒmen jìnbù de gèng kuài.*<br>
+   I agree. Proposal A is safer; Proposal B may help us make progress faster.
 
 3. 甲：我的意见是先选择A。毕竟我们现在最需要稳定。<br>
    *Jiǎ: Wǒ de yìjiàn shì xiān xuǎnzé A. Bìjìng wǒmen xiànzài zuì xūyào wěndìng.*<br>
@@ -1119,15 +1119,15 @@ Without reopening `vocab.md`:
 
 4. 乙：可以。另外，我们下个月再看结果，如果效果不好，再讨论B。<br>
    *Yǐ: Kěyǐ. Lìngwài, wǒmen xià ge yuè zài kàn jiéguǒ, rúguǒ xiàoguǒ bù hǎo, zài tǎolùn B.*<br>
-   Okay. Also, next month we'll look at the result again. If the effect is not good, we'll discuss B.
+   Okay. Also, next month we'll review the results. If the results are not good, we'll discuss B.
 
-5. 甲：那我们需要把决定写成邮件吗？<br>
-   *Jiǎ: Nà wǒmen xūyào bǎ juédìng xiě chéng yóujiàn ma?*<br>
-   Then do we need to write the decision as an email?
+5. 甲：那我们需要把决定写在邮件里吗？<br>
+   *Jiǎ: Nà wǒmen xūyào bǎ juédìng xiě zài yóujiàn lǐ ma?*<br>
+   Then do we need to put the decision in an email?
 
-6. 乙：需要。这样每个人都能清楚知道原因和安排。<br>
-   *Yǐ: Xūyào. Zhèyàng měi ge rén dōu néng qīngchu zhīdào yuányīn hé ānpái.*<br>
-   Yes. This way everyone can clearly know the reason and arrangement.
+6. 乙：需要。这样每个人都能清楚地知道原因和安排。<br>
+   *Yǐ: Xūyào. Zhèyàng měi ge rén dōu néng qīngchu de zhīdào yuányīn hé ānpái.*<br>
+   Yes. This way everyone will clearly understand the reasons and the plan.
 
 </details>
 
@@ -1144,9 +1144,9 @@ Answer in complete Mandarin sentences.
 
 #### Dialogue questions — Model evidence
 
-1. 乙：我同意。方案A比较安全，方案B可能进步更快。<br>
-   *Yǐ: Wǒ tóngyì. Fāng'àn A bǐjiào ānquán, fāng'àn B kěnéng jìnbù gèng kuài.*<br>
-   I agree. Proposal A is safer; Proposal B may improve faster.
+1. 乙：我同意。方案A比较安全，方案B可能让我们进步得更快。<br>
+   *Yǐ: Wǒ tóngyì. Fāng'àn A bǐjiào ānquán, fāng'àn B kěnéng ràng wǒmen jìnbù de gèng kuài.*<br>
+   I agree. Proposal A is safer; Proposal B may help us make progress faster.
 
 2. 甲：我的意见是先选择A。毕竟我们现在最需要稳定。<br>
    *Jiǎ: Wǒ de yìjiàn shì xiān xuǎnzé A. Bìjìng wǒmen xiànzài zuì xūyào wěndìng.*<br>
@@ -1154,7 +1154,7 @@ Answer in complete Mandarin sentences.
 
 3. 乙：可以。另外，我们下个月再看结果，如果效果不好，再讨论B。<br>
    *Yǐ: Kěyǐ. Lìngwài, wǒmen xià ge yuè zài kàn jiéguǒ, rúguǒ xiàoguǒ bù hǎo, zài tǎolùn B.*<br>
-   Okay. Also, next month we'll look at the result again. If the effect is not good, we'll discuss B.
+   Okay. Also, next month we'll review the results. If the results are not good, we'll discuss B.
 
 </details>
 
@@ -1163,10 +1163,10 @@ Answer in complete Mandarin sentences.
 Translate before opening the support panel.
 
 1. We have already discussed for two hours. Now we should make a decision.
-2. I agree. Proposal A is safer; Proposal B may improve faster.
+2. I agree. Proposal A is safer; Proposal B may help us make progress faster.
 3. My opinion is to choose A first. After all, what we need most now is stability.
-4. Okay. Also, next month we'll look at the result again. If the effect is not good, we'll discuss B.
-5. Then do we need to write the decision as an email?
+4. Okay. Also, next month we'll review the results. If the results are not good, we'll discuss B.
+5. Then do we need to put the decision in an email?
 
 <details>
 <summary>Show pinyin, English, and model answers</summary>
@@ -1177,9 +1177,9 @@ Translate before opening the support panel.
    *Jiǎ: Wǒmen yǐjīng tǎolùn le liǎng ge xiǎoshí, xiànzài yīnggāi zuò juédìng le.*<br>
    We have already discussed for two hours. Now we should make a decision.
 
-2. 乙：我同意。方案A比较安全，方案B可能进步更快。<br>
-   *Yǐ: Wǒ tóngyì. Fāng'àn A bǐjiào ānquán, fāng'àn B kěnéng jìnbù gèng kuài.*<br>
-   I agree. Proposal A is safer; Proposal B may improve faster.
+2. 乙：我同意。方案A比较安全，方案B可能让我们进步得更快。<br>
+   *Yǐ: Wǒ tóngyì. Fāng'àn A bǐjiào ānquán, fāng'àn B kěnéng ràng wǒmen jìnbù de gèng kuài.*<br>
+   I agree. Proposal A is safer; Proposal B may help us make progress faster.
 
 3. 甲：我的意见是先选择A。毕竟我们现在最需要稳定。<br>
    *Jiǎ: Wǒ de yìjiàn shì xiān xuǎnzé A. Bìjìng wǒmen xiànzài zuì xūyào wěndìng.*<br>
@@ -1187,17 +1187,17 @@ Translate before opening the support panel.
 
 4. 乙：可以。另外，我们下个月再看结果，如果效果不好，再讨论B。<br>
    *Yǐ: Kěyǐ. Lìngwài, wǒmen xià ge yuè zài kàn jiéguǒ, rúguǒ xiàoguǒ bù hǎo, zài tǎolùn B.*<br>
-   Okay. Also, next month we'll look at the result again. If the effect is not good, we'll discuss B.
+   Okay. Also, next month we'll review the results. If the results are not good, we'll discuss B.
 
-5. 甲：那我们需要把决定写成邮件吗？<br>
-   *Jiǎ: Nà wǒmen xūyào bǎ juédìng xiě chéng yóujiàn ma?*<br>
-   Then do we need to write the decision as an email?
+5. 甲：那我们需要把决定写在邮件里吗？<br>
+   *Jiǎ: Nà wǒmen xūyào bǎ juédìng xiě zài yóujiàn lǐ ma?*<br>
+   Then do we need to put the decision in an email?
 
 </details>
 
 ### 5. Create and speak
 
-Complete the original production tasks from the unit plan:
+Complete these production tasks:
 
 - You and GPT: share opinions → clarify misunderstanding → compare pros/cons → make a decision.
   - Constraints: 3–4 sentences/turn; reuse ≥8 ⭐ Core words; include one gentle disagreement.
@@ -1215,15 +1215,15 @@ Then:
 
 1. 乙：可以。另外，我们下个月再看结果，如果效果不好，再讨论B。<br>
    *Yǐ: Kěyǐ. Lìngwài, wǒmen xià ge yuè zài kàn jiéguǒ, rúguǒ xiàoguǒ bù hǎo, zài tǎolùn B.*<br>
-   Okay. Also, next month we'll look at the result again. If the effect is not good, we'll discuss B.
+   Okay. Also, next month we'll review the results. If the results are not good, we'll discuss B.
 
-2. 甲：那我们需要把决定写成邮件吗？<br>
-   *Jiǎ: Nà wǒmen xūyào bǎ juédìng xiě chéng yóujiàn ma?*<br>
-   Then do we need to write the decision as an email?
+2. 甲：那我们需要把决定写在邮件里吗？<br>
+   *Jiǎ: Nà wǒmen xūyào bǎ juédìng xiě zài yóujiàn lǐ ma?*<br>
+   Then do we need to put the decision in an email?
 
-3. 乙：需要。这样每个人都能清楚知道原因和安排。<br>
-   *Yǐ: Xūyào. Zhèyàng měi ge rén dōu néng qīngchu zhīdào yuányīn hé ānpái.*<br>
-   Yes. This way everyone can clearly know the reason and arrangement.
+3. 乙：需要。这样每个人都能清楚地知道原因和安排。<br>
+   *Yǐ: Xūyào. Zhèyàng měi ge rén dōu néng qīngchu de zhīdào yuányīn hé ānpái.*<br>
+   Yes. This way everyone will clearly understand the reasons and the plan.
 
 </details>
 
@@ -1240,13 +1240,13 @@ Without notes, summarize today’s situation in three connected sentences. Use a
    *Jiǎ: Wǒmen yǐjīng tǎolùn le liǎng ge xiǎoshí, xiànzài yīnggāi zuò juédìng le.*<br>
    We have already discussed for two hours. Now we should make a decision.
 
-2. 乙：我同意。方案A比较安全，方案B可能进步更快。<br>
-   *Yǐ: Wǒ tóngyì. Fāng'àn A bǐjiào ānquán, fāng'àn B kěnéng jìnbù gèng kuài.*<br>
-   I agree. Proposal A is safer; Proposal B may improve faster.
+2. 乙：我同意。方案A比较安全，方案B可能让我们进步得更快。<br>
+   *Yǐ: Wǒ tóngyì. Fāng'àn A bǐjiào ānquán, fāng'àn B kěnéng ràng wǒmen jìnbù de gèng kuài.*<br>
+   I agree. Proposal A is safer; Proposal B may help us make progress faster.
 
-3. 乙：需要。这样每个人都能清楚知道原因和安排。<br>
-   *Yǐ: Xūyào. Zhèyàng měi ge rén dōu néng qīngchu zhīdào yuányīn hé ānpái.*<br>
-   Yes. This way everyone can clearly know the reason and arrangement.
+3. 乙：需要。这样每个人都能清楚地知道原因和安排。<br>
+   *Yǐ: Xūyào. Zhèyàng měi ge rén dōu néng qīngchu de zhīdào yuányīn hé ānpái.*<br>
+   Yes. This way everyone will clearly understand the reasons and the plan.
 
 </details>
 
