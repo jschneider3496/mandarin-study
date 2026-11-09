@@ -17,6 +17,7 @@ Create new units and rewrite existing units according to `LESSON-DESIGN.md`. Pre
 - Unit 6: Errands, banking/post office, shopping comparisons, returns, and invoices
 - Unit 7: Opinions, suggestions, misunderstandings, pros/cons, and decisions
 - Unit 8: Technology, login/file problems, learning apps, translation habits, and progress
+- Unit 9: Personalized background, UMD, software engineering in Chicago, active hobbies, outdoor plans, and travel
 
 ## Review strategy upgrades
 
@@ -27,6 +28,7 @@ Create new units and rewrite existing units according to `LESSON-DESIGN.md`. Pre
 - After Unit 4: mix Units 1–4
 - After Unit 6: mix Units 1–6, with emphasis on service interactions
 - After Unit 8: mix Units 5–8, with emphasis on problems, advice, and decisions
+- After Unit 9: mix Units 1, 3, 4, and 9, with emphasis on a natural personal introduction and follow-up questions
 
 Suggested weekly session (25–35 min):
 - 8 min vocab lightning round (timed)

@@ -11,7 +11,7 @@ Current target difficulty: **4–6 / 10**
 
 - No handwriting practice
 - Optimized for **speech-to-text** (answer in characters; pinyin is OK)
-- 8 units × 6 days each
+- 9 units × 6 days each
 - Each unit has **40 key words** (targets). Readings may include extra simple words (listed in a mini glossary).
 
 **Format note:** Every unit uses the practice-first format. Its `lessons.md` integrates the daily plan, retrieval, dialogue reading, comprehension, English→Mandarin translation, original production, roleplay, completion criteria, and collapsed support panels. Open each panel only after attempting its exercise.
@@ -43,6 +43,7 @@ Move on when you can:
 - **Unit 6 (Errands/shopping):** service-counter requests, payment, returns, comparing price/quality, and polite problem solving
 - **Unit 7 (Opinions):** 看法/意见/建议, polite disagreement, misunderstanding repair, pros/cons, and decisions
 - **Unit 8 (Technology/learning):** apps, login/file problems, study habits, 依赖/坚持/提高, and troubleshooting sequences
+- **Unit 9 (Personal background/active life):** Maryland and UMD, software engineering in Chicago, active hobbies, outdoor plans, clarification, and flexible self-introduction
 
 ## Optional pronunciation / tone workflow (no audio files required)
 
